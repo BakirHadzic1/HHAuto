@@ -2,15 +2,66 @@
 <html lang="hr">
 <head>
   <meta charset="UTF-8">
-  <title>Vozila</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Vozila | HH Auto Travnik</title>
   <link rel="stylesheet" href="vozila.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
 </head>
-<body>
+<body class="vehicles-page">
+  <header class="vehicles-header">
+    <a href="./index.html" class="brand">
+      <img src="https://www.hh-rentacar.com/static/logo_white-32c3b8cbfd91cf0c909f40c398110c38.svg" alt="HH Auto Logo" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+      <span>HH AUTO</span>
+    </a>
+    <nav>
+      <a href="./index.html">Početna</a>
+      <a href="https://hhauto.olx.ba/" target="_blank" rel="noopener">PIK/OLX shop</a>
+      <a href="./index.html#kontakt">Kontakt</a>
+    </nav>
+  </header>
 
-<h1>Ponuda vozila</h1>
+  <main>
+    <section class="vehicles-hero">
+      <div class="hero-copy">
+        <p class="eyebrow">HH Auto Travnik</p>
+        <h1>Ponuda vozila</h1>
+        <p>Ovdje je kratak pregled ponude i tipova vozila. Za sve trenutno aktivne oglase, najnovije cijene i dostupnost otvorite naš PIK/OLX shop.</p>
+        <p class="sync-info" data-vehicles-info>Učitavanje aktivnih oglasa...</p>
+        <div class="hero-actions">
+          <a href="https://hhauto.olx.ba/" target="_blank" rel="noopener" class="primary-btn">
+            <i class="fas fa-external-link-alt"></i>
+            Sva auta na PIK-u
+          </a>
+          <a href="tel:+38761696704" class="secondary-btn">
+            <i class="fas fa-phone"></i>
+            Pozovi
+          </a>
+        </div>
+      </div>
+      <div class="hero-panel">
+        <span>Aktivna ponuda</span>
+        <strong>PIK/OLX</strong>
+        <p>Kompletan katalog je uvijek na profilu HHAUTO.</p>
+      </div>
+    </section>
 
-<div id="ponuda"></div>
+    <section class="vehicles-section">
+      <div class="section-title">
+        <h2>Izdvojeno iz ponude</h2>
+        <p>Izlog vozila i usluga, uz direktan put do aktuelnih oglasa.</p>
+      </div>
+      <div id="ponuda" class="cars-grid"></div>
+    </section>
 
-<script src="vozila.js"></script>
+    <section class="pik-strip">
+      <div>
+        <h2>Želite kompletnu listu?</h2>
+        <p>PIK/OLX se najčešće osvježava, zato je tamo najbolji pregled svih dostupnih vozila.</p>
+      </div>
+      <a href="https://hhauto.olx.ba/" target="_blank" rel="noopener" class="primary-btn">Otvori PIK shop</a>
+    </section>
+  </main>
+
+  <script src="vozila.js"></script>
 </body>
 </html>

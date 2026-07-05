@@ -53,6 +53,10 @@
         <h1>HH AUTO TRAVNIK</h1>
         <hr>
         <p>UVOZ I PRODAJA RABLJENIH VOZILA • IZNAJMLJIVANJE VOZILA</p>
+        <div class="hero-actions">
+          <a href="#ponuda-vozila" class="cta">Pogledaj ponudu</a>
+          <a href="https://hhauto.olx.ba/" target="_blank" rel="noopener" class="cta cta-outline">Sva auta na PIK-u</a>
+        </div>
       </div>
     </section>
 
@@ -101,19 +105,19 @@
         <div class="ponuda-left">
           <h2>Ponuda vozila</h2>
           <hr>
-          <p>Pogledajte dio naše ponude.</p>
+          <p>Pogledajte dio naše ponude, a kompletna i najnovija lista vozila je dostupna na našem PIK/OLX shopu.</p>
+          <p class="sync-info" data-vehicles-info>Učitavanje aktivnih oglasa...</p>
 
           <div id="ponuda" class="cars-grid"></div>
 
-          <p class="muted">Za više informacija kontaktirajte nas putem kontakt forme ili pozovite naš kontakt telefon.</p>
+          <p class="muted">Cijene, stanje i dostupnost vozila se najbrže provjeravaju direktno na PIK-u ili pozivom na kontakt telefon.</p>
 
-          <a href="./vozila.html" class="button-auta">Više</a>
+          <div class="offer-actions">
+            <a href="./vozila.html" class="button-auta">Detaljnije</a>
+            <a href="https://hhauto.olx.ba/" target="_blank" rel="noopener" class="button-auta button-yellow">Sva auta na PIK-u</a>
+          </div>
         </div>
 
-        <div class="ponuda-right">
-          <img src="https://www.hh-rentacar.com/static/logo_white-32c3b8cbfd91cf0c909f40c398110c38.svg" alt="HH Auto" />
-          <div class="background-text small">HH AUTO</div>
-        </div>
       </div>
     </section>
 
@@ -187,10 +191,11 @@
     </section>
 
     <footer class="footer">
-      <p>© <span id="year"></span> HH Auto Travnik. Sva prava zadržana.</p>
+      <p>© <span id="year"></span> HHAuto Travnik. Sva prava zadržana.</p>
     </footer>
   </main>
 
+  <script src="./vozila.js"></script>
   <script src="./script.js"></script>
 </body>
 </html>

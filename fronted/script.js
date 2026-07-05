@@ -1,4 +1,20 @@
 document.addEventListener("DOMContentLoaded", () => {
+    const year = document.getElementById("year");
+    if (year) {
+      year.textContent = new Date().getFullYear();
+    }
+
+    const contactForm = document.getElementById("contactForm");
+    const formStatus = document.getElementById("formStatus");
+
+    if (contactForm && formStatus) {
+      contactForm.addEventListener("submit", (event) => {
+        event.preventDefault();
+        formStatus.textContent = "Hvala na poruci. Za najbrži odgovor pozovite nas na (+387) 61 696 704.";
+        contactForm.reset();
+      });
+    }
+
     
     const hamburger = document.querySelector(".hamburger");
     const navLinks = document.querySelector(".nav-links");

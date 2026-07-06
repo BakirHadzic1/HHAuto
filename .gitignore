@@ -1,0 +1,5 @@
+node_modules/
+.vercel/
+.DS_Store
+fronted/.DS_Store
+fronted/slike/.DS_Store

@@ -11,3 +11,9 @@ python3 scripts/sync_olx.py
 ```
 
 Na GitHubu postoji workflow `Update OLX vehicles` koji jednom dnevno osvježava JSON i commita promjenu ako se OLX ponuda promijenila.
+
+## Vercel deploy
+
+Repo ima `vercel.json` u glavnom folderu. Vercel treba deployati statičke fajlove iz foldera `fronted`.
+
+Najlakši deploy je import repozitorija `BakirHadzic1/HHAuto` u Vercel i ostaviti build command prazan. Output directory je podešen na `fronted`.

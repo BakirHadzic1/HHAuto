@@ -3,15 +3,68 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta name="description" content="HH Auto Travnik - uvoz i prodaja rabljenih vozila, rent-a-car usluge i aktivna ponuda vozila sa OLX/PIK profila." />
-  <meta name="keywords" content="HH Auto Travnik, prodaja auta Travnik, rabljena vozila, uvoz auta, rent a car Travnik, OLX auta Travnik" />
-  <meta property="og:title" content="HH Auto Travnik" />
-  <meta property="og:description" content="Uvoz i prodaja rabljenih vozila u Travniku. Pogledajte aktivnu ponudu HH Auto vozila." />
+  <meta name="description" content="Zvanična stranica HH Auto Travnik. Uvoz i prodaja rabljenih vozila, rent-a-car usluge, aktivna ponuda vozila i kontakt: Mostarska bb, Travnik." />
+  <meta name="keywords" content="HH Auto, HHAUTO, HH Auto Travnik, hhauto.ba, prodaja auta Travnik, rabljena vozila, uvoz auta, rent a car Travnik, OLX auta Travnik" />
+  <meta name="robots" content="index, follow, max-image-preview:large" />
+  <meta name="geo.region" content="BA-BIH" />
+  <meta name="geo.placename" content="Travnik" />
+  <meta name="geo.position" content="44.224697;17.682910" />
+  <meta name="ICBM" content="44.224697, 17.682910" />
+  <meta property="og:title" content="HH Auto Travnik | Zvanična stranica" />
+  <meta property="og:description" content="Zvanična stranica HH Auto Travnik za uvoz i prodaju rabljenih vozila, rent-a-car usluge i aktuelnu ponudu vozila." />
   <meta property="og:type" content="website" />
   <meta property="og:url" content="https://www.hhauto.ba/" />
   <meta property="og:image" content="https://www.hhauto.ba/slike/IMG_4692.jpg" />
   <link rel="canonical" href="https://www.hhauto.ba/" />
-  <title>HH Auto Travnik | Uvoz i prodaja rabljenih vozila</title>
+  <title>HH Auto Travnik | Zvanična stranica | Uvoz i prodaja vozila</title>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "AutoDealer",
+        "@id": "https://www.hhauto.ba/#business",
+        "name": "HH Auto Travnik",
+        "legalName": "HH AUTO d.o.o. Travnik",
+        "url": "https://www.hhauto.ba/",
+        "logo": "https://www.hhauto.ba/static/logo_white-32c3b8cbfd91cf0c909f40c398110c38.svg",
+        "image": "https://www.hhauto.ba/slike/IMG_4692.jpg",
+        "description": "HH Auto Travnik je auto kuca za uvoz i prodaju rabljenih vozila, uz rent-a-car usluge i aktivnu ponudu vozila.",
+        "telephone": "+38761696704",
+        "email": "info@hhauto.ba",
+        "priceRange": "$$",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Mostarska bb",
+          "addressLocality": "Travnik",
+          "postalCode": "72270",
+          "addressCountry": "BA"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 44.224697,
+          "longitude": 17.682910
+        },
+        "areaServed": ["Travnik", "Bosna i Hercegovina"],
+        "sameAs": [
+          "https://hhauto.olx.ba/",
+          "https://www.facebook.com/hhauto1/",
+          "https://www.instagram.com/hhauto1.1/"
+        ]
+      },
+      {
+        "@type": "WebSite",
+        "@id": "https://www.hhauto.ba/#website",
+        "name": "HH Auto Travnik",
+        "alternateName": ["HHAUTO", "HH Auto"],
+        "url": "https://www.hhauto.ba/",
+        "publisher": {
+          "@id": "https://www.hhauto.ba/#business"
+        }
+      }
+    ]
+  }
+  </script>
 
   <link rel="stylesheet" href="./style.css" />
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" />
@@ -21,7 +74,7 @@
   <header>
     <div class="container">
       <div class="logo">
-        <img src="https://www.hh-rentacar.com/static/logo_white-32c3b8cbfd91cf0c909f40c398110c38.svg" alt="HH Auto Logo" />
+        <img src="./static/logo_white-32c3b8cbfd91cf0c909f40c398110c38.svg" alt="HH Auto Travnik logo" />
       </div>
 
       <nav>
@@ -73,7 +126,7 @@
         <div class="content content-narrow">
           <h2>O nama</h2>
           <hr>
-          <p>HH AUTO je domaća kompanija koja se bavi uvozom i prodajom rabljenih vozila. Također nudimo mogućnost iznajmljivanja vozila u sklopu naše kompanije.</p>
+          <p>Ovo je zvanična web stranica HH Auto Travnik. HH AUTO je domaća kompanija koja se bavi uvozom i prodajom rabljenih vozila. Također nudimo mogućnost iznajmljivanja vozila u sklopu naše kompanije.</p>
           <p>Prepoznatljivi smo na tržištu po kvaliteti, dobroj usluzi i sigurnoj kupovini.</p>
           <p>HH AUTO je nastao 2015. godine u Travniku gdje se i nalazi naše sjedište. Nudimo preko 30 vozila različitih proizvođača, te imamo listu od preko 1123 uspješno sklopljenih prodajnih ugovora.</p>
           <button class="btn" onclick="window.location.href='#zasto-hhauto'">Više</button>
@@ -186,12 +239,22 @@
             <hr>
             <div class="contact-item">
               <i class="fas fa-phone"></i>
-              <p>Telefon: (+387) 61 696 704</p>
+              <p>Telefon: <a href="tel:+38761696704">(+387) 61 696 704</a></p>
             </div>
             <hr>
             <div class="contact-item">
               <i class="fas fa-map-marker-alt"></i>
-              <p>Adresa: Travnička 123, Travnik, BiH</p>
+              <p>Adresa: Mostarska bb, 72270 Travnik, BiH</p>
+            </div>
+            <hr>
+            <div class="contact-item">
+              <i class="fab fa-facebook-f"></i>
+              <p>Facebook: <a href="https://www.facebook.com/hhauto1/" target="_blank" rel="noopener">HH Auto Travnik</a></p>
+            </div>
+            <hr>
+            <div class="contact-item">
+              <i class="fab fa-instagram"></i>
+              <p>Instagram: <a href="https://www.instagram.com/hhauto1.1/" target="_blank" rel="noopener">@hhauto1.1</a></p>
             </div>
           </div>
         </div>

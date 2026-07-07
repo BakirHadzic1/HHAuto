@@ -10,7 +10,7 @@ document.addEventListener("DOMContentLoaded", () => {
     if (contactForm && formStatus) {
       contactForm.addEventListener("submit", (event) => {
         event.preventDefault();
-        formStatus.textContent = "Hvala na poruci. Za najbrži odgovor pozovite nas na (+387) 61 696 704.";
+        formStatus.textContent = "Hvala na poruci. Za najbrži odgovor pišite na info@hhauto.ba ili pozovite (+387) 61 696 704.";
         contactForm.reset();
       });
     }

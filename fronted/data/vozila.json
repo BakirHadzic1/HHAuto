@@ -1,6 +1,6 @@
 {
   "source": "https://hhauto.olx.ba/aktivni",
-  "updatedAt": "2026-07-09T08:24:22.959776+00:00",
+  "updatedAt": "2026-07-10T08:18:35.242186+00:00",
   "count": 39,
   "vehicles": [
     {
@@ -13,7 +13,7 @@
       "km": "258.000 km",
       "year": "2015",
       "price": "Na upit",
-      "updated": "prije 9 minuta",
+      "updated": "prije 3 minute",
       "labels": [
         "Izdvojeno",
         "Dostupno odmah"
@@ -29,7 +29,7 @@
       "km": "273.313 km",
       "year": "2014",
       "price": "Na upit",
-      "updated": "prije 9 minuta",
+      "updated": "prije 3 minute",
       "labels": [
         "Izdvojeno",
         "Dostupno odmah"
@@ -45,7 +45,7 @@
       "km": "236.934 km",
       "year": "2017",
       "price": "24.999 KM",
-      "updated": "prije 10 minuta",
+      "updated": "prije 4 minute",
       "labels": [
         "Izdvojeno"
       ]
@@ -60,7 +60,7 @@
       "km": "182.078 km",
       "year": "2020",
       "price": "18.999 KM",
-      "updated": "prije 10 minuta",
+      "updated": "prije 5 minuta",
       "labels": [
         "Izdvojeno",
         "Dostupno odmah"
@@ -76,7 +76,7 @@
       "km": "296.356 km",
       "year": "2012",
       "price": "Na upit",
-      "updated": "prije 11 minuta",
+      "updated": "prije 5 minuta",
       "labels": [
         "Izdvojeno",
         "Dostupno odmah"
@@ -92,7 +92,7 @@
       "km": "160.012 km",
       "year": "2022",
       "price": "Na upit",
-      "updated": "prije 11 minuta",
+      "updated": "prije 5 minuta",
       "labels": [
         "Izdvojeno",
         "Dostupno odmah"
@@ -108,7 +108,7 @@
       "km": "171.068 km",
       "year": "2019",
       "price": "Na upit",
-      "updated": "prije 12 minuta",
+      "updated": "prije 6 minuta",
       "labels": [
         "Izdvojeno",
         "Dostupno odmah"
@@ -163,6 +163,21 @@
       ]
     },
     {
+      "id": "76319527",
+      "name": "Volkswagen Golf 1.9 TDI 2007 GOD. - UNITED - 77 kW",
+      "url": "https://hhauto.olx.ba/artikal/76319527",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/76319527/sm/img-1777913909-e85359b60d9b.jpg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "262.985 km",
+      "year": "2007",
+      "price": "8.999 KM",
+      "updated": "prije jednog sata",
+      "labels": [
+        "Izdvojeno"
+      ]
+    },
+    {
       "id": "75744316",
       "name": "BMW X6 M50d 12/2020",
       "url": "https://hhauto.olx.ba/artikal/75744316",
@@ -172,7 +187,7 @@
       "km": "91.563 km",
       "year": "2020",
       "price": "Na upit",
-      "updated": "prije 3 sata",
+      "updated": "prije 2 sata",
       "labels": [
         "Izdvojeno",
         "Dostupno odmah"
@@ -188,9 +203,8 @@
       "km": "121.862 km",
       "year": "2017",
       "price": "Na upit",
-      "updated": "prije 3 sata",
+      "updated": "prije 12 sati",
       "labels": [
-        "Izdvojeno",
         "Dostupno odmah"
       ]
     },
@@ -204,9 +218,8 @@
       "km": "208.647 km",
       "year": "2020",
       "price": "Na upit",
-      "updated": "prije 3 sata",
+      "updated": "prije 12 sati",
       "labels": [
-        "Izdvojeno",
         "Dostupno odmah"
       ]
     },
@@ -220,9 +233,8 @@
       "km": "275.000 km",
       "year": "2015",
       "price": "Na upit",
-      "updated": "prije 3 sata",
+      "updated": "prije 12 sati",
       "labels": [
-        "Izdvojeno",
         "Dostupno odmah"
       ]
     },
@@ -235,11 +247,9 @@
       "fuel": "dizel",
       "km": "177.330 km",
       "year": "2023",
-      "price": "Na upit",
-      "updated": "prije 3 sata",
-      "labels": [
-        "Izdvojeno"
-      ]
+      "price": "35.999 KM",
+      "updated": "prije 12 sati",
+      "labels": []
     },
     {
       "id": "74117695",
@@ -251,20 +261,7 @@
       "km": "267.787 km",
       "year": "2013",
       "price": "11.999 KM",
-      "updated": "prije 12 sati",
-      "labels": []
-    },
-    {
-      "id": "76319527",
-      "name": "Volkswagen Golf 1.9 TDI 2007 GOD. - UNITED - 77 kW",
-      "url": "https://hhauto.olx.ba/artikal/76319527",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/76319527/sm/img-1777913909-e85359b60d9b.jpg",
-      "condition": "Polovno",
-      "fuel": "dizel",
-      "km": "262.985 km",
-      "year": "2007",
-      "price": "8.999 KM",
-      "updated": "prije 12 sati",
+      "updated": "prije dan",
       "labels": []
     },
     {
@@ -277,7 +274,7 @@
       "km": "160.080 km",
       "year": "2015",
       "price": "9.500 KM",
-      "updated": "prije 14 sati",
+      "updated": "prije 2 dana",
       "labels": []
     },
     {
@@ -290,7 +287,7 @@
       "km": "96.185 km",
       "year": "2016",
       "price": "69.999 KM",
-      "updated": "prije dan",
+      "updated": "prije 2 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -305,7 +302,7 @@
       "km": "262.170 km",
       "year": "2013",
       "price": "9.999 KM",
-      "updated": "prije dan",
+      "updated": "prije 2 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -320,7 +317,7 @@
       "km": "153.313 km",
       "year": "2016",
       "price": "27.500 KM",
-      "updated": "prije dan",
+      "updated": "prije 2 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -335,7 +332,7 @@
       "km": "102.105 km",
       "year": "2020",
       "price": "74.999 KM",
-      "updated": "prije dan",
+      "updated": "prije 2 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -350,7 +347,7 @@
       "km": "324.000 km",
       "year": "2012",
       "price": "6.999 KM",
-      "updated": "prije dan",
+      "updated": "prije 2 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -365,7 +362,7 @@
       "km": "252.981 km",
       "year": "2010",
       "price": "10.999 KM",
-      "updated": "prije dan",
+      "updated": "prije 2 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -380,7 +377,7 @@
       "km": "205.523 km",
       "year": "2011",
       "price": "7.999 KM",
-      "updated": "prije dan",
+      "updated": "prije 2 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -395,7 +392,7 @@
       "km": "329.883 km",
       "year": "2013",
       "price": "6.500 KM",
-      "updated": "prije dan",
+      "updated": "prije 2 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -410,7 +407,7 @@
       "km": "239.564 km",
       "year": "2011",
       "price": "8.750 KM",
-      "updated": "prije dan",
+      "updated": "prije 2 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -425,7 +422,7 @@
       "km": "287.905 km",
       "year": "2010",
       "price": "6.900 KM",
-      "updated": "prije dan",
+      "updated": "prije 2 dana",
       "labels": []
     },
     {
@@ -438,7 +435,7 @@
       "km": "223.889 km",
       "year": "2015",
       "price": "17.999 KM",
-      "updated": "prije dan",
+      "updated": "prije 2 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -453,7 +450,7 @@
       "km": "300.407 km",
       "year": "2011",
       "price": "6.900 KM",
-      "updated": "prije dan",
+      "updated": "prije 2 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -468,7 +465,7 @@
       "km": "296.491 km",
       "year": "2015",
       "price": "24.999 KM",
-      "updated": "prije 2 dana",
+      "updated": "prije 3 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -483,7 +480,7 @@
       "km": "200.000 km",
       "year": "2010",
       "price": "7.900 KM",
-      "updated": "prije 3 dana",
+      "updated": "prije 4 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -498,7 +495,7 @@
       "km": "269.614 km",
       "year": "2009",
       "price": "7.999 KM",
-      "updated": "prije 3 dana",
+      "updated": "prije 4 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -513,7 +510,7 @@
       "km": "252.904 km",
       "year": "2014",
       "price": "13.999 KM",
-      "updated": "prije 3 dana",
+      "updated": "prije 4 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -528,7 +525,7 @@
       "km": "362.994 km",
       "year": "2012",
       "price": "9.999 KM",
-      "updated": "prije 3 dana",
+      "updated": "prije 4 dana",
       "labels": []
     },
     {
@@ -541,7 +538,7 @@
       "km": "264.428 km",
       "year": "2010",
       "price": "9.999 KM",
-      "updated": "prije 3 dana",
+      "updated": "prije 4 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -556,7 +553,7 @@
       "km": "292.000 km",
       "year": "2010",
       "price": "11.500 KM",
-      "updated": "prije 5 dana",
+      "updated": "prije 6 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -571,7 +568,7 @@
       "km": "274.220 km",
       "year": "2018",
       "price": "25.900 KM",
-      "updated": "prije 7 dana",
+      "updated": "prije 8 dana",
       "labels": []
     },
     {
@@ -584,7 +581,7 @@
       "km": "185.850 km",
       "year": "2014",
       "price": "10.999 KM",
-      "updated": "prije 7 dana",
+      "updated": "prije 8 dana",
       "labels": [
         "Dostupno odmah"
       ]

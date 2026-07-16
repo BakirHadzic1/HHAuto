@@ -1,8 +1,53 @@
 {
   "source": "https://hhauto.olx.ba/aktivni",
-  "updatedAt": "2026-07-15T07:12:34.517938+00:00",
-  "count": 38,
+  "updatedAt": "2026-07-16T07:20:45.774090+00:00",
+  "count": 39,
   "vehicles": [
+    {
+      "id": "78071036",
+      "name": "Volkswagen Golf 1.9 TDI 2004 - REG. 12/26 - BKC",
+      "url": "https://hhauto.olx.ba/artikal/78071036",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/78071036/sm/img-1784136727-267e279ecaf0.jpeg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "331.135 km",
+      "year": "2004",
+      "price": "5.999 KM",
+      "updated": "prije 14 sati",
+      "labels": [
+        "Dostupno odmah"
+      ]
+    },
+    {
+      "id": "78070841",
+      "name": "Seat Ibiza 1.2 TDI 2012 - UVOZ -",
+      "url": "https://hhauto.olx.ba/artikal/78070841",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/78070841/sm/img-1784135806-1e2e9e1b8197.jpeg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "324.545 km",
+      "year": "2012",
+      "price": "6.999 KM",
+      "updated": "prije 14 sati",
+      "labels": [
+        "Dostupno odmah"
+      ]
+    },
+    {
+      "id": "78070265",
+      "name": "Audi Q2 1.6 TDI 2018 - UVOZ -",
+      "url": "https://hhauto.olx.ba/artikal/78070265",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/78070265/sm/img-1784134365-30e940d57f08.jpeg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "177.224 km",
+      "year": "2018",
+      "price": "28.500 KM",
+      "updated": "prije 15 sati",
+      "labels": [
+        "Dostupno odmah"
+      ]
+    },
     {
       "id": "74333901",
       "name": "Volkswagen Polo 1.2 TDI",
@@ -13,7 +58,7 @@
       "km": "200.000 km",
       "year": "2010",
       "price": "7.900 KM",
-      "updated": "prije 2 dana",
+      "updated": "prije 3 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -28,7 +73,7 @@
       "km": "269.614 km",
       "year": "2009",
       "price": "7.999 KM",
-      "updated": "prije 2 dana",
+      "updated": "prije 3 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -43,7 +88,7 @@
       "km": "252.904 km",
       "year": "2014",
       "price": "13.999 KM",
-      "updated": "prije 2 dana",
+      "updated": "prije 3 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -58,7 +103,7 @@
       "km": "362.994 km",
       "year": "2012",
       "price": "9.999 KM",
-      "updated": "prije 2 dana",
+      "updated": "prije 3 dana",
       "labels": []
     },
     {
@@ -71,7 +116,7 @@
       "km": "264.428 km",
       "year": "2010",
       "price": "9.999 KM",
-      "updated": "prije 2 dana",
+      "updated": "prije 3 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -86,23 +131,10 @@
       "km": "292.000 km",
       "year": "2010",
       "price": "11.500 KM",
-      "updated": "prije 2 dana",
+      "updated": "prije 3 dana",
       "labels": [
         "Dostupno odmah"
       ]
-    },
-    {
-      "id": "75862685",
-      "name": "Volkswagen Passat B8 2.0 TDI 2018 DSG-PANORAMA-UVOZ",
-      "url": "https://hhauto.olx.ba/artikal/75862685",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/75862685/sm/img-1776334942-4cb114bdc198.jpg",
-      "condition": "Polovno",
-      "fuel": "dizel",
-      "km": "274.220 km",
-      "year": "2018",
-      "price": "25.900 KM",
-      "updated": "prije 2 dana",
-      "labels": []
     },
     {
       "id": "76319527",
@@ -114,7 +146,7 @@
       "km": "262.985 km",
       "year": "2007",
       "price": "8.999 KM",
-      "updated": "prije 4 dana",
+      "updated": "prije 5 dana",
       "labels": []
     },
     {
@@ -127,7 +159,7 @@
       "km": "287.000 km",
       "year": "2015",
       "price": "59.999 KM",
-      "updated": "prije 5 dana",
+      "updated": "prije 6 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -142,7 +174,7 @@
       "km": "220.280 km",
       "year": "2012",
       "price": "9.500 KM",
-      "updated": "prije 5 dana",
+      "updated": "prije 6 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -157,7 +189,7 @@
       "km": "122.380 km",
       "year": "2021",
       "price": "23.900 KM",
-      "updated": "prije 5 dana",
+      "updated": "prije 6 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -172,7 +204,7 @@
       "km": "258.000 km",
       "year": "2015",
       "price": "18.999 KM",
-      "updated": "prije 5 dana",
+      "updated": "prije 6 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -187,7 +219,7 @@
       "km": "273.313 km",
       "year": "2014",
       "price": "17.999 KM",
-      "updated": "prije 5 dana",
+      "updated": "prije 6 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -202,7 +234,7 @@
       "km": "236.934 km",
       "year": "2017",
       "price": "24.999 KM",
-      "updated": "prije 5 dana",
+      "updated": "prije 6 dana",
       "labels": []
     },
     {
@@ -215,7 +247,7 @@
       "km": "182.078 km",
       "year": "2020",
       "price": "18.999 KM",
-      "updated": "prije 5 dana",
+      "updated": "prije 6 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -230,7 +262,7 @@
       "km": "296.356 km",
       "year": "2012",
       "price": "34.999 KM",
-      "updated": "prije 5 dana",
+      "updated": "prije 6 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -245,7 +277,7 @@
       "km": "160.012 km",
       "year": "2022",
       "price": "34.999 KM",
-      "updated": "prije 5 dana",
+      "updated": "prije 6 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -260,7 +292,7 @@
       "km": "171.068 km",
       "year": "2019",
       "price": "16.999 KM",
-      "updated": "prije 5 dana",
+      "updated": "prije 6 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -275,7 +307,7 @@
       "km": "91.563 km",
       "year": "2020",
       "price": "139.000 KM",
-      "updated": "prije 5 dana",
+      "updated": "prije 6 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -290,7 +322,7 @@
       "km": "121.862 km",
       "year": "2017",
       "price": "44.999 KM",
-      "updated": "prije 5 dana",
+      "updated": "prije 6 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -305,7 +337,7 @@
       "km": "208.647 km",
       "year": "2020",
       "price": "36.900 KM",
-      "updated": "prije 5 dana",
+      "updated": "prije 6 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -320,7 +352,7 @@
       "km": "275.000 km",
       "year": "2015",
       "price": "18.999 KM",
-      "updated": "prije 5 dana",
+      "updated": "prije 6 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -335,7 +367,7 @@
       "km": "177.330 km",
       "year": "2023",
       "price": "35.999 KM",
-      "updated": "prije 5 dana",
+      "updated": "prije 6 dana",
       "labels": []
     },
     {
@@ -348,7 +380,7 @@
       "km": "267.787 km",
       "year": "2013",
       "price": "11.999 KM",
-      "updated": "prije 6 dana",
+      "updated": "prije 7 dana",
       "labels": []
     },
     {
@@ -361,7 +393,7 @@
       "km": "160.080 km",
       "year": "2015",
       "price": "9.500 KM",
-      "updated": "prije 7 dana",
+      "updated": "prije 8 dana",
       "labels": []
     },
     {
@@ -374,7 +406,7 @@
       "km": "96.185 km",
       "year": "2016",
       "price": "69.999 KM",
-      "updated": "prije 7 dana",
+      "updated": "prije 8 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -389,7 +421,7 @@
       "km": "262.170 km",
       "year": "2013",
       "price": "9.999 KM",
-      "updated": "prije 7 dana",
+      "updated": "prije 8 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -404,7 +436,7 @@
       "km": "102.105 km",
       "year": "2020",
       "price": "74.999 KM",
-      "updated": "prije 7 dana",
+      "updated": "prije 8 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -419,7 +451,7 @@
       "km": "205.523 km",
       "year": "2011",
       "price": "7.999 KM",
-      "updated": "prije 7 dana",
+      "updated": "prije 8 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -434,7 +466,7 @@
       "km": "329.883 km",
       "year": "2013",
       "price": "6.500 KM",
-      "updated": "prije 7 dana",
+      "updated": "prije 8 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -449,7 +481,7 @@
       "km": "239.564 km",
       "year": "2011",
       "price": "8.750 KM",
-      "updated": "prije 7 dana",
+      "updated": "prije 8 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -464,7 +496,7 @@
       "km": "287.905 km",
       "year": "2010",
       "price": "6.900 KM",
-      "updated": "prije 7 dana",
+      "updated": "prije 8 dana",
       "labels": []
     },
     {
@@ -477,7 +509,7 @@
       "km": "223.889 km",
       "year": "2015",
       "price": "17.999 KM",
-      "updated": "prije 7 dana",
+      "updated": "prije 8 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -492,7 +524,7 @@
       "km": "300.407 km",
       "year": "2011",
       "price": "6.900 KM",
-      "updated": "prije 7 dana",
+      "updated": "prije 8 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -507,7 +539,7 @@
       "km": "296.491 km",
       "year": "2015",
       "price": "24.999 KM",
-      "updated": "prije 8 dana",
+      "updated": "prije 9 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -522,7 +554,7 @@
       "km": "185.850 km",
       "year": "2014",
       "price": "10.999 KM",
-      "updated": "prije 13 dana",
+      "updated": "prije 14 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -537,22 +569,7 @@
       "km": "165.666 km",
       "year": "2014",
       "price": "8.500 KM",
-      "updated": "prije 18 dana",
-      "labels": [
-        "Dostupno odmah"
-      ]
-    },
-    {
-      "id": "71756495",
-      "name": "Škoda Octavia 1.6 TDI DSG 2018 Registrovan",
-      "url": "https://hhauto.olx.ba/artikal/71756495",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/71756495/sm/img-1761207292-35ab17f40692.jpg",
-      "condition": "Polovno",
-      "fuel": "dizel",
-      "km": "242.938 km",
-      "year": "2018",
-      "price": "19.999 KM",
-      "updated": "prije mjesec",
+      "updated": "prije 19 dana",
       "labels": [
         "Dostupno odmah"
       ]

@@ -1,6 +1,6 @@
 {
   "source": "https://hhauto.olx.ba/aktivni",
-  "updatedAt": "2026-07-21T07:30:17.295199+00:00",
+  "updatedAt": "2026-07-22T07:31:52.656671+00:00",
   "count": 39,
   "vehicles": [
     {
@@ -13,7 +13,7 @@
       "km": "122.380 km",
       "year": "2021",
       "price": "Na upit",
-      "updated": "prije 38 minuta",
+      "updated": "prije 40 minuta",
       "labels": [
         "Izdvojeno",
         "Dostupno odmah"
@@ -29,7 +29,7 @@
       "km": "296.491 km",
       "year": "2015",
       "price": "Na upit",
-      "updated": "prije 40 minuta",
+      "updated": "prije 41 minuta",
       "labels": [
         "Izdvojeno",
         "Dostupno odmah"
@@ -45,7 +45,7 @@
       "km": "262.170 km",
       "year": "2013",
       "price": "Na upit",
-      "updated": "prije 40 minuta",
+      "updated": "prije 42 minuta",
       "labels": [
         "Izdvojeno",
         "Dostupno odmah"
@@ -61,7 +61,7 @@
       "km": "182.078 km",
       "year": "2020",
       "price": "18.999 KM",
-      "updated": "prije 41 minuta",
+      "updated": "prije 42 minuta",
       "labels": [
         "Izdvojeno",
         "Dostupno odmah"
@@ -77,7 +77,7 @@
       "km": "236.934 km",
       "year": "2017",
       "price": "24.999 KM",
-      "updated": "prije 41 minuta",
+      "updated": "prije 42 minuta",
       "labels": [
         "Izdvojeno"
       ]
@@ -92,7 +92,7 @@
       "km": "150.894 km",
       "year": "2019",
       "price": "Na upit",
-      "updated": "prije 41 minuta",
+      "updated": "prije 43 minuta",
       "labels": [
         "Izdvojeno",
         "Dostupno odmah"
@@ -108,7 +108,7 @@
       "km": "274.220 km",
       "year": "2018",
       "price": "Na upit",
-      "updated": "prije 44 minuta",
+      "updated": "prije jednog sata",
       "labels": [
         "Izdvojeno"
       ]
@@ -192,15 +192,62 @@
       ]
     },
     {
-      "id": "72213901",
-      "name": "Volkswagen Passat B8 2.0 TDI/ 2015/ NAVI/ DO REGISTRACIJE",
-      "url": "https://hhauto.olx.ba/artikal/72213901",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/72213901/sm/img-1770738006-7fcf5449d235.jpg",
+      "id": "73700490",
+      "name": "Volkswagen Passat 2.0 4M 130 KW UVOZ CH REG 7/2027",
+      "url": "https://hhauto.olx.ba/artikal/73700490",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/73700490/sm/img-1768905657-27fb32518ddb.jpg",
       "condition": "Polovno",
       "fuel": "dizel",
-      "km": "275.000 km",
-      "year": "2015",
+      "km": "273.313 km",
+      "year": "2014",
       "price": "Na upit",
+      "updated": "prije jednog sata",
+      "labels": [
+        "Izdvojeno",
+        "Dostupno odmah"
+      ]
+    },
+    {
+      "id": "75025302",
+      "name": "Audi A1 1.6 TDI 2014 UVOZ",
+      "url": "https://hhauto.olx.ba/artikal/75025302",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/75025302/sm/img-1777040163-df69ec347740.jpg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "252.904 km",
+      "year": "2014",
+      "price": "Na upit",
+      "updated": "prije 2 sata",
+      "labels": [
+        "Izdvojeno",
+        "Dostupno odmah"
+      ]
+    },
+    {
+      "id": "78172700",
+      "name": "Mercedes-Benz A 180 AUTOMATIK - 11/2019 - 85kW",
+      "url": "https://hhauto.olx.ba/artikal/78172700",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/78172700/sm/img-1784475593-29434aaac480.jpeg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "313.227 km",
+      "year": "2019",
+      "price": "28.999 KM",
+      "updated": "prije 2 sata",
+      "labels": [
+        "Izdvojeno"
+      ]
+    },
+    {
+      "id": "73428000",
+      "name": "Audi A4 2.0 TDI 110 KW 2015 AUTOMATIK",
+      "url": "https://hhauto.olx.ba/artikal/73428000",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/73428000/sm/img-1780510584-803c1454824c.jpg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "258.000 km",
+      "year": "2015",
+      "price": "18.999 KM",
       "updated": "prije 2 sata",
       "labels": [
         "Izdvojeno",
@@ -224,6 +271,21 @@
       ]
     },
     {
+      "id": "72213901",
+      "name": "Volkswagen Passat B8 2.0 TDI/ 2015/ NAVI/ DO REGISTRACIJE",
+      "url": "https://hhauto.olx.ba/artikal/72213901",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/72213901/sm/img-1770738006-7fcf5449d235.jpg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "275.000 km",
+      "year": "2015",
+      "price": "Na upit",
+      "updated": "prije 17 sati",
+      "labels": [
+        "Dostupno odmah"
+      ]
+    },
+    {
       "id": "73311395",
       "name": "Audi Q2 QUATTRO 2.0 TDI 140 KW UVOZ DE GARANCIJA REG 2/2027",
       "url": "https://hhauto.olx.ba/artikal/73311395",
@@ -233,9 +295,8 @@
       "km": "121.862 km",
       "year": "2017",
       "price": "Na upit",
-      "updated": "prije 2 sata",
+      "updated": "prije 17 sati",
       "labels": [
-        "Izdvojeno",
         "Dostupno odmah"
       ]
     },
@@ -249,10 +310,8 @@
       "km": "177.330 km",
       "year": "2023",
       "price": "Na upit",
-      "updated": "prije 2 sata",
-      "labels": [
-        "Izdvojeno"
-      ]
+      "updated": "prije 17 sati",
+      "labels": []
     },
     {
       "id": "69005786",
@@ -264,25 +323,8 @@
       "km": "296.356 km",
       "year": "2012",
       "price": "Na upit",
-      "updated": "prije 2 sata",
+      "updated": "prije 17 sati",
       "labels": [
-        "Izdvojeno",
-        "Dostupno odmah"
-      ]
-    },
-    {
-      "id": "75025302",
-      "name": "Audi A1 1.6 TDI 2014 UVOZ",
-      "url": "https://hhauto.olx.ba/artikal/75025302",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/75025302/sm/img-1777040163-df69ec347740.jpg",
-      "condition": "Polovno",
-      "fuel": "dizel",
-      "km": "252.904 km",
-      "year": "2014",
-      "price": "Na upit",
-      "updated": "prije 2 sata",
-      "labels": [
-        "Izdvojeno",
         "Dostupno odmah"
       ]
     },
@@ -296,9 +338,8 @@
       "km": "269.614 km",
       "year": "2009",
       "price": "Na upit",
-      "updated": "prije 2 sata",
+      "updated": "prije 17 sati",
       "labels": [
-        "Izdvojeno",
         "Dostupno odmah"
       ]
     },
@@ -312,38 +353,7 @@
       "km": "177.224 km",
       "year": "2018",
       "price": "28.500 KM",
-      "updated": "prije 2 sata",
-      "labels": [
-        "Izdvojeno",
-        "Dostupno odmah"
-      ]
-    },
-    {
-      "id": "78172700",
-      "name": "Mercedes-Benz A 180 AUTOMATIK - 11/2019 - 85kW",
-      "url": "https://hhauto.olx.ba/artikal/78172700",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/78172700/sm/img-1784475593-29434aaac480.jpeg",
-      "condition": "Polovno",
-      "fuel": "dizel",
-      "km": "313.227 km",
-      "year": "2019",
-      "price": "28.999 KM",
-      "updated": "prije 3 sata",
-      "labels": [
-        "Izdvojeno"
-      ]
-    },
-    {
-      "id": "73428000",
-      "name": "Audi A4 2.0 TDI 110 KW 2015 AUTOMATIK",
-      "url": "https://hhauto.olx.ba/artikal/73428000",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/73428000/sm/img-1780510584-803c1454824c.jpg",
-      "condition": "Polovno",
-      "fuel": "dizel",
-      "km": "258.000 km",
-      "year": "2015",
-      "price": "18.999 KM",
-      "updated": "prije 37 minuta",
+      "updated": "prije 17 sati",
       "labels": [
         "Dostupno odmah"
       ]
@@ -358,7 +368,7 @@
       "km": "287.000 km",
       "year": "2015",
       "price": "59.999 KM",
-      "updated": "prije 37 minuta",
+      "updated": "prije dan",
       "labels": [
         "Dostupno odmah"
       ]
@@ -373,7 +383,7 @@
       "km": "200.000 km",
       "year": "2010",
       "price": "7.900 KM",
-      "updated": "prije 38 minuta",
+      "updated": "prije dan",
       "labels": [
         "Dostupno odmah"
       ]
@@ -388,7 +398,7 @@
       "km": "102.105 km",
       "year": "2020",
       "price": "74.999 KM",
-      "updated": "prije 38 minuta",
+      "updated": "prije dan",
       "labels": [
         "Dostupno odmah"
       ]
@@ -403,7 +413,7 @@
       "km": "267.787 km",
       "year": "2013",
       "price": "11.999 KM",
-      "updated": "prije jednog sata",
+      "updated": "prije dan",
       "labels": []
     },
     {
@@ -416,7 +426,7 @@
       "km": "160.080 km",
       "year": "2015",
       "price": "9.500 KM",
-      "updated": "prije jednog sata",
+      "updated": "prije dan",
       "labels": []
     },
     {
@@ -429,7 +439,7 @@
       "km": "223.889 km",
       "year": "2015",
       "price": "17.999 KM",
-      "updated": "prije 2 dana",
+      "updated": "prije 3 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -444,7 +454,7 @@
       "km": "160.012 km",
       "year": "2022",
       "price": "Na upit",
-      "updated": "prije 2 dana",
+      "updated": "prije 3 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -459,7 +469,7 @@
       "km": "205.523 km",
       "year": "2011",
       "price": "7.999 KM",
-      "updated": "prije 4 dana",
+      "updated": "prije 5 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -474,7 +484,7 @@
       "km": "329.883 km",
       "year": "2013",
       "price": "6.500 KM",
-      "updated": "prije 4 dana",
+      "updated": "prije 5 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -489,7 +499,7 @@
       "km": "239.564 km",
       "year": "2011",
       "price": "8.750 KM",
-      "updated": "prije 4 dana",
+      "updated": "prije 5 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -504,7 +514,7 @@
       "km": "287.905 km",
       "year": "2010",
       "price": "6.900 KM",
-      "updated": "prije 4 dana",
+      "updated": "prije 5 dana",
       "labels": []
     },
     {
@@ -517,7 +527,7 @@
       "km": "300.407 km",
       "year": "2011",
       "price": "6.900 KM",
-      "updated": "prije 4 dana",
+      "updated": "prije 5 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -532,7 +542,7 @@
       "km": "165.666 km",
       "year": "2014",
       "price": "8.500 KM",
-      "updated": "prije 4 dana",
+      "updated": "prije 5 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -547,7 +557,7 @@
       "km": "324.545 km",
       "year": "2012",
       "price": "6.999 KM",
-      "updated": "prije 6 dana",
+      "updated": "prije 7 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -562,7 +572,7 @@
       "km": "171.068 km",
       "year": "2019",
       "price": "16.999 KM",
-      "updated": "prije 11 dana",
+      "updated": "prije 12 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -577,22 +587,7 @@
       "km": "91.563 km",
       "year": "2020",
       "price": "139.000 KM",
-      "updated": "prije 11 dana",
-      "labels": [
-        "Dostupno odmah"
-      ]
-    },
-    {
-      "id": "65965059",
-      "name": "Porsche Macan S 3.0 Dizel 2016-UVOZ-96.185km",
-      "url": "https://hhauto.olx.ba/artikal/65965059",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/65965059/sm/img-1737146648-42d5491817fd.jpg",
-      "condition": "Polovno",
-      "fuel": "dizel",
-      "km": "96.185 km",
-      "year": "2016",
-      "price": "69.999 KM",
-      "updated": "prije 13 dana",
+      "updated": "prije 12 dana",
       "labels": [
         "Dostupno odmah"
       ]

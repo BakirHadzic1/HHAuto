@@ -1,71 +1,8 @@
 {
   "source": "https://hhauto.olx.ba/aktivni",
-  "updatedAt": "2026-08-14T06:09:56.318309+00:00",
+  "updatedAt": "2026-08-15T05:20:38.440252+00:00",
   "count": 32,
   "vehicles": [
-    {
-      "id": "73752024",
-      "name": "Ford Kuga ST line 2.0 Tdci 140 KW 4x4 2020 UVOZ CH",
-      "url": "https://hhauto.olx.ba/artikal/73752024",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/73752024/sm/img-1781965371-f754feda4542.jpg",
-      "condition": "Polovno",
-      "fuel": "dizel",
-      "km": "208.647 km",
-      "year": "2020",
-      "price": "34.900 KM",
-      "updated": "prije 5 minuta",
-      "labels": [
-        "Izdvojeno",
-        "Dostupno odmah"
-      ]
-    },
-    {
-      "id": "77140412",
-      "name": "Škoda Octavia VRS 2.0 TDI 2017 DSG - 4x4 - UVOZ -",
-      "url": "https://hhauto.olx.ba/artikal/77140412",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/77140412/sm/img-1780759043-1cba494f341a.jpeg",
-      "condition": "Polovno",
-      "fuel": "dizel",
-      "km": "236.934 km",
-      "year": "2017",
-      "price": "24.999 KM",
-      "updated": "prije jednog sata",
-      "labels": [
-        "Izdvojeno"
-      ]
-    },
-    {
-      "id": "72213901",
-      "name": "Volkswagen Passat B8 2.0 TDI/ 2015/ NAVI/ DO REGISTRACIJE",
-      "url": "https://hhauto.olx.ba/artikal/72213901",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/72213901/sm/img-1770738006-7fcf5449d235.jpg",
-      "condition": "Polovno",
-      "fuel": "dizel",
-      "km": "275.000 km",
-      "year": "2015",
-      "price": "Na upit",
-      "updated": "prije jednog sata",
-      "labels": [
-        "Izdvojeno",
-        "Dostupno odmah"
-      ]
-    },
-    {
-      "id": "75672978",
-      "name": "Audi A3 2.0 TDI 110 KW 2015 UVOZ DE",
-      "url": "https://hhauto.olx.ba/artikal/75672978",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/75672978/sm/img-1775660753-bad4fd466feb.jpg",
-      "condition": "Polovno",
-      "fuel": "dizel",
-      "km": "296.491 km",
-      "year": "2015",
-      "price": "Na upit",
-      "updated": "prije jednog sata",
-      "labels": [
-        "Izdvojeno",
-        "Dostupno odmah"
-      ]
-    },
     {
       "id": "73428000",
       "name": "Audi A4 2.0 TDI 110 KW 2015 AUTOMATIK",
@@ -76,7 +13,7 @@
       "km": "258.000 km",
       "year": "2015",
       "price": "Na upit",
-      "updated": "prije 2 sata",
+      "updated": "prije jednog sata",
       "labels": [
         "Izdvojeno",
         "Dostupno odmah"
@@ -92,7 +29,7 @@
       "km": "160.080 km",
       "year": "2015",
       "price": "9.500 KM",
-      "updated": "prije 2 sata",
+      "updated": "prije jednog sata",
       "labels": [
         "Izdvojeno"
       ]
@@ -160,6 +97,64 @@
       ]
     },
     {
+      "id": "73752024",
+      "name": "Ford Kuga ST line 2.0 Tdci 140 KW 4x4 2020 UVOZ CH",
+      "url": "https://hhauto.olx.ba/artikal/73752024",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/73752024/sm/img-1781965371-f754feda4542.jpg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "208.647 km",
+      "year": "2020",
+      "price": "34.900 KM",
+      "updated": "prije 14 sati",
+      "labels": [
+        "Dostupno odmah"
+      ]
+    },
+    {
+      "id": "72213901",
+      "name": "Volkswagen Passat B8 2.0 TDI/ 2015/ NAVI/ DO REGISTRACIJE",
+      "url": "https://hhauto.olx.ba/artikal/72213901",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/72213901/sm/img-1770738006-7fcf5449d235.jpg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "275.000 km",
+      "year": "2015",
+      "price": "Na upit",
+      "updated": "prije 15 sati",
+      "labels": [
+        "Dostupno odmah"
+      ]
+    },
+    {
+      "id": "75672978",
+      "name": "Audi A3 2.0 TDI 110 KW 2015 UVOZ DE",
+      "url": "https://hhauto.olx.ba/artikal/75672978",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/75672978/sm/img-1775660753-bad4fd466feb.jpg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "296.491 km",
+      "year": "2015",
+      "price": "Na upit",
+      "updated": "prije 15 sati",
+      "labels": [
+        "Dostupno odmah"
+      ]
+    },
+    {
+      "id": "77140412",
+      "name": "Škoda Octavia VRS 2.0 TDI 2017 DSG - 4x4 - UVOZ -",
+      "url": "https://hhauto.olx.ba/artikal/77140412",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/77140412/sm/img-1780759043-1cba494f341a.jpeg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "236.934 km",
+      "year": "2017",
+      "price": "24.999 KM",
+      "updated": "prije 18 sati",
+      "labels": []
+    },
+    {
       "id": "76319860",
       "name": "Volkswagen Golf 1.6 TDI 2012 - UVOZ -",
       "url": "https://hhauto.olx.ba/artikal/76319860",
@@ -169,7 +164,7 @@
       "km": "362.994 km",
       "year": "2012",
       "price": "9.999 KM",
-      "updated": "prije 11 sati",
+      "updated": "prije dan",
       "labels": []
     },
     {
@@ -182,7 +177,7 @@
       "km": "267.787 km",
       "year": "2013",
       "price": "11.999 KM",
-      "updated": "prije 11 sati",
+      "updated": "prije dan",
       "labels": []
     },
     {
@@ -195,7 +190,7 @@
       "km": "324.545 km",
       "year": "2012",
       "price": "6.999 KM",
-      "updated": "prije 11 sati",
+      "updated": "prije dan",
       "labels": [
         "Dostupno odmah"
       ]
@@ -210,7 +205,7 @@
       "km": "205.523 km",
       "year": "2011",
       "price": "7.999 KM",
-      "updated": "prije 11 sati",
+      "updated": "prije dan",
       "labels": [
         "Dostupno odmah"
       ]
@@ -225,7 +220,7 @@
       "km": "239.564 km",
       "year": "2011",
       "price": "8.750 KM",
-      "updated": "prije 11 sati",
+      "updated": "prije dan",
       "labels": [
         "Dostupno odmah"
       ]
@@ -240,7 +235,7 @@
       "km": "292.000 km",
       "year": "2010",
       "price": "11.500 KM",
-      "updated": "prije 11 sati",
+      "updated": "prije dan",
       "labels": [
         "Dostupno odmah"
       ]
@@ -255,7 +250,7 @@
       "km": "296.356 km",
       "year": "2012",
       "price": "34.999 KM",
-      "updated": "prije 11 sati",
+      "updated": "prije dan",
       "labels": [
         "Dostupno odmah"
       ]
@@ -270,7 +265,7 @@
       "km": "96.185 km",
       "year": "2016",
       "price": "69.999 KM",
-      "updated": "prije 11 sati",
+      "updated": "prije dan",
       "labels": [
         "Dostupno odmah"
       ]
@@ -285,7 +280,7 @@
       "km": "329.883 km",
       "year": "2013",
       "price": "6.500 KM",
-      "updated": "prije 11 sati",
+      "updated": "prije dan",
       "labels": [
         "Dostupno odmah"
       ]
@@ -300,7 +295,7 @@
       "km": "287.905 km",
       "year": "2010",
       "price": "6.900 KM",
-      "updated": "prije 11 sati",
+      "updated": "prije dan",
       "labels": []
     },
     {
@@ -313,7 +308,7 @@
       "km": "300.407 km",
       "year": "2011",
       "price": "6.900 KM",
-      "updated": "prije 11 sati",
+      "updated": "prije dan",
       "labels": [
         "Dostupno odmah"
       ]
@@ -328,7 +323,7 @@
       "km": "165.666 km",
       "year": "2014",
       "price": "8.500 KM",
-      "updated": "prije 11 sati",
+      "updated": "prije dan",
       "labels": [
         "Dostupno odmah"
       ]
@@ -343,7 +338,7 @@
       "km": "102.105 km",
       "year": "2020",
       "price": "74.999 KM",
-      "updated": "prije 11 sati",
+      "updated": "prije dan",
       "labels": [
         "Dostupno odmah"
       ]
@@ -358,7 +353,7 @@
       "km": "269.614 km",
       "year": "2009",
       "price": "7.999 KM",
-      "updated": "prije 11 sati",
+      "updated": "prije dan",
       "labels": [
         "Dostupno odmah"
       ]
@@ -373,7 +368,7 @@
       "km": "121.862 km",
       "year": "2017",
       "price": "44.999 KM",
-      "updated": "prije 11 sati",
+      "updated": "prije dan",
       "labels": [
         "Dostupno odmah"
       ]
@@ -388,7 +383,7 @@
       "km": "200.000 km",
       "year": "2010",
       "price": "7.900 KM",
-      "updated": "prije 17 sati",
+      "updated": "prije 2 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -403,7 +398,7 @@
       "km": "182.078 km",
       "year": "2020",
       "price": "18.999 KM",
-      "updated": "prije 2 dana",
+      "updated": "prije 3 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -418,7 +413,7 @@
       "km": "223.889 km",
       "year": "2015",
       "price": "17.999 KM",
-      "updated": "prije 14 dana",
+      "updated": "prije 15 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -433,7 +428,7 @@
       "km": "91.563 km",
       "year": "2020",
       "price": "139.000 KM",
-      "updated": "prije 20 dana",
+      "updated": "prije 21 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -448,7 +443,7 @@
       "km": "273.313 km",
       "year": "2014",
       "price": "17.999 KM",
-      "updated": "prije 22 dana",
+      "updated": "prije 23 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -463,7 +458,7 @@
       "km": "150.894 km",
       "year": "2019",
       "price": "21.999 KM",
-      "updated": "prije 22 dana",
+      "updated": "prije 23 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -478,7 +473,7 @@
       "km": "171.068 km",
       "year": "2019",
       "price": "16.999 KM",
-      "updated": "prije 23 dana",
+      "updated": "prije 24 dana",
       "labels": [
         "Dostupno odmah"
       ]

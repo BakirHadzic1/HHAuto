@@ -39,7 +39,7 @@ document.addEventListener("DOMContentLoaded", () => {
           contactForm.reset();
         } catch (error) {
           formStatus.classList.add("error");
-          formStatus.textContent = "Poruka nije poslana. Pišite direktno na info@hhauto.ba ili pozovite (+387) 61 696 704.";
+          formStatus.textContent = "Poruka nije poslana. Pišite direktno na hhauto.ba@icloud.com ili pozovite (+387) 61 696 704.";
         } finally {
           if (submitButton) {
             submitButton.disabled = false;

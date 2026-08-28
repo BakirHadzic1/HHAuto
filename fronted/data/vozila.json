@@ -1,8 +1,23 @@
 {
   "source": "https://hhauto.olx.ba/aktivni",
-  "updatedAt": "2026-08-27T16:03:31.899629+00:00",
+  "updatedAt": "2026-08-28T17:07:20.678258+00:00",
   "count": 28,
   "vehicles": [
+    {
+      "id": "64285423",
+      "name": "Ford Focus 1.5 TDCi 2019 - UVOZ - REG. 7/2027",
+      "url": "https://hhauto.olx.ba/artikal/64285423",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/64285423/sm/img-1729339926-63c5dcce0988.jpg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "150.894 km",
+      "year": "2019",
+      "price": "Na upit",
+      "updated": "prije 5 sati",
+      "labels": [
+        "Dostupno odmah"
+      ]
+    },
     {
       "id": "75672978",
       "name": "Audi A3 2.0 TDI 110 KW 2015 UVOZ DE",
@@ -13,9 +28,8 @@
       "km": "296.491 km",
       "year": "2015",
       "price": "Na upit",
-      "updated": "prije 29 minuta",
+      "updated": "prije 8 sati",
       "labels": [
-        "Izdvojeno",
         "Dostupno odmah"
       ]
     },
@@ -29,10 +43,8 @@
       "km": "236.934 km",
       "year": "2017",
       "price": "Na upit",
-      "updated": "prije 30 minuta",
-      "labels": [
-        "Izdvojeno"
-      ]
+      "updated": "prije 8 sati",
+      "labels": []
     },
     {
       "id": "73311395",
@@ -44,25 +56,23 @@
       "km": "121.862 km",
       "year": "2017",
       "price": "Na upit",
-      "updated": "prije 30 minuta",
+      "updated": "prije 8 sati",
       "labels": [
-        "Izdvojeno",
         "Dostupno odmah"
       ]
     },
     {
-      "id": "64285423",
-      "name": "Ford Focus 1.5 TDCi 2019 - UVOZ - REG. 7/2027",
-      "url": "https://hhauto.olx.ba/artikal/64285423",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/64285423/sm/img-1729339926-63c5dcce0988.jpg",
+      "id": "73428000",
+      "name": "Audi A4 2.0 TDI 110 KW 2015 AUTOMATIK",
+      "url": "https://hhauto.olx.ba/artikal/73428000",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/73428000/sm/img-1780510584-803c1454824c.jpg",
       "condition": "Polovno",
       "fuel": "dizel",
-      "km": "150.894 km",
-      "year": "2019",
-      "price": "Na upit",
-      "updated": "prije 43 minuta",
+      "km": "258.000 km",
+      "year": "2015",
+      "price": "18.999 KM",
+      "updated": "prije 2 dana",
       "labels": [
-        "Izdvojeno",
         "Dostupno odmah"
       ]
     },
@@ -76,7 +86,7 @@
       "km": "208.647 km",
       "year": "2020",
       "price": "34.900 KM",
-      "updated": "prije dan",
+      "updated": "prije 2 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -91,7 +101,7 @@
       "km": "160.080 km",
       "year": "2015",
       "price": "9.500 KM",
-      "updated": "prije dan",
+      "updated": "prije 2 dana",
       "labels": []
     },
     {
@@ -104,7 +114,7 @@
       "km": "324.843 km",
       "year": "2011",
       "price": "8.999 KM",
-      "updated": "prije dan",
+      "updated": "prije 2 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -119,7 +129,7 @@
       "km": "273.313 km",
       "year": "2014",
       "price": "17.999 KM",
-      "updated": "prije dan",
+      "updated": "prije 2 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -134,7 +144,7 @@
       "km": "296.356 km",
       "year": "2012",
       "price": "34.999 KM",
-      "updated": "prije dan",
+      "updated": "prije 2 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -149,7 +159,7 @@
       "km": "267.787 km",
       "year": "2013",
       "price": "11.999 KM",
-      "updated": "prije dan",
+      "updated": "prije 2 dana",
       "labels": []
     },
     {
@@ -162,7 +172,7 @@
       "km": "205.523 km",
       "year": "2011",
       "price": "7.999 KM",
-      "updated": "prije dan",
+      "updated": "prije 2 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -177,7 +187,7 @@
       "km": "324.545 km",
       "year": "2012",
       "price": "6.999 KM",
-      "updated": "prije dan",
+      "updated": "prije 2 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -192,7 +202,7 @@
       "km": "239.564 km",
       "year": "2011",
       "price": "8.750 KM",
-      "updated": "prije dan",
+      "updated": "prije 2 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -207,7 +217,7 @@
       "km": "287.905 km",
       "year": "2010",
       "price": "6.900 KM",
-      "updated": "prije dan",
+      "updated": "prije 2 dana",
       "labels": []
     },
     {
@@ -220,7 +230,7 @@
       "km": "200.000 km",
       "year": "2010",
       "price": "7.900 KM",
-      "updated": "prije dan",
+      "updated": "prije 2 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -235,7 +245,7 @@
       "km": "300.407 km",
       "year": "2011",
       "price": "6.900 KM",
-      "updated": "prije dan",
+      "updated": "prije 2 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -250,7 +260,7 @@
       "km": "96.185 km",
       "year": "2016",
       "price": "69.999 KM",
-      "updated": "prije dan",
+      "updated": "prije 2 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -265,7 +275,7 @@
       "km": "330.278 km",
       "year": "2015",
       "price": "10.999 KM",
-      "updated": "prije dan",
+      "updated": "prije 2 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -280,7 +290,7 @@
       "km": "223.889 km",
       "year": "2015",
       "price": "17.999 KM",
-      "updated": "prije dan",
+      "updated": "prije 2 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -295,7 +305,7 @@
       "km": "182.078 km",
       "year": "2020",
       "price": "18.999 KM",
-      "updated": "prije 3 dana",
+      "updated": "prije 4 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -310,7 +320,7 @@
       "km": "91.563 km",
       "year": "2020",
       "price": "139.000 KM",
-      "updated": "prije 3 dana",
+      "updated": "prije 4 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -325,7 +335,7 @@
       "km": "287.000 km",
       "year": "2015",
       "price": "59.999 KM",
-      "updated": "prije 3 dana",
+      "updated": "prije 4 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -340,7 +350,7 @@
       "km": "102.105 km",
       "year": "2020",
       "price": "74.999 KM",
-      "updated": "prije 3 dana",
+      "updated": "prije 4 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -355,7 +365,7 @@
       "km": "329.883 km",
       "year": "2013",
       "price": "6.500 KM",
-      "updated": "prije 6 dana",
+      "updated": "prije 7 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -370,7 +380,7 @@
       "km": "269.614 km",
       "year": "2009",
       "price": "7.999 KM",
-      "updated": "prije 6 dana",
+      "updated": "prije 7 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -385,7 +395,7 @@
       "km": "165.666 km",
       "year": "2014",
       "price": "8.500 KM",
-      "updated": "prije 6 dana",
+      "updated": "prije 7 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -400,22 +410,7 @@
       "km": "262.170 km",
       "year": "2013",
       "price": "9.999 KM",
-      "updated": "prije 8 dana",
-      "labels": [
-        "Dostupno odmah"
-      ]
-    },
-    {
-      "id": "76046136",
-      "name": "Peugeot 308 1.2 Benzin 96 kw 2019 UVOZ",
-      "url": "https://hhauto.olx.ba/artikal/76046136",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/76046136/sm/img-1776946978-c4e7f40f2165.jpg",
-      "condition": "Polovno",
-      "fuel": "benzin",
-      "km": "171.068 km",
-      "year": "2019",
-      "price": "16.999 KM",
-      "updated": "prije 10 dana",
+      "updated": "prije 9 dana",
       "labels": [
         "Dostupno odmah"
       ]

@@ -1,7 +1,7 @@
 {
   "source": "https://hhauto.olx.ba/aktivni",
-  "updatedAt": "2026-09-02T09:15:49.837702+00:00",
-  "count": 28,
+  "updatedAt": "2026-09-03T09:24:29.995237+00:00",
+  "count": 27,
   "vehicles": [
     {
       "id": "75181825",
@@ -91,7 +91,7 @@
       "fuel": "dizel",
       "km": "121.862 km",
       "year": "2017",
-      "price": "Na upit",
+      "price": "44.999 KM",
       "updated": "",
       "labels": [
         "Dostupno odmah"
@@ -201,19 +201,6 @@
       "labels": [
         "Dostupno odmah"
       ]
-    },
-    {
-      "id": "77455937",
-      "name": "Fiat Punto 1.3 JTD 2015 MULTIJET - UVOZ - VELIKI I MALI SERVIS",
-      "url": "https://hhauto.olx.ba/artikal/77455937",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/77455937/sm/img-1781784912-d4f776d8e52c.jpeg",
-      "condition": "Polovno",
-      "fuel": "dizel",
-      "km": "160.080 km",
-      "year": "2015",
-      "price": "9.500 KM",
-      "updated": "",
-      "labels": []
     },
     {
       "id": "78766324",

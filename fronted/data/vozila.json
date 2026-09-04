@@ -1,6 +1,6 @@
 {
   "source": "https://hhauto.olx.ba/aktivni",
-  "updatedAt": "2026-09-03T09:24:29.995237+00:00",
+  "updatedAt": "2026-09-04T09:17:31.893307+00:00",
   "count": 27,
   "vehicles": [
     {
@@ -15,7 +15,6 @@
       "price": "9.999 KM",
       "updated": "",
       "labels": [
-        "Izdvojeno",
         "Dostupno odmah"
       ]
     },
@@ -31,7 +30,6 @@
       "price": "Na upit",
       "updated": "",
       "labels": [
-        "Izdvojeno",
         "Dostupno odmah"
       ]
     },
@@ -47,7 +45,6 @@
       "price": "10.999 KM",
       "updated": "",
       "labels": [
-        "Izdvojeno",
         "Dostupno odmah"
       ]
     },
@@ -62,9 +59,7 @@
       "year": "2017",
       "price": "Na upit",
       "updated": "",
-      "labels": [
-        "Izdvojeno"
-      ]
+      "labels": []
     },
     {
       "id": "73428000",
@@ -78,7 +73,6 @@
       "price": "18.999 KM",
       "updated": "",
       "labels": [
-        "Izdvojeno",
         "Dostupno odmah"
       ]
     },

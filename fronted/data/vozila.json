@@ -1,8 +1,21 @@
 {
   "source": "https://hhauto.olx.ba/aktivni",
-  "updatedAt": "2026-09-04T09:17:31.893307+00:00",
+  "updatedAt": "2026-09-05T08:46:03.501784+00:00",
   "count": 27,
   "vehicles": [
+    {
+      "id": "77140412",
+      "name": "Škoda Octavia VRS 2.0 TDI 2017 DSG - 4x4 - UVOZ -",
+      "url": "https://hhauto.olx.ba/artikal/77140412",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/77140412/sm/img-1780759043-1cba494f341a.jpeg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "236.934 km",
+      "year": "2017",
+      "price": "24.999 KM",
+      "updated": "",
+      "labels": []
+    },
     {
       "id": "75181825",
       "name": "Seat Altea XL 1.6 TDI 2013",
@@ -27,7 +40,7 @@
       "fuel": "dizel",
       "km": "102.105 km",
       "year": "2020",
-      "price": "Na upit",
+      "price": "74.999 KM",
       "updated": "",
       "labels": [
         "Dostupno odmah"
@@ -47,19 +60,6 @@
       "labels": [
         "Dostupno odmah"
       ]
-    },
-    {
-      "id": "77140412",
-      "name": "Škoda Octavia VRS 2.0 TDI 2017 DSG - 4x4 - UVOZ -",
-      "url": "https://hhauto.olx.ba/artikal/77140412",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/77140412/sm/img-1780759043-1cba494f341a.jpeg",
-      "condition": "Polovno",
-      "fuel": "dizel",
-      "km": "236.934 km",
-      "year": "2017",
-      "price": "Na upit",
-      "updated": "",
-      "labels": []
     },
     {
       "id": "73428000",

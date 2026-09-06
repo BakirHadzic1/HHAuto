@@ -1,8 +1,55 @@
 {
   "source": "https://hhauto.olx.ba/aktivni",
-  "updatedAt": "2026-09-05T08:46:03.501784+00:00",
-  "count": 27,
+  "updatedAt": "2026-09-06T09:07:14.302491+00:00",
+  "count": 30,
   "vehicles": [
+    {
+      "id": "70390707",
+      "name": "Audi A4 2.0 TDI 2013 AUTOMATIK REG. 05/2027",
+      "url": "https://hhauto.olx.ba/artikal/70390707",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/70390707/sm/img-1756215342-aedb0b0f64f1.jpg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "337.685 km",
+      "year": "2013",
+      "price": "Na upit",
+      "updated": "",
+      "labels": [
+        "Izdvojeno",
+        "Dostupno odmah"
+      ]
+    },
+    {
+      "id": "69293035",
+      "name": "Volkswagen Golf 1.6 TDI DSG 2012 UVOZ REGIST 7/2027",
+      "url": "https://hhauto.olx.ba/artikal/69293035",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/69293035/sm/img-1752245110-050d03b6437e.jpg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "303.235 km",
+      "year": "2012",
+      "price": "Na upit",
+      "updated": "",
+      "labels": [
+        "Izdvojeno",
+        "Dostupno odmah"
+      ]
+    },
+    {
+      "id": "71756495",
+      "name": "Škoda Octavia 1.6 TDI DSG 2018 Registrovan",
+      "url": "https://hhauto.olx.ba/artikal/71756495",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/71756495/sm/img-1761207292-35ab17f40692.jpg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "242.938 km",
+      "year": "2018",
+      "price": "17.999 KM",
+      "updated": "",
+      "labels": [
+        "Dostupno odmah"
+      ]
+    },
     {
       "id": "77140412",
       "name": "Škoda Octavia VRS 2.0 TDI 2017 DSG - 4x4 - UVOZ -",

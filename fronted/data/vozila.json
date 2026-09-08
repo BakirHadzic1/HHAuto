@@ -1,23 +1,8 @@
 {
   "source": "https://hhauto.olx.ba/aktivni",
-  "updatedAt": "2026-09-07T09:54:53.433775+00:00",
+  "updatedAt": "2026-09-08T09:19:25.899926+00:00",
   "count": 33,
   "vehicles": [
-    {
-      "id": "74117695",
-      "name": "Škoda Octavia 1.6 Tdi 4x4 2013 UVOZ CH",
-      "url": "https://hhauto.olx.ba/artikal/74117695",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/74117695/sm/img-1772139480-345dcaea1934.jpg",
-      "condition": "Polovno",
-      "fuel": "dizel",
-      "km": "267.787 km",
-      "year": "2013",
-      "price": "Na upit",
-      "updated": "",
-      "labels": [
-        "Izdvojeno"
-      ]
-    },
     {
       "id": "74971013",
       "name": "Ford Focus 1.5 TDCI 2020 UVOZ",
@@ -99,45 +84,13 @@
       ]
     },
     {
-      "id": "70390707",
-      "name": "Audi A4 2.0 TDI 2013 AUTOMATIK REG. 05/2027",
-      "url": "https://hhauto.olx.ba/artikal/70390707",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/70390707/sm/img-1756215342-aedb0b0f64f1.jpg",
-      "condition": "Polovno",
-      "fuel": "dizel",
-      "km": "358.685 km",
-      "year": "2013",
-      "price": "Na upit",
-      "updated": "",
-      "labels": [
-        "Izdvojeno",
-        "Dostupno odmah"
-      ]
-    },
-    {
-      "id": "69293035",
-      "name": "Volkswagen Golf 1.6 TDI DSG 2012 UVOZ REGIST 7/2027",
-      "url": "https://hhauto.olx.ba/artikal/69293035",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/69293035/sm/img-1752245110-050d03b6437e.jpg",
-      "condition": "Polovno",
-      "fuel": "dizel",
-      "km": "303.235 km",
-      "year": "2012",
-      "price": "Na upit",
-      "updated": "",
-      "labels": [
-        "Izdvojeno",
-        "Dostupno odmah"
-      ]
-    },
-    {
       "id": "71756495",
       "name": "Škoda Octavia 1.6 TDI DSG 2018 Registrovan",
       "url": "https://hhauto.olx.ba/artikal/71756495",
       "image": "https://d4n0y8dshd77z.cloudfront.net/listings/71756495/sm/img-1761207292-35ab17f40692.jpg",
       "condition": "Polovno",
       "fuel": "dizel",
-      "km": "242.938 km",
+      "km": "250.570 km",
       "year": "2018",
       "price": "17.999 KM",
       "updated": "",
@@ -179,8 +132,23 @@
       ]
     },
     {
+      "id": "74117695",
+      "name": "Škoda Octavia 1.6 Tdi 4x4 2013 UVOZ CH",
+      "url": "https://hhauto.olx.ba/artikal/74117695",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/74117695/sm/img-1772139480-345dcaea1934.jpg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "267.787 km",
+      "year": "2013",
+      "price": "Na upit",
+      "updated": "",
+      "labels": [
+        "Izdvojeno"
+      ]
+    },
+    {
       "id": "79390107",
-      "name": "Volkswagen T6 Multivan 2014 2.0 TDI REGISTROVAN 7/2027",
+      "name": "Volkswagen T5 Multivan 2014 2.0 TDI REGISTROVAN 7/2027",
       "url": "https://hhauto.olx.ba/artikal/79390107",
       "image": "https://d4n0y8dshd77z.cloudfront.net/listings/79390107/sm/img-1788773458-da6f2a4aec87.jpg",
       "condition": "Polovno",
@@ -188,6 +156,37 @@
       "km": "299.554 km",
       "year": "2014",
       "price": "34.999 KM",
+      "updated": "",
+      "labels": [
+        "Izdvojeno",
+        "Dostupno odmah"
+      ]
+    },
+    {
+      "id": "70390707",
+      "name": "Audi A4 2.0 TDI 2013 AUTOMATIK REG. 05/2027",
+      "url": "https://hhauto.olx.ba/artikal/70390707",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/70390707/sm/img-1756215342-aedb0b0f64f1.jpg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "358.685 km",
+      "year": "2013",
+      "price": "Na upit",
+      "updated": "",
+      "labels": [
+        "Dostupno odmah"
+      ]
+    },
+    {
+      "id": "69293035",
+      "name": "Volkswagen Golf 1.6 TDI DSG 2012 UVOZ REGIST 7/2027",
+      "url": "https://hhauto.olx.ba/artikal/69293035",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/69293035/sm/img-1752245110-050d03b6437e.jpg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "303.235 km",
+      "year": "2012",
+      "price": "Na upit",
       "updated": "",
       "labels": [
         "Dostupno odmah"
@@ -217,7 +216,7 @@
       "fuel": "dizel",
       "km": "296.356 km",
       "year": "2012",
-      "price": "34.999 KM",
+      "price": "32.999 KM",
       "updated": "",
       "labels": [
         "Dostupno odmah"

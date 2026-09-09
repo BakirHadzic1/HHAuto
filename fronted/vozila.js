@@ -26,8 +26,8 @@ function formatSyncDate(value) {
 
 function getVehicleMeta(vehicle) {
   return [
-    ["Godiste", vehicle.year],
-    ["Kilometraza", vehicle.km],
+    ["Godište", vehicle.year],
+    ["Kilometraža", vehicle.km],
     ["Gorivo", vehicle.fuel],
     ["Cijena", vehicle.price || "Na upit"]
   ].filter(([, value]) => value);
@@ -51,7 +51,7 @@ function createCarCard(vehicle) {
       <dl class="car-meta">
         ${meta.map(([label, value]) => `<div><dt>${escapeHtml(label)}</dt><dd>${escapeHtml(value)}</dd></div>`).join("")}
       </dl>
-      <a href="${escapeHtml(vehicle.url || OLX_SHOP_URL)}" target="_blank" rel="noopener" class="details-link">Pogledaj oglas</a>
+      <a href="${escapeHtml(vehicle.url || OLX_SHOP_URL)}" target="_blank" rel="noopener" class="details-link">Otvori oglas za ${escapeHtml(vehicle.name)} na PIK-u</a>
     </div>
   `;
 

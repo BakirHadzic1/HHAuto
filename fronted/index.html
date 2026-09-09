@@ -126,7 +126,6 @@
   </script>
 
   <link rel="stylesheet" href="./style.css" />
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" />
 </head>
 
 <body>
@@ -136,8 +135,8 @@
         <img src="./static/logo_white-32c3b8cbfd91cf0c909f40c398110c38.svg" alt="HH Auto Travnik logo" />
       </div>
 
-      <nav>
-        <ul class="nav-links">
+      <nav aria-label="Glavna navigacija">
+        <ul class="nav-links" id="mainNav">
           <li><a href="#pocetna">Početna</a></li>
           <li><a href="#o-nama">O nama</a></li>
           <li><a href="#zasto-hhauto">Zašto HH Auto</a></li>
@@ -147,9 +146,7 @@
           <li><a href="#kontakt">Kontakt</a></li>
         </ul>
 
-        <button class="hamburger" aria-label="Otvori meni">
-          <i class="fas fa-bars"></i>
-        </button>
+        <button class="hamburger" type="button" aria-label="Otvori meni" aria-controls="mainNav" aria-expanded="false">Meni</button>
       </nav>
     </div>
   </header>
@@ -159,14 +156,14 @@
     <section id="pocetna" class="home">
       <div class="slider">
         <div class="slides">
-          <div class="slide active"><img src="./slike/IMG_4692.jpg" alt="HH Auto 1"></div>
-          <div class="slide"><img src="./slike/990f55ce-cafa-460e-9285-1cb4a903e86d.JPG" alt="HH Auto 2"></div>
-          <div class="slide"><img src="./slike/IMG_4364.JPG" alt="HH Auto 3"></div>
-          <div class="slide"><img src="./slike/IMG_4817.jpg" alt="HH Auto 4"></div>
-          <div class="slide"><img src="./slike/IMG_4818.jpg" alt="HH Auto 5"></div>
-          <div class="slide"><img src="./slike/IMG_4819.jpg" alt="HH Auto 6"></div>
-          <div class="slide"><img src="./slike/IMG_4820.jpg" alt="HH Auto 7"></div>
-          <div class="slide"><img src="./slike/IMG_4821.jpg" alt="HH Auto 8"></div>
+          <div class="slide active"><img src="./slike/IMG_4692.jpg" alt="" aria-hidden="true"></div>
+          <div class="slide"><img src="./slike/990f55ce-cafa-460e-9285-1cb4a903e86d.JPG" alt="" aria-hidden="true"></div>
+          <div class="slide"><img src="./slike/IMG_4364.JPG" alt="" aria-hidden="true"></div>
+          <div class="slide"><img src="./slike/IMG_4817.jpg" alt="" aria-hidden="true"></div>
+          <div class="slide"><img src="./slike/IMG_4818.jpg" alt="" aria-hidden="true"></div>
+          <div class="slide"><img src="./slike/IMG_4819.jpg" alt="" aria-hidden="true"></div>
+          <div class="slide"><img src="./slike/IMG_4820.jpg" alt="" aria-hidden="true"></div>
+          <div class="slide"><img src="./slike/IMG_4821.jpg" alt="" aria-hidden="true"></div>
         </div>
       </div>
 
@@ -187,9 +184,9 @@
           <h2>O nama</h2>
           <hr>
           <p>Ovo je zvanična web stranica HH Auto Travnik. HH AUTO je domaća kompanija koja se bavi uvozom i prodajom rabljenih vozila. Također nudimo mogućnost iznajmljivanja vozila u sklopu naše kompanije.</p>
-          <p>Prepoznatljivi smo na tržištu po kvaliteti, dobroj usluzi i sigurnoj kupovini.</p>
-          <p>HH AUTO je nastao 2015. godine u Travniku gdje se i nalazi naše sjedište. Nudimo preko 30 vozila različitih proizvođača, te imamo listu od preko 1123 uspješno sklopljenih prodajnih ugovora.</p>
-          <button class="btn" onclick="window.location.href='#zasto-hhauto'">Više</button>
+          <p>Naš cilj je jasna komunikacija o stanju, cijeni i dostupnosti svakog vozila prije dogovora o kupovini ili najmu.</p>
+          <p>Poslujemo u Travniku, a trenutno dostupna vozila i cijene objavljujemo na ovoj stranici i na zvaničnom PIK/OLX profilu.</p>
+          <a class="btn" href="#zasto-hhauto">Saznajte kako predstavljamo ponudu</a>
         </div>
         <div class="background-text">HH AUTO</div>
       </div>
@@ -199,20 +196,20 @@
       <div class="overlay">
         <div class="content">
           <h2>Zašto HH Auto</h2>
-          <p class="subtitle">NAŠA PONUDA I NAŠI KLIJENTI NAJBOLJE GOVORE O NAMA.</p>
+          <p class="subtitle">INFORMACIJE KOJE MOŽETE PROVJERITI PRIJE DOGOVORA.</p>
 
           <div class="benefits">
             <div class="benefit">
-              <i class="fas fa-handshake"></i>
-              <p class="yellow-text">Sigurna kupovina</p>
+              <strong class="benefit-number">1</strong>
+              <p class="yellow-text">Jasne informacije</p>
             </div>
             <div class="benefit">
-              <i class="fas fa-car"></i>
-              <p class="yellow-text">Veliki izbor vozila</p>
+              <strong class="benefit-number">2</strong>
+              <p class="yellow-text">Aktuelna ponuda</p>
             </div>
             <div class="benefit">
-              <i class="fas fa-check"></i>
-              <p class="yellow-text">Pouzdanost i kvalitet</p>
+              <strong class="benefit-number">3</strong>
+              <p class="yellow-text">Direktan kontakt</p>
             </div>
           </div>
         </div>
@@ -251,7 +248,7 @@
           <p>Najčešće nas kupci traže kao HH Auto, HHAUTO, HH Auto Travnik, prodaja auta Travnik, uvoz vozila Travnik i rent-a-car Travnik.</p>
         </div>
 
-        <div class="seo-facts" aria-label="HH Auto Travnik informacije">
+        <section class="seo-facts" aria-label="HH Auto Travnik informacije">
           <div>
             <span>Firma</span>
             <strong>HH AUTO d.o.o. Travnik</strong>
@@ -262,13 +259,13 @@
           </div>
           <div>
             <span>Kontakt</span>
-            <strong><a href="tel:+38761696704">061 696 704</a></strong>
+            <strong><a href="tel:+38761696704">061&nbsp;696&nbsp;704</a></strong>
           </div>
           <div>
             <span>Zvanični shop</span>
             <strong><a href="https://hhauto.olx.ba/" target="_blank" rel="noopener">hhauto.olx.ba</a></strong>
           </div>
-        </div>
+        </section>
       </div>
 
       <div class="faq-list">
@@ -282,21 +279,19 @@
         </article>
         <article>
           <h3>Koje usluge nudi HH Auto Travnik?</h3>
-          <p>HH Auto Travnik nudi uvoz i prodaju rabljenih vozila, veliki izbor polovnih automobila i rent-a-car usluge.</p>
+          <p>HH Auto Travnik nudi uvoz i prodaju rabljenih vozila te rent-a-car usluge. Dostupnost se potvrđuje prije dogovora.</p>
         </article>
       </div>
     </section>
 
 
-    <section id="mapa" class="map">
-      <iframe
-        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1429.571905051814!2d17.682910458085445!3d44.224697516875466!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x475eff78c24f32f3%3A0x8c9d5f12b271ff85!2sHH%20Auto%20Travnik!5e0!3m2!1shr!2sba!4v1687284239332!5m2!1shr!2sba"
-        width="100%"
-        height="450"
-        style="border:0"
-        allowfullscreen=""
-        loading="lazy"
-        referrerpolicy="no-referrer-when-downgrade"></iframe>
+    <section id="mapa" class="map" aria-labelledby="mapTitle">
+      <div class="map-placeholder">
+        <p class="eyebrow">Lokacija</p>
+        <h2 id="mapTitle">Mostarska bb, 72270 Travnik</h2>
+        <p>Google Maps se otvara samo kada odaberete link. Tako se podaci o posjeti ne šalju Googleu pri običnom otvaranju stranice.</p>
+        <a class="cta" href="https://www.google.com/maps/search/?api=1&amp;query=HH%20Auto%20Travnik" target="_blank" rel="noopener noreferrer">Otvori lokaciju u Google Maps</a>
+      </div>
     </section>
 
     <section id="kontakt" class="contact">
@@ -322,8 +317,8 @@
               </div>
 
               <div class="form-group">
-                <label for="phone">Telefon:</label>
-                <input type="tel" name="Telefon" id="phone" autocomplete="tel" />
+                <label for="phone">Telefon (nije obavezno):</label>
+                <input type="tel" name="Telefon" id="phone" autocomplete="tel" maxlength="30" />
               </div>
 
               <div class="form-group">
@@ -333,41 +328,42 @@
 
               <div class="form-group">
                 <label for="message">Poruka:</label>
-                <textarea id="message" name="Poruka" rows="4" required></textarea>
+                <textarea id="message" name="Poruka" rows="4" maxlength="1500" aria-describedby="messageHelp" required></textarea>
+                <small id="messageHelp">Ne upisujte broj lične karte, bankovne podatke ni druge osjetljive podatke.</small>
               </div>
+
+              <label class="policy-consent">
+                <input type="checkbox" name="Saglasnost" value="Prihvaćeno" required />
+                <span>Pročitao/la sam <a href="/privatnost" target="_blank">obavijest o privatnosti</a> i prihvatam <a href="/uslovi-koristenja" target="_blank">uslove korištenja</a>.</span>
+              </label>
 
               <div class="form-buttons">
-                <input type="submit" value="Pošalji" />
-                <input type="reset" value="Poništi" />
+                <button type="submit">Pošalji poruku</button>
+                <button type="reset">Poništi unos</button>
               </div>
 
-              <p id="formStatus" class="form-status"></p>
+              <p id="formStatus" class="form-status" role="status" aria-live="polite"></p>
             </form>
           </div>
 
           <div class="contact-details">
             <div class="contact-item">
-              <i class="fas fa-envelope"></i>
               <p>Email: <a href="mailto:hhauto.ba@icloud.com">hhauto.ba@icloud.com</a></p>
             </div>
             <hr>
             <div class="contact-item">
-              <i class="fas fa-phone"></i>
-              <p>Telefon: <a href="tel:+38761696704">(+387) 61 696 704</a></p>
+              <p>Telefon: <a href="tel:+38761696704">(+387)&nbsp;61&nbsp;696&nbsp;704</a></p>
             </div>
             <hr>
             <div class="contact-item">
-              <i class="fas fa-map-marker-alt"></i>
               <p>Adresa: Mostarska bb, 72270 Travnik, BiH</p>
             </div>
             <hr>
             <div class="contact-item">
-              <i class="fab fa-facebook-f"></i>
               <p>Facebook: <a href="https://www.facebook.com/hhauto1/" target="_blank" rel="noopener">HH Auto Travnik</a></p>
             </div>
             <hr>
             <div class="contact-item">
-              <i class="fab fa-instagram"></i>
               <p>Instagram: <a href="https://www.instagram.com/hhauto1.1/" target="_blank" rel="noopener">@hhauto1.1</a></p>
             </div>
           </div>
@@ -377,14 +373,16 @@
 
     <footer class="footer">
       <p>© <span id="year"></span> HHAuto Travnik. Sva prava zadržana.</p>
+      <nav class="footer-links" aria-label="Pravne informacije">
+        <a href="/privatnost">Privatnost</a>
+        <a href="/uslovi-koristenja">Uslovi korištenja</a>
+        <a href="/povrat-i-reklamacije">Povrat i reklamacije</a>
+        <a href="/kolacici">Kolačići</a>
+      </nav>
     </footer>
   </main>
 
   <script src="./vozila.js"></script>
   <script src="./script.js"></script>
-  <script>
-    window.va = window.va || function () { (window.vaq = window.vaq || []).push(arguments); };
-  </script>
-  <script defer src="/_vercel/insights/script.js"></script>
 </body>
 </html>

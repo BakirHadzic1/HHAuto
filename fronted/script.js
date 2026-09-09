@@ -10,15 +10,15 @@ document.addEventListener("DOMContentLoaded", () => {
     if (contactForm && formStatus) {
       contactForm.addEventListener("submit", async (event) => {
         event.preventDefault();
-        const submitButton = contactForm.querySelector('input[type="submit"]');
-        const originalButtonText = submitButton ? submitButton.value : "";
+        const submitButton = contactForm.querySelector('button[type="submit"]');
+        const originalButtonText = submitButton ? submitButton.textContent : "";
         const formData = new FormData(contactForm);
 
         formStatus.className = "form-status";
         formStatus.textContent = "Slanje poruke...";
         if (submitButton) {
           submitButton.disabled = true;
-          submitButton.value = "Šalje se...";
+          submitButton.textContent = "Šalje se...";
         }
 
         try {
@@ -43,7 +43,7 @@ document.addEventListener("DOMContentLoaded", () => {
         } finally {
           if (submitButton) {
             submitButton.disabled = false;
-            submitButton.value = originalButtonText;
+            submitButton.textContent = originalButtonText;
           }
         }
       });
@@ -55,15 +55,20 @@ document.addEventListener("DOMContentLoaded", () => {
     const navAnchors = document.querySelectorAll(".nav-links a");
   
     if (hamburger && navLinks) {
+      const setMenu = (open) => {
+        navLinks.classList.toggle("open", open);
+        hamburger.classList.toggle("open", open);
+        hamburger.setAttribute("aria-expanded", String(open));
+        hamburger.setAttribute("aria-label", open ? "Zatvori meni" : "Otvori meni");
+      };
+
       hamburger.addEventListener("click", () => {
-        navLinks.classList.toggle("open");
-        hamburger.classList.toggle("open");
+        setMenu(!navLinks.classList.contains("open"));
       });
   
       navAnchors.forEach(a => {
         a.addEventListener("click", () => {
-          navLinks.classList.remove("open");
-          hamburger.classList.remove("open");
+          setMenu(false);
         });
       });
     }
@@ -83,6 +88,8 @@ document.addEventListener("DOMContentLoaded", () => {
       showSlide(currentIndex);
     }
   
-    setInterval(nextSlide, 3000);
+    if (!window.matchMedia("(prefers-reduced-motion: reduce)").matches) {
+      setInterval(nextSlide, 5000);
+    }
   });
   

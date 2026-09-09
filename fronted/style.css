@@ -1,6 +1,11 @@
 * { box-sizing: border-box; }
 html { scroll-behavior: smooth; }
 
+:focus-visible{
+  outline:3px solid #ffc107;
+  outline-offset:3px;
+}
+
 body{
   font-family: Arial, sans-serif;
   margin:0;
@@ -209,6 +214,7 @@ section hr{
 .yellow-text{ color:#ffc107; }
 
 .btn{
+  display:inline-block;
   background:#ffc107;
   color:#333;
   border:none;
@@ -217,6 +223,7 @@ section hr{
   font-size:16px;
   cursor:pointer;
   margin-top:10px;
+  text-decoration:none;
 }
 
 .benefits{
@@ -235,6 +242,17 @@ section hr{
 .benefit i{
   font-size:58px;
   color:#ffc107;
+}
+
+.benefit-number{
+  display:inline-grid;
+  place-items:center;
+  width:58px;
+  height:58px;
+  border:2px solid #ffc107;
+  border-radius:8px;
+  color:#ffc107;
+  font-size:28px;
 }
 
 .benefit p{
@@ -496,6 +514,17 @@ section hr{
 
 .map{ margin:0; padding:0; background:#222; }
 
+.map-placeholder{
+  max-width:920px;
+  margin:0 auto;
+  padding:70px 24px;
+  text-align:center;
+  color:#fff;
+}
+
+.map-placeholder h2{font-size:36px;}
+.map-placeholder p{line-height:1.65;}
+
 .container-kontakt{
   max-width:1200px;
   margin:0 auto;
@@ -529,6 +558,12 @@ section hr{
   color:#ffc107;
 }
 
+.form-group small{
+  margin-top:7px;
+  color:#ddd;
+  line-height:1.45;
+}
+
 .form-group input,
 .form-group textarea{
   width:100%;
@@ -546,7 +581,7 @@ section hr{
   margin-top:12px;
 }
 
-.form-buttons input{
+.form-buttons button{
   flex:1;
   padding:10px;
   border:none;
@@ -557,9 +592,9 @@ section hr{
   transition:0.2s;
 }
 
-.form-buttons input:hover{ background:#555; }
+.form-buttons button:hover{ background:#555; }
 
-.form-buttons input:disabled{
+.form-buttons button:disabled{
   cursor:not-allowed;
   opacity:0.68;
 }
@@ -567,6 +602,24 @@ section hr{
 .form-honey{
   display:none;
 }
+
+.policy-consent{
+  display:flex;
+  align-items:flex-start;
+  gap:10px;
+  margin:8px 0 18px;
+  line-height:1.5;
+}
+
+.policy-consent input{
+  width:20px;
+  height:20px;
+  margin:2px 0 0;
+  flex:0 0 auto;
+}
+
+.policy-consent a,
+.footer-links a{color:#ffc107;}
 
 .contact-item{
   display:flex;
@@ -611,6 +664,45 @@ section hr{
   text-align:center;
   padding:18px 12px;
 }
+
+.footer-links{
+  justify-content:center;
+  flex-wrap:wrap;
+  margin-top:10px;
+}
+
+.legal-page{
+  min-height:100vh;
+  background:#262626;
+  color:#fff;
+}
+
+.legal-header{position:static;}
+
+.legal-shell{
+  width:min(860px, calc(100% - 32px));
+  margin:0 auto;
+  padding:64px 0 80px;
+}
+
+.legal-shell h1{
+  font-size:clamp(34px, 7vw, 52px);
+  margin:0 0 12px;
+}
+
+.legal-shell h2{
+  margin:36px 0 10px;
+  font-size:26px;
+}
+
+.legal-shell p,
+.legal-shell li{
+  color:#e2e2e2;
+  line-height:1.75;
+}
+
+.legal-shell a{color:#ffc107;}
+.legal-meta{color:#ffc107;font-weight:bold;}
 
 
 

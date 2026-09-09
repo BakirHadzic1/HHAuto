@@ -63,7 +63,6 @@
   }
   </script>
   <link rel="stylesheet" href="vozila.css">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
 </head>
 <body class="vehicles-page">
   <header class="vehicles-header">
@@ -71,7 +70,7 @@
       <img src="./static/logo_white-32c3b8cbfd91cf0c909f40c398110c38.svg" alt="HH Auto Travnik logo" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
       <span>HH AUTO</span>
     </a>
-    <nav>
+    <nav aria-label="Glavna navigacija">
       <a href="/">Početna</a>
       <a href="https://hhauto.olx.ba/" target="_blank" rel="noopener">PIK/OLX shop</a>
       <a href="/#kontakt">Kontakt</a>
@@ -87,12 +86,10 @@
         <p class="sync-info" data-vehicles-info>Učitavanje aktivnih oglasa...</p>
         <div class="hero-actions">
           <a href="https://hhauto.olx.ba/" target="_blank" rel="noopener" class="primary-btn">
-            <i class="fas fa-external-link-alt"></i>
             Sva auta na PIK-u
           </a>
           <a href="tel:+38761696704" class="secondary-btn">
-            <i class="fas fa-phone"></i>
-            Pozovi
+            Pozovi&nbsp;061&nbsp;696&nbsp;704
           </a>
         </div>
       </div>
@@ -120,10 +117,15 @@
     </section>
   </main>
 
+  <footer class="vehicles-footer">
+    <nav aria-label="Pravne informacije">
+      <a href="/privatnost">Privatnost</a>
+      <a href="/uslovi-koristenja">Uslovi korištenja</a>
+      <a href="/povrat-i-reklamacije">Povrat i reklamacije</a>
+      <a href="/kolacici">Kolačići</a>
+    </nav>
+  </footer>
+
   <script src="vozila.js"></script>
-  <script>
-    window.va = window.va || function () { (window.vaq = window.vaq || []).push(arguments); };
-  </script>
-  <script defer src="/_vercel/insights/script.js"></script>
 </body>
 </html>

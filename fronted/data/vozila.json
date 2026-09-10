@@ -1,24 +1,8 @@
 {
   "source": "https://hhauto.olx.ba/aktivni",
-  "updatedAt": "2026-09-09T09:21:44.243104+00:00",
-  "count": 33,
+  "updatedAt": "2026-09-10T09:21:20.784434+00:00",
+  "count": 34,
   "vehicles": [
-    {
-      "id": "79390107",
-      "name": "Volkswagen T5 Multivan 2014 2.0 TDI REGISTROVAN 7/2027",
-      "url": "https://hhauto.olx.ba/artikal/79390107",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/79390107/sm/img-1788773458-da6f2a4aec87.jpg",
-      "condition": "Polovno",
-      "fuel": "dizel",
-      "km": "299.554 km",
-      "year": "2014",
-      "price": "34.999 KM",
-      "updated": "",
-      "labels": [
-        "Izdvojeno",
-        "Dostupno odmah"
-      ]
-    },
     {
       "id": "75181825",
       "name": "Seat Altea XL 1.6 TDI 2013",
@@ -99,6 +83,36 @@
       ]
     },
     {
+      "id": "79390107",
+      "name": "Volkswagen T5 Multivan 2014 2.0 TDI REGISTROVAN 7/2027",
+      "url": "https://hhauto.olx.ba/artikal/79390107",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/79390107/sm/img-1788773458-da6f2a4aec87.jpg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "299.554 km",
+      "year": "2014",
+      "price": "34.999 KM",
+      "updated": "",
+      "labels": [
+        "Dostupno odmah"
+      ]
+    },
+    {
+      "id": "79457805",
+      "name": "BMW X6 M50 12/2020 REGISTROVAN",
+      "url": "https://hhauto.olx.ba/artikal/79457805",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/79457805/sm/img-1788971408-92ec84fccd4a.jpg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "101.000 km",
+      "year": "2020",
+      "price": "139.000 KM",
+      "updated": "",
+      "labels": [
+        "Dostupno odmah"
+      ]
+    },
+    {
       "id": "74971013",
       "name": "Ford Focus 1.5 TDCI 2020 UVOZ",
       "url": "https://hhauto.olx.ba/artikal/74971013",
@@ -122,7 +136,7 @@
       "fuel": "dizel",
       "km": "329.883 km",
       "year": "2013",
-      "price": "Na upit",
+      "price": "6.500 KM",
       "updated": "",
       "labels": [
         "Dostupno odmah"
@@ -137,7 +151,7 @@
       "fuel": "dizel",
       "km": "258.000 km",
       "year": "2015",
-      "price": "Na upit",
+      "price": "18.999 KM",
       "updated": "",
       "labels": [
         "Dostupno odmah"
@@ -152,7 +166,7 @@
       "fuel": "benzin",
       "km": "269.614 km",
       "year": "2009",
-      "price": "Na upit",
+      "price": "7.999 KM",
       "updated": "",
       "labels": [
         "Dostupno odmah"
@@ -212,7 +226,7 @@
       "fuel": "dizel",
       "km": "273.313 km",
       "year": "2014",
-      "price": "Na upit",
+      "price": "17.999 KM",
       "updated": "",
       "labels": [
         "Dostupno odmah"
@@ -227,7 +241,7 @@
       "fuel": "dizel",
       "km": "267.787 km",
       "year": "2013",
-      "price": "Na upit",
+      "price": "11.999 KM",
       "updated": "",
       "labels": []
     },

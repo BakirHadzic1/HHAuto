@@ -525,6 +525,13 @@ section hr{
 .map-placeholder h2{font-size:36px;}
 .map-placeholder p{line-height:1.65;}
 
+.map iframe{
+  display:block;
+  width:100%;
+  min-height:450px;
+  border:0;
+}
+
 .container-kontakt{
   max-width:1200px;
   margin:0 auto;

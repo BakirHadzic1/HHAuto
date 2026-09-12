@@ -1,8 +1,39 @@
 {
   "source": "https://hhauto.olx.ba/aktivni",
-  "updatedAt": "2026-09-11T09:19:32.954368+00:00",
+  "updatedAt": "2026-09-12T08:59:11.088657+00:00",
   "count": 34,
   "vehicles": [
+    {
+      "id": "75744316",
+      "name": "BMW X6 M50d 12/2020",
+      "url": "https://hhauto.olx.ba/artikal/75744316",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/75744316/sm/img-1775911056-14d49cb993d5.jpeg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "91.563 km",
+      "year": "2020",
+      "price": "139.000 KM",
+      "updated": "",
+      "labels": [
+        "Izdvojeno",
+        "Dostupno odmah"
+      ]
+    },
+    {
+      "id": "75024974",
+      "name": "Škoda Fabia 1.2 TDI UVOZ NL",
+      "url": "https://hhauto.olx.ba/artikal/75024974",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/75024974/sm/img-1773415946-88bb59664b0f.jpg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "205.523 km",
+      "year": "2011",
+      "price": "7.999 KM",
+      "updated": "",
+      "labels": [
+        "Dostupno odmah"
+      ]
+    },
     {
       "id": "75181825",
       "name": "Seat Altea XL 1.6 TDI 2013",
@@ -40,7 +71,7 @@
       "fuel": "benzin",
       "km": "324.843 km",
       "year": "2011",
-      "price": "Na upit",
+      "price": "8.999 KM",
       "updated": "",
       "labels": [
         "Dostupno odmah"
@@ -55,7 +86,7 @@
       "fuel": "dizel",
       "km": "296.491 km",
       "year": "2015",
-      "price": "Na upit",
+      "price": "23.999 KM",
       "updated": "",
       "labels": [
         "Dostupno odmah"
@@ -70,7 +101,7 @@
       "fuel": "dizel",
       "km": "150.894 km",
       "year": "2019",
-      "price": "Na upit",
+      "price": "21.999 KM",
       "updated": "",
       "labels": [
         "Dostupno odmah"
@@ -309,36 +340,6 @@
       "km": "296.356 km",
       "year": "2012",
       "price": "32.999 KM",
-      "updated": "",
-      "labels": [
-        "Dostupno odmah"
-      ]
-    },
-    {
-      "id": "75744316",
-      "name": "BMW X6 M50d 12/2020",
-      "url": "https://hhauto.olx.ba/artikal/75744316",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/75744316/sm/img-1775911056-14d49cb993d5.jpeg",
-      "condition": "Polovno",
-      "fuel": "dizel",
-      "km": "91.563 km",
-      "year": "2020",
-      "price": "139.000 KM",
-      "updated": "",
-      "labels": [
-        "Dostupno odmah"
-      ]
-    },
-    {
-      "id": "75024974",
-      "name": "Škoda Fabia 1.2 TDI UVOZ NL",
-      "url": "https://hhauto.olx.ba/artikal/75024974",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/75024974/sm/img-1773415946-88bb59664b0f.jpg",
-      "condition": "Polovno",
-      "fuel": "dizel",
-      "km": "205.523 km",
-      "year": "2011",
-      "price": "7.999 KM",
       "updated": "",
       "labels": [
         "Dostupno odmah"

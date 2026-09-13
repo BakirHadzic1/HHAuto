@@ -1,7 +1,7 @@
 {
   "source": "https://hhauto.olx.ba/aktivni",
-  "updatedAt": "2026-09-12T08:59:11.088657+00:00",
-  "count": 34,
+  "updatedAt": "2026-09-13T09:55:47.859999+00:00",
+  "count": 33,
   "vehicles": [
     {
       "id": "75744316",
@@ -12,7 +12,7 @@
       "fuel": "dizel",
       "km": "91.563 km",
       "year": "2020",
-      "price": "139.000 KM",
+      "price": "Na upit",
       "updated": "",
       "labels": [
         "Izdvojeno",
@@ -111,7 +111,7 @@
       "id": "79390107",
       "name": "Volkswagen T5 Multivan 2014 2.0 TDI REGISTROVAN 7/2027",
       "url": "https://hhauto.olx.ba/artikal/79390107",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/79390107/sm/img-1788773458-da6f2a4aec87.jpg",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/79390107/sm/img-1789221423-0fe625dfd9bb.jpg",
       "condition": "Polovno",
       "fuel": "dizel",
       "km": "299.554 km",
@@ -156,7 +156,7 @@
       "id": "76828625",
       "name": "Škoda Fabia 1.2 TDI 2013 UVOZ",
       "url": "https://hhauto.olx.ba/artikal/76828625",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/76828625/sm/img-1779570038-c26ea40fdc32.jpg",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/76828625/sm/img-1789223467-42dc9455dad4.jpg",
       "condition": "Polovno",
       "fuel": "dizel",
       "km": "329.883 km",
@@ -207,21 +207,6 @@
       "km": "287.000 km",
       "year": "2015",
       "price": "59.999 KM",
-      "updated": "",
-      "labels": [
-        "Dostupno odmah"
-      ]
-    },
-    {
-      "id": "71756495",
-      "name": "Škoda Octavia 1.6 TDI DSG 2018 Registrovan",
-      "url": "https://hhauto.olx.ba/artikal/71756495",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/71756495/sm/img-1761207292-35ab17f40692.jpg",
-      "condition": "Polovno",
-      "fuel": "dizel",
-      "km": "250.570 km",
-      "year": "2018",
-      "price": "17.999 KM",
       "updated": "",
       "labels": [
         "Dostupno odmah"

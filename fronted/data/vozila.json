@@ -1,8 +1,38 @@
 {
   "source": "https://hhauto.olx.ba/aktivni",
-  "updatedAt": "2026-09-13T09:55:47.859999+00:00",
+  "updatedAt": "2026-09-14T10:17:03.692382+00:00",
   "count": 33,
   "vehicles": [
+    {
+      "id": "68411495",
+      "name": "Audi A6 50 TDI 2020 QUATTRO VIRTUAL 360 REG. 05/2026",
+      "url": "https://hhauto.olx.ba/artikal/68411495",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/68411495/sm/img-1748244032-7abc89f9df4c.jpg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "102.105 km",
+      "year": "2020",
+      "price": "74.999 KM",
+      "updated": "",
+      "labels": [
+        "Dostupno odmah"
+      ]
+    },
+    {
+      "id": "73311395",
+      "name": "Audi Q2 QUATTRO 2.0 TDI 140 KW UVOZ DE GARANCIJA REG 2/2027",
+      "url": "https://hhauto.olx.ba/artikal/73311395",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/73311395/sm/img-1780849275-26369b3109d8.jpg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "121.862 km",
+      "year": "2017",
+      "price": "42.999 KM",
+      "updated": "",
+      "labels": [
+        "Dostupno odmah"
+      ]
+    },
     {
       "id": "75744316",
       "name": "BMW X6 M50d 12/2020",
@@ -15,7 +45,6 @@
       "price": "Na upit",
       "updated": "",
       "labels": [
-        "Izdvojeno",
         "Dostupno odmah"
       ]
     },
@@ -279,7 +308,7 @@
       "fuel": "dizel",
       "km": "358.685 km",
       "year": "2013",
-      "price": "16.999 KM",
+      "price": "15.999 KM",
       "updated": "",
       "labels": [
         "Dostupno odmah"
@@ -429,7 +458,7 @@
       "fuel": "",
       "km": "",
       "year": "",
-      "price": "12.999 KM",
+      "price": "12.499 KM",
       "updated": "",
       "labels": []
     },
@@ -460,36 +489,6 @@
       "price": "6.900 KM",
       "updated": "",
       "labels": []
-    },
-    {
-      "id": "68411495",
-      "name": "Audi A6 50 TDI 2020 QUATTRO VIRTUAL 360 REG. 05/2026",
-      "url": "https://hhauto.olx.ba/artikal/68411495",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/68411495/sm/img-1748244032-7abc89f9df4c.jpg",
-      "condition": "Polovno",
-      "fuel": "dizel",
-      "km": "102.105 km",
-      "year": "2020",
-      "price": "74.999 KM",
-      "updated": "",
-      "labels": [
-        "Dostupno odmah"
-      ]
-    },
-    {
-      "id": "73311395",
-      "name": "Audi Q2 QUATTRO 2.0 TDI 140 KW UVOZ DE GARANCIJA REG 2/2027",
-      "url": "https://hhauto.olx.ba/artikal/73311395",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/73311395/sm/img-1780849275-26369b3109d8.jpg",
-      "condition": "Polovno",
-      "fuel": "dizel",
-      "km": "121.862 km",
-      "year": "2017",
-      "price": "42.999 KM",
-      "updated": "",
-      "labels": [
-        "Dostupno odmah"
-      ]
     }
   ]
 }

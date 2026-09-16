@@ -1,8 +1,24 @@
 {
   "source": "https://hhauto.olx.ba/aktivni",
-  "updatedAt": "2026-09-15T09:44:53.008478+00:00",
+  "updatedAt": "2026-09-16T09:38:36.344893+00:00",
   "count": 33,
   "vehicles": [
+    {
+      "id": "79378877",
+      "name": "LINHAI 550L EPS ABS SERVO GRIJANJE SJEDISTA KOFER NOVO",
+      "url": "https://hhauto.olx.ba/artikal/79378877",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/79378877/sm/img-1788718593-6ac78f9a3bfc.jpg",
+      "condition": "Polovno",
+      "fuel": "",
+      "km": "",
+      "year": "",
+      "price": "12.499 KM",
+      "updated": "",
+      "labels": [
+        "Izdvojeno",
+        "Dostupno odmah"
+      ]
+    },
     {
       "id": "70390707",
       "name": "Audi A4 2.0 TDI 2013 AUTOMATIK REG. 05/2027",
@@ -32,6 +48,37 @@
       "updated": "",
       "labels": [
         "Izdvojeno",
+        "Dostupno odmah"
+      ]
+    },
+    {
+      "id": "75744316",
+      "name": "BMW X6 M50d 12/2020",
+      "url": "https://hhauto.olx.ba/artikal/75744316",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/75744316/sm/img-1775911056-14d49cb993d5.jpeg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "91.563 km",
+      "year": "2020",
+      "price": "Na upit",
+      "updated": "",
+      "labels": [
+        "Izdvojeno",
+        "Dostupno odmah"
+      ]
+    },
+    {
+      "id": "79378665",
+      "name": "LINHAI 1000 2026 NOVO",
+      "url": "https://hhauto.olx.ba/artikal/79378665",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/79378665/sm/img-1788717895-edb2a161e639.jpg",
+      "condition": "Polovno",
+      "fuel": "",
+      "km": "",
+      "year": "",
+      "price": "20.500 KM",
+      "updated": "",
+      "labels": [
         "Dostupno odmah"
       ]
     },
@@ -94,21 +141,6 @@
       ]
     },
     {
-      "id": "75744316",
-      "name": "BMW X6 M50d 12/2020",
-      "url": "https://hhauto.olx.ba/artikal/75744316",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/75744316/sm/img-1775911056-14d49cb993d5.jpeg",
-      "condition": "Polovno",
-      "fuel": "dizel",
-      "km": "91.563 km",
-      "year": "2020",
-      "price": "Na upit",
-      "updated": "",
-      "labels": [
-        "Dostupno odmah"
-      ]
-    },
-    {
       "id": "75024974",
       "name": "Škoda Fabia 1.2 TDI UVOZ NL",
       "url": "https://hhauto.olx.ba/artikal/75024974",
@@ -147,7 +179,7 @@
       "fuel": "dizel",
       "km": "236.934 km",
       "year": "2017",
-      "price": "Na upit",
+      "price": "24.999 KM",
       "updated": "",
       "labels": []
     },
@@ -463,34 +495,6 @@
       "labels": [
         "Dostupno odmah"
       ]
-    },
-    {
-      "id": "77555741",
-      "name": "Volkswagen e-Golf 2015 UVOZ NL",
-      "url": "https://hhauto.olx.ba/artikal/77555741",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/77555741/sm/img-1782155763-2321c81a912b.jpg",
-      "condition": "Polovno",
-      "fuel": "elektro",
-      "km": "223.889 km",
-      "year": "2015",
-      "price": "16.999 KM",
-      "updated": "",
-      "labels": [
-        "Dostupno odmah"
-      ]
-    },
-    {
-      "id": "79378877",
-      "name": "LINHAI 550L EPS ABS SERVO GRIJANJE SJEDISTA KOFER NOVO",
-      "url": "https://hhauto.olx.ba/artikal/79378877",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/79378877/sm/img-1788718593-6ac78f9a3bfc.jpg",
-      "condition": "Polovno",
-      "fuel": "",
-      "km": "",
-      "year": "",
-      "price": "12.499 KM",
-      "updated": "",
-      "labels": []
     }
   ]
 }

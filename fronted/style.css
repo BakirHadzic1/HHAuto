@@ -79,7 +79,8 @@ nav{
 .hamburger{
   display:none;
   align-items:center;
-  gap:10px;
+  justify-content:center;
+  width:44px;
   min-height:44px;
   background:rgba(255,255,255,0.05);
   border:1px solid rgba(255,255,255,0.12);
@@ -87,12 +88,7 @@ nav{
   cursor:pointer;
   color:#fff;
   font:inherit;
-  padding:0 12px;
-}
-
-.menu-label{
-  font-size:14px;
-  font-weight:700;
+  padding:0;
 }
 
 .hamburger-icon{
@@ -944,22 +940,36 @@ section hr{
 
   .benefits{
     display:grid;
-    grid-template-columns:repeat(3, minmax(0, 1fr));
-    gap:10px;
-    margin-top:42px;
+    grid-template-columns:1fr;
+    gap:0;
+    width:min(100%, 340px);
+    margin:36px auto 0;
   }
 
   .benefit{
     width:auto;
+    display:grid;
+    grid-template-columns:52px minmax(0, 1fr);
+    align-items:center;
+    gap:16px;
+    padding:18px 4px;
+    text-align:left;
+    border-bottom:1px solid rgba(255,255,255,0.1);
+  }
+
+  .benefit:last-child{
+    border-bottom:0;
   }
 
   .benefit i{
-    font-size:38px;
+    width:52px;
+    font-size:36px;
+    text-align:center;
   }
 
   .benefit p{
-    margin:12px 0 0;
-    font-size:13px;
+    margin:0;
+    font-size:16px;
     line-height:1.35;
   }
 

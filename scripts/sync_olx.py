@@ -25,6 +25,33 @@ def extract(pattern, source, default=""):
     return clean_text(match.group(1))
 
 
+def extract_prices(block):
+    price_spans = re.findall(
+        r'<span class="([^"]*\bsmaller\b[^"]*)"[^>]*>(.*?)</span>',
+        block,
+        re.S | re.I,
+    )
+    regular_price = ""
+    original_price = ""
+    discounted_price = ""
+
+    for classes, value in price_spans:
+        price = clean_text(value)
+        class_names = classes.lower().split()
+        if not price:
+            continue
+        if "discounted-price" in class_names:
+            discounted_price = price
+        elif "discount" in class_names:
+            original_price = price
+        elif not regular_price:
+            regular_price = price
+
+    if discounted_price:
+        return discounted_price, original_price
+    return regular_price or "Na upit", ""
+
+
 def fetch_html():
     request = Request(
         SHOP_URL,
@@ -58,6 +85,7 @@ def parse_listings(html):
             clean_text(label)
             for label in re.findall(r'<div class="highlighted-label[^"]*"[^>]*>(.*?)</div>', block, re.S)
         ]
+        price, original_price = extract_prices(block)
 
         vehicle = {
             "id": href.rsplit("/", 1)[-1],
@@ -69,7 +97,8 @@ def parse_listings(html):
             "fuel": tags[0] if len(tags) > 0 else "",
             "km": f"{tags[1]} km" if len(tags) > 1 and not tags[1].endswith("km") else (tags[1] if len(tags) > 1 else ""),
             "year": tags[2] if len(tags) > 2 else "",
-            "price": extract(r'<span class="smaller"[^>]*>(.*?)</span>', block, "Na upit"),
+            "price": price,
+            "originalPrice": original_price,
             "updated": extract(r'<div class="text-xs"[^>]*>(.*?)</div>', block),
             "labels": [label for label in labels if label and label.upper() != "PIK SHOP"],
         }

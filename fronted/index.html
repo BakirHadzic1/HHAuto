@@ -29,6 +29,7 @@
   <link rel="apple-touch-icon" href="/slike/IMG_4692.jpg" />
   <link rel="manifest" href="/site.webmanifest" />
   <title>HH Auto Travnik | Zvanična stranica | Uvoz i prodaja vozila</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" />
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -39,7 +40,7 @@
         "name": "HH Auto Travnik",
         "legalName": "HH AUTO d.o.o. Travnik",
         "url": "https://www.hhauto.ba/",
-        "logo": "https://www.hhauto.ba/static/logo_white-32c3b8cbfd91cf0c909f40c398110c38.svg",
+        "logo": "https://www.hhauto.ba/static/hhauto-logo.png",
         "image": "https://www.hhauto.ba/slike/IMG_4692.jpg",
         "description": "HH Auto Travnik je auto kuca za uvoz i prodaju rabljenih vozila, uz rent-a-car usluge i aktivnu ponudu vozila.",
         "telephone": "+38761696704",
@@ -132,7 +133,7 @@
   <header>
     <div class="container">
       <div class="logo">
-        <img src="./static/logo_white-32c3b8cbfd91cf0c909f40c398110c38.svg" alt="HH Auto Travnik logo" />
+        <img src="./static/hhauto-logo.png" alt="HH Auto Travnik logo" />
       </div>
 
       <nav aria-label="Glavna navigacija">
@@ -146,7 +147,10 @@
           <li><a href="#kontakt">Kontakt</a></li>
         </ul>
 
-        <button class="hamburger" type="button" aria-label="Otvori meni" aria-controls="mainNav" aria-expanded="false">Meni</button>
+        <button class="hamburger" type="button" aria-label="Otvori meni" aria-controls="mainNav" aria-expanded="false">
+          <span class="menu-label">Meni</span>
+          <span class="hamburger-icon" aria-hidden="true"><span></span><span></span><span></span></span>
+        </button>
       </nav>
     </div>
   </header>
@@ -200,15 +204,15 @@
 
           <div class="benefits">
             <div class="benefit">
-              <strong class="benefit-number">1</strong>
+              <i class="fas fa-handshake" aria-hidden="true"></i>
               <p class="yellow-text">Jasne informacije</p>
             </div>
             <div class="benefit">
-              <strong class="benefit-number">2</strong>
+              <i class="fas fa-car" aria-hidden="true"></i>
               <p class="yellow-text">Aktuelna ponuda</p>
             </div>
             <div class="benefit">
-              <strong class="benefit-number">3</strong>
+              <i class="fas fa-check-circle" aria-hidden="true"></i>
               <p class="yellow-text">Direktan kontakt</p>
             </div>
           </div>

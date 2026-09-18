@@ -1,18 +1,36 @@
 {
   "source": "https://hhauto.olx.ba/aktivni",
-  "updatedAt": "2026-09-17T09:47:24.528872+00:00",
-  "count": 31,
+  "updatedAt": "2026-09-18T07:41:22.490039+00:00",
+  "count": 32,
   "vehicles": [
     {
-      "id": "79378877",
-      "name": "LINHAI 550L EPS ABS SERVO GRIJANJE SJEDISTA KOFER NOVO",
-      "url": "https://hhauto.olx.ba/artikal/79378877",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/79378877/sm/img-1788718593-6ac78f9a3bfc.jpg",
+      "id": "72611190",
+      "name": "Porsche Cayenne S 4.2 TDI UVOZ CH 12/2015",
+      "url": "https://hhauto.olx.ba/artikal/72611190",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/72611190/sm/img-1764778454-d9c7ec920428.jpg",
       "condition": "Polovno",
-      "fuel": "",
-      "km": "",
-      "year": "",
-      "price": "12.499 KM",
+      "fuel": "dizel",
+      "km": "287.000 km",
+      "year": "2015",
+      "price": "59.999 KM",
+      "originalPrice": "",
+      "updated": "",
+      "labels": [
+        "Izdvojeno",
+        "Dostupno odmah"
+      ]
+    },
+    {
+      "id": "79646753",
+      "name": "Škoda Octavia 1.6 TDI DSG 2018 REGISTROVAN 5/2027 Servisirano",
+      "url": "https://hhauto.olx.ba/artikal/79646753",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/79646753/sm/img-1789646414-c4a79f5d26b0.jpg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "250.757 km",
+      "year": "2018",
+      "price": "18.500 KM",
+      "originalPrice": "",
       "updated": "",
       "labels": [
         "Izdvojeno",
@@ -29,6 +47,7 @@
       "km": "208.647 km",
       "year": "2020",
       "price": "34.900 KM",
+      "originalPrice": "",
       "updated": "",
       "labels": [
         "Izdvojeno",
@@ -45,6 +64,7 @@
       "km": "258.000 km",
       "year": "2015",
       "price": "18.999 KM",
+      "originalPrice": "",
       "updated": "",
       "labels": [
         "Izdvojeno",
@@ -61,6 +81,7 @@
       "km": "102.105 km",
       "year": "2020",
       "price": "74.999 KM",
+      "originalPrice": "",
       "updated": "",
       "labels": [
         "Izdvojeno",
@@ -68,385 +89,16 @@
       ]
     },
     {
-      "id": "75744316",
-      "name": "BMW X6 M50d 12/2020",
-      "url": "https://hhauto.olx.ba/artikal/75744316",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/75744316/sm/img-1775911056-14d49cb993d5.jpeg",
-      "condition": "Polovno",
-      "fuel": "dizel",
-      "km": "91.563 km",
-      "year": "2020",
-      "price": "Na upit",
-      "updated": "",
-      "labels": [
-        "Izdvojeno",
-        "Dostupno odmah"
-      ]
-    },
-    {
-      "id": "70390707",
-      "name": "Audi A4 2.0 TDI 2013 AUTOMATIK REG. 05/2027",
-      "url": "https://hhauto.olx.ba/artikal/70390707",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/70390707/sm/img-1756215342-aedb0b0f64f1.jpg",
-      "condition": "Polovno",
-      "fuel": "dizel",
-      "km": "358.685 km",
-      "year": "2013",
-      "price": "Na upit",
-      "updated": "",
-      "labels": [
-        "Dostupno odmah"
-      ]
-    },
-    {
-      "id": "76828625",
-      "name": "Škoda Fabia 1.2 TDI 2013 UVOZ",
-      "url": "https://hhauto.olx.ba/artikal/76828625",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/76828625/sm/img-1789223467-42dc9455dad4.jpg",
-      "condition": "Polovno",
-      "fuel": "dizel",
-      "km": "329.883 km",
-      "year": "2013",
-      "price": "Na upit",
-      "updated": "",
-      "labels": [
-        "Dostupno odmah"
-      ]
-    },
-    {
-      "id": "79378665",
-      "name": "LINHAI 1000 2026 NOVO",
-      "url": "https://hhauto.olx.ba/artikal/79378665",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/79378665/sm/img-1788717895-edb2a161e639.jpg",
+      "id": "79378877",
+      "name": "LINHAI 550L EPS ABS SERVO GRIJANJE SJEDISTA KOFER NOVO",
+      "url": "https://hhauto.olx.ba/artikal/79378877",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/79378877/sm/img-1788718593-6ac78f9a3bfc.jpg",
       "condition": "Polovno",
       "fuel": "",
       "km": "",
       "year": "",
-      "price": "20.500 KM",
-      "updated": "",
-      "labels": [
-        "Dostupno odmah"
-      ]
-    },
-    {
-      "id": "76046136",
-      "name": "Peugeot 308 1.2 Benzin 96 kw 2019 UVOZ",
-      "url": "https://hhauto.olx.ba/artikal/76046136",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/76046136/sm/img-1776946978-c4e7f40f2165.jpg",
-      "condition": "Polovno",
-      "fuel": "benzin",
-      "km": "171.068 km",
-      "year": "2019",
-      "price": "16.999 KM",
-      "updated": "",
-      "labels": [
-        "Dostupno odmah"
-      ]
-    },
-    {
-      "id": "74947412",
-      "name": "Seat Ibiza 1.2 TDI UVOZ",
-      "url": "https://hhauto.olx.ba/artikal/74947412",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/74947412/sm/img-1773164034-e5e781d1172e.jpg",
-      "condition": "Polovno",
-      "fuel": "dizel",
-      "km": "287.905 km",
-      "year": "2010",
-      "price": "6.900 KM",
-      "updated": "",
-      "labels": []
-    },
-    {
-      "id": "73311395",
-      "name": "Audi Q2 QUATTRO 2.0 TDI 140 KW UVOZ DE GARANCIJA REG 2/2027",
-      "url": "https://hhauto.olx.ba/artikal/73311395",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/73311395/sm/img-1780849275-26369b3109d8.jpg",
-      "condition": "Polovno",
-      "fuel": "dizel",
-      "km": "121.862 km",
-      "year": "2017",
-      "price": "42.999 KM",
-      "updated": "",
-      "labels": [
-        "Dostupno odmah"
-      ]
-    },
-    {
-      "id": "75024974",
-      "name": "Škoda Fabia 1.2 TDI UVOZ NL",
-      "url": "https://hhauto.olx.ba/artikal/75024974",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/75024974/sm/img-1773415946-88bb59664b0f.jpg",
-      "condition": "Polovno",
-      "fuel": "dizel",
-      "km": "205.523 km",
-      "year": "2011",
-      "price": "7.999 KM",
-      "updated": "",
-      "labels": [
-        "Dostupno odmah"
-      ]
-    },
-    {
-      "id": "77140412",
-      "name": "Škoda Octavia VRS 2.0 TDI 2017 DSG - 4x4 - UVOZ -",
-      "url": "https://hhauto.olx.ba/artikal/77140412",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/77140412/sm/img-1780759043-1cba494f341a.jpeg",
-      "condition": "Polovno",
-      "fuel": "dizel",
-      "km": "236.934 km",
-      "year": "2017",
-      "price": "24.999 KM",
-      "updated": "",
-      "labels": []
-    },
-    {
-      "id": "78766324",
-      "name": "Škoda Octavia 1.2 benzin 2011",
-      "url": "https://hhauto.olx.ba/artikal/78766324",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/78766324/sm/img-1786535699-bf1d12a4e8de.jpeg",
-      "condition": "Polovno",
-      "fuel": "benzin",
-      "km": "324.843 km",
-      "year": "2011",
-      "price": "8.999 KM",
-      "updated": "",
-      "labels": [
-        "Dostupno odmah"
-      ]
-    },
-    {
-      "id": "75672978",
-      "name": "Audi A3 2.0 TDI 110 KW 2015 UVOZ DE",
-      "url": "https://hhauto.olx.ba/artikal/75672978",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/75672978/sm/img-1775660753-bad4fd466feb.jpg",
-      "condition": "Polovno",
-      "fuel": "dizel",
-      "km": "296.491 km",
-      "year": "2015",
-      "price": "23.999 KM",
-      "updated": "",
-      "labels": [
-        "Dostupno odmah"
-      ]
-    },
-    {
-      "id": "64285423",
-      "name": "Ford Focus 1.5 TDCi 2019 - UVOZ - REG. 7/2027",
-      "url": "https://hhauto.olx.ba/artikal/64285423",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/64285423/sm/img-1729339926-63c5dcce0988.jpg",
-      "condition": "Polovno",
-      "fuel": "dizel",
-      "km": "150.894 km",
-      "year": "2019",
-      "price": "21.999 KM",
-      "updated": "",
-      "labels": [
-        "Dostupno odmah"
-      ]
-    },
-    {
-      "id": "79390107",
-      "name": "Volkswagen T5 Multivan 2014 2.0 TDI REGISTROVAN 7/2027",
-      "url": "https://hhauto.olx.ba/artikal/79390107",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/79390107/sm/img-1789221423-0fe625dfd9bb.jpg",
-      "condition": "Polovno",
-      "fuel": "dizel",
-      "km": "299.554 km",
-      "year": "2014",
-      "price": "34.999 KM",
-      "updated": "",
-      "labels": [
-        "Dostupno odmah"
-      ]
-    },
-    {
-      "id": "79457805",
-      "name": "BMW X6 M50 12/2020 REGISTROVAN",
-      "url": "https://hhauto.olx.ba/artikal/79457805",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/79457805/sm/img-1788971408-92ec84fccd4a.jpg",
-      "condition": "Polovno",
-      "fuel": "dizel",
-      "km": "101.000 km",
-      "year": "2020",
-      "price": "139.000 KM",
-      "updated": "",
-      "labels": [
-        "Dostupno odmah"
-      ]
-    },
-    {
-      "id": "74971013",
-      "name": "Ford Focus 1.5 TDCI 2020 UVOZ",
-      "url": "https://hhauto.olx.ba/artikal/74971013",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/74971013/sm/img-1773242756-35fcd9fd6dbd.jpg",
-      "condition": "Polovno",
-      "fuel": "dizel",
-      "km": "182.078 km",
-      "year": "2020",
-      "price": "18.999 KM",
-      "updated": "",
-      "labels": [
-        "Dostupno odmah"
-      ]
-    },
-    {
-      "id": "76829046",
-      "name": "Peugeot 3008 1.6 VTi 2009 Benzin - Uvoz",
-      "url": "https://hhauto.olx.ba/artikal/76829046",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/76829046/sm/img-1779573143-0e7ef7dac969.jpg",
-      "condition": "Polovno",
-      "fuel": "benzin",
-      "km": "269.614 km",
-      "year": "2009",
-      "price": "6.999 KM",
-      "updated": "",
-      "labels": [
-        "Dostupno odmah"
-      ]
-    },
-    {
-      "id": "72611190",
-      "name": "Porsche Cayenne S 4.2 TDI UVOZ CH 12/2015",
-      "url": "https://hhauto.olx.ba/artikal/72611190",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/72611190/sm/img-1764778454-d9c7ec920428.jpg",
-      "condition": "Polovno",
-      "fuel": "dizel",
-      "km": "287.000 km",
-      "year": "2015",
-      "price": "59.999 KM",
-      "updated": "",
-      "labels": [
-        "Dostupno odmah"
-      ]
-    },
-    {
-      "id": "73700490",
-      "name": "Volkswagen Passat 2.0 4M 130 KW UVOZ CH REG 7/2027",
-      "url": "https://hhauto.olx.ba/artikal/73700490",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/73700490/sm/img-1768905657-27fb32518ddb.jpg",
-      "condition": "Polovno",
-      "fuel": "dizel",
-      "km": "273.313 km",
-      "year": "2014",
-      "price": "17.999 KM",
-      "updated": "",
-      "labels": [
-        "Dostupno odmah"
-      ]
-    },
-    {
-      "id": "74117695",
-      "name": "Škoda Octavia 1.6 Tdi 4x4 2013 UVOZ CH",
-      "url": "https://hhauto.olx.ba/artikal/74117695",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/74117695/sm/img-1772139480-345dcaea1934.jpg",
-      "condition": "Polovno",
-      "fuel": "dizel",
-      "km": "267.787 km",
-      "year": "2013",
-      "price": "10.999 KM",
-      "updated": "",
-      "labels": []
-    },
-    {
-      "id": "76828545",
-      "name": "Peugeot 208 1.0 Benzin 2014 UVOZ",
-      "url": "https://hhauto.olx.ba/artikal/76828545",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/76828545/sm/img-1779569705-ee3743c08a2a.jpg",
-      "condition": "Polovno",
-      "fuel": "benzin",
-      "km": "165.666 km",
-      "year": "2014",
-      "price": "8.500 KM",
-      "updated": "",
-      "labels": [
-        "Dostupno odmah"
-      ]
-    },
-    {
-      "id": "69293035",
-      "name": "Volkswagen Golf 1.6 TDI DSG 2012 UVOZ REGIST 7/2027",
-      "url": "https://hhauto.olx.ba/artikal/69293035",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/69293035/sm/img-1752245110-050d03b6437e.jpg",
-      "condition": "Polovno",
-      "fuel": "dizel",
-      "km": "303.235 km",
-      "year": "2012",
-      "price": "9.999 KM",
-      "updated": "",
-      "labels": [
-        "Dostupno odmah"
-      ]
-    },
-    {
-      "id": "69005786",
-      "name": "Mercedes-Benz Vito 3.0 CDI 2012 7+1 AUTOMATIK REG. 06/27",
-      "url": "https://hhauto.olx.ba/artikal/69005786",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/69005786/sm/img-1750960178-fca9a1139bdb.jpg",
-      "condition": "Polovno",
-      "fuel": "dizel",
-      "km": "296.356 km",
-      "year": "2012",
-      "price": "32.999 KM",
-      "updated": "",
-      "labels": [
-        "Dostupno odmah"
-      ]
-    },
-    {
-      "id": "78070841",
-      "name": "Seat Ibiza 1.2 TDI 2012 - UVOZ -",
-      "url": "https://hhauto.olx.ba/artikal/78070841",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/78070841/sm/img-1784135806-1e2e9e1b8197.jpeg",
-      "condition": "Polovno",
-      "fuel": "dizel",
-      "km": "324.545 km",
-      "year": "2012",
-      "price": "6.999 KM",
-      "updated": "",
-      "labels": [
-        "Dostupno odmah"
-      ]
-    },
-    {
-      "id": "76076748",
-      "name": "Škoda Fabia 1.2 TDI 2011 UVOZ NL",
-      "url": "https://hhauto.olx.ba/artikal/76076748",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/76076748/sm/img-1777040765-bd0b4f0ec3af.jpg",
-      "condition": "Polovno",
-      "fuel": "dizel",
-      "km": "239.564 km",
-      "year": "2011",
-      "price": "8.750 KM",
-      "updated": "",
-      "labels": [
-        "Dostupno odmah"
-      ]
-    },
-    {
-      "id": "74333901",
-      "name": "Volkswagen Polo 1.2 TDI",
-      "url": "https://hhauto.olx.ba/artikal/74333901",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/74333901/sm/img-1782576537-01a13f29e706.jpg",
-      "condition": "Polovno",
-      "fuel": "dizel",
-      "km": "200.000 km",
-      "year": "2010",
-      "price": "7.900 KM",
-      "updated": "",
-      "labels": [
-        "Dostupno odmah"
-      ]
-    },
-    {
-      "id": "77509370",
-      "name": "Seat Ibiza 1.2 Tdi 2011 Uvoz NL",
-      "url": "https://hhauto.olx.ba/artikal/77509370",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/77509370/sm/img-1781965830-6d3057add098.jpg",
-      "condition": "Polovno",
-      "fuel": "dizel",
-      "km": "300.407 km",
-      "year": "2011",
-      "price": "6.900 KM",
+      "price": "12.499 KM",
+      "originalPrice": "",
       "updated": "",
       "labels": [
         "Dostupno odmah"
@@ -462,6 +114,401 @@
       "km": "96.185 km",
       "year": "2016",
       "price": "69.999 KM",
+      "originalPrice": "",
+      "updated": "",
+      "labels": [
+        "Dostupno odmah"
+      ]
+    },
+    {
+      "id": "77555741",
+      "name": "Volkswagen e-Golf 2015 UVOZ NL",
+      "url": "https://hhauto.olx.ba/artikal/77555741",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/77555741/sm/img-1782155763-2321c81a912b.jpg",
+      "condition": "Polovno",
+      "fuel": "elektro",
+      "km": "223.889 km",
+      "year": "2015",
+      "price": "16.999 KM",
+      "originalPrice": "",
+      "updated": "",
+      "labels": [
+        "Dostupno odmah"
+      ]
+    },
+    {
+      "id": "77509370",
+      "name": "Seat Ibiza 1.2 Tdi 2011 Uvoz NL",
+      "url": "https://hhauto.olx.ba/artikal/77509370",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/77509370/sm/img-1781965830-6d3057add098.jpg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "300.407 km",
+      "year": "2011",
+      "price": "6.900 KM",
+      "originalPrice": "",
+      "updated": "",
+      "labels": [
+        "Dostupno odmah"
+      ]
+    },
+    {
+      "id": "74333901",
+      "name": "Volkswagen Polo 1.2 TDI",
+      "url": "https://hhauto.olx.ba/artikal/74333901",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/74333901/sm/img-1782576537-01a13f29e706.jpg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "200.000 km",
+      "year": "2010",
+      "price": "7.900 KM",
+      "originalPrice": "",
+      "updated": "",
+      "labels": [
+        "Dostupno odmah"
+      ]
+    },
+    {
+      "id": "76076748",
+      "name": "Škoda Fabia 1.2 TDI 2011 UVOZ NL",
+      "url": "https://hhauto.olx.ba/artikal/76076748",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/76076748/sm/img-1777040765-bd0b4f0ec3af.jpg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "239.564 km",
+      "year": "2011",
+      "price": "8.750 KM",
+      "originalPrice": "",
+      "updated": "",
+      "labels": [
+        "Dostupno odmah"
+      ]
+    },
+    {
+      "id": "78070841",
+      "name": "Seat Ibiza 1.2 TDI 2012 - UVOZ -",
+      "url": "https://hhauto.olx.ba/artikal/78070841",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/78070841/sm/img-1784135806-1e2e9e1b8197.jpeg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "324.545 km",
+      "year": "2012",
+      "price": "6.999 KM",
+      "originalPrice": "",
+      "updated": "",
+      "labels": [
+        "Dostupno odmah"
+      ]
+    },
+    {
+      "id": "75744316",
+      "name": "BMW X6 M50d 12/2020",
+      "url": "https://hhauto.olx.ba/artikal/75744316",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/75744316/sm/img-1775911056-14d49cb993d5.jpeg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "91.563 km",
+      "year": "2020",
+      "price": "129.000 KM",
+      "originalPrice": "139.000 KM",
+      "updated": "",
+      "labels": [
+        "Dostupno odmah"
+      ]
+    },
+    {
+      "id": "70390707",
+      "name": "Audi A4 2.0 TDI 2013 AUTOMATIK REG. 05/2027",
+      "url": "https://hhauto.olx.ba/artikal/70390707",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/70390707/sm/img-1756215342-aedb0b0f64f1.jpg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "358.685 km",
+      "year": "2013",
+      "price": "15.999 KM",
+      "originalPrice": "",
+      "updated": "",
+      "labels": [
+        "Dostupno odmah"
+      ]
+    },
+    {
+      "id": "76828625",
+      "name": "Škoda Fabia 1.2 TDI 2013 UVOZ",
+      "url": "https://hhauto.olx.ba/artikal/76828625",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/76828625/sm/img-1789223467-42dc9455dad4.jpg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "329.883 km",
+      "year": "2013",
+      "price": "6.500 KM",
+      "originalPrice": "",
+      "updated": "",
+      "labels": [
+        "Dostupno odmah"
+      ]
+    },
+    {
+      "id": "79378665",
+      "name": "LINHAI 1000 2026 NOVO",
+      "url": "https://hhauto.olx.ba/artikal/79378665",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/79378665/sm/img-1788717895-edb2a161e639.jpg",
+      "condition": "Polovno",
+      "fuel": "",
+      "km": "",
+      "year": "",
+      "price": "20.500 KM",
+      "originalPrice": "",
+      "updated": "",
+      "labels": [
+        "Dostupno odmah"
+      ]
+    },
+    {
+      "id": "76046136",
+      "name": "Peugeot 308 1.2 Benzin 96 kw 2019 UVOZ",
+      "url": "https://hhauto.olx.ba/artikal/76046136",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/76046136/sm/img-1776946978-c4e7f40f2165.jpg",
+      "condition": "Polovno",
+      "fuel": "benzin",
+      "km": "171.068 km",
+      "year": "2019",
+      "price": "16.999 KM",
+      "originalPrice": "",
+      "updated": "",
+      "labels": [
+        "Dostupno odmah"
+      ]
+    },
+    {
+      "id": "74947412",
+      "name": "Seat Ibiza 1.2 TDI UVOZ",
+      "url": "https://hhauto.olx.ba/artikal/74947412",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/74947412/sm/img-1773164034-e5e781d1172e.jpg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "287.905 km",
+      "year": "2010",
+      "price": "6.900 KM",
+      "originalPrice": "",
+      "updated": "",
+      "labels": []
+    },
+    {
+      "id": "73311395",
+      "name": "Audi Q2 QUATTRO 2.0 TDI 140 KW UVOZ DE GARANCIJA REG 2/2027",
+      "url": "https://hhauto.olx.ba/artikal/73311395",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/73311395/sm/img-1780849275-26369b3109d8.jpg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "121.862 km",
+      "year": "2017",
+      "price": "42.999 KM",
+      "originalPrice": "",
+      "updated": "",
+      "labels": [
+        "Dostupno odmah"
+      ]
+    },
+    {
+      "id": "75024974",
+      "name": "Škoda Fabia 1.2 TDI UVOZ NL",
+      "url": "https://hhauto.olx.ba/artikal/75024974",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/75024974/sm/img-1773415946-88bb59664b0f.jpg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "205.523 km",
+      "year": "2011",
+      "price": "7.999 KM",
+      "originalPrice": "",
+      "updated": "",
+      "labels": [
+        "Dostupno odmah"
+      ]
+    },
+    {
+      "id": "77140412",
+      "name": "Škoda Octavia VRS 2.0 TDI 2017 DSG - 4x4 - UVOZ -",
+      "url": "https://hhauto.olx.ba/artikal/77140412",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/77140412/sm/img-1780759043-1cba494f341a.jpeg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "236.934 km",
+      "year": "2017",
+      "price": "24.999 KM",
+      "originalPrice": "",
+      "updated": "",
+      "labels": []
+    },
+    {
+      "id": "78766324",
+      "name": "Škoda Octavia 1.2 benzin 2011",
+      "url": "https://hhauto.olx.ba/artikal/78766324",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/78766324/sm/img-1786535699-bf1d12a4e8de.jpeg",
+      "condition": "Polovno",
+      "fuel": "benzin",
+      "km": "324.843 km",
+      "year": "2011",
+      "price": "8.999 KM",
+      "originalPrice": "",
+      "updated": "",
+      "labels": [
+        "Dostupno odmah"
+      ]
+    },
+    {
+      "id": "75672978",
+      "name": "Audi A3 2.0 TDI 110 KW 2015 UVOZ DE",
+      "url": "https://hhauto.olx.ba/artikal/75672978",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/75672978/sm/img-1775660753-bad4fd466feb.jpg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "296.491 km",
+      "year": "2015",
+      "price": "23.999 KM",
+      "originalPrice": "",
+      "updated": "",
+      "labels": [
+        "Dostupno odmah"
+      ]
+    },
+    {
+      "id": "64285423",
+      "name": "Ford Focus 1.5 TDCi 2019 - UVOZ - REG. 7/2027",
+      "url": "https://hhauto.olx.ba/artikal/64285423",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/64285423/sm/img-1729339926-63c5dcce0988.jpg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "150.894 km",
+      "year": "2019",
+      "price": "21.999 KM",
+      "originalPrice": "",
+      "updated": "",
+      "labels": [
+        "Dostupno odmah"
+      ]
+    },
+    {
+      "id": "79390107",
+      "name": "Volkswagen T5 Multivan 2014 2.0 TDI REGISTROVAN 7/2027",
+      "url": "https://hhauto.olx.ba/artikal/79390107",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/79390107/sm/img-1789221423-0fe625dfd9bb.jpg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "299.554 km",
+      "year": "2014",
+      "price": "34.999 KM",
+      "originalPrice": "",
+      "updated": "",
+      "labels": [
+        "Dostupno odmah"
+      ]
+    },
+    {
+      "id": "79457805",
+      "name": "BMW X6 M50 12/2020 REGISTROVAN",
+      "url": "https://hhauto.olx.ba/artikal/79457805",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/79457805/sm/img-1788971408-92ec84fccd4a.jpg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "101.000 km",
+      "year": "2020",
+      "price": "139.000 KM",
+      "originalPrice": "",
+      "updated": "",
+      "labels": [
+        "Dostupno odmah"
+      ]
+    },
+    {
+      "id": "74971013",
+      "name": "Ford Focus 1.5 TDCI 2020 UVOZ",
+      "url": "https://hhauto.olx.ba/artikal/74971013",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/74971013/sm/img-1773242756-35fcd9fd6dbd.jpg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "182.078 km",
+      "year": "2020",
+      "price": "18.999 KM",
+      "originalPrice": "",
+      "updated": "",
+      "labels": [
+        "Dostupno odmah"
+      ]
+    },
+    {
+      "id": "76829046",
+      "name": "Peugeot 3008 1.6 VTi 2009 Benzin - Uvoz",
+      "url": "https://hhauto.olx.ba/artikal/76829046",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/76829046/sm/img-1779573143-0e7ef7dac969.jpg",
+      "condition": "Polovno",
+      "fuel": "benzin",
+      "km": "269.614 km",
+      "year": "2009",
+      "price": "6.999 KM",
+      "originalPrice": "",
+      "updated": "",
+      "labels": [
+        "Dostupno odmah"
+      ]
+    },
+    {
+      "id": "73700490",
+      "name": "Volkswagen Passat 2.0 4M 130 KW UVOZ CH REG 7/2027",
+      "url": "https://hhauto.olx.ba/artikal/73700490",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/73700490/sm/img-1768905657-27fb32518ddb.jpg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "273.313 km",
+      "year": "2014",
+      "price": "17.999 KM",
+      "originalPrice": "",
+      "updated": "",
+      "labels": [
+        "Dostupno odmah"
+      ]
+    },
+    {
+      "id": "74117695",
+      "name": "Škoda Octavia 1.6 Tdi 4x4 2013 UVOZ CH",
+      "url": "https://hhauto.olx.ba/artikal/74117695",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/74117695/sm/img-1772139480-345dcaea1934.jpg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "267.787 km",
+      "year": "2013",
+      "price": "10.999 KM",
+      "originalPrice": "",
+      "updated": "",
+      "labels": []
+    },
+    {
+      "id": "76828545",
+      "name": "Peugeot 208 1.0 Benzin 2014 UVOZ",
+      "url": "https://hhauto.olx.ba/artikal/76828545",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/76828545/sm/img-1779569705-ee3743c08a2a.jpg",
+      "condition": "Polovno",
+      "fuel": "benzin",
+      "km": "165.666 km",
+      "year": "2014",
+      "price": "8.500 KM",
+      "originalPrice": "",
+      "updated": "",
+      "labels": [
+        "Dostupno odmah"
+      ]
+    },
+    {
+      "id": "69293035",
+      "name": "Volkswagen Golf 1.6 TDI DSG 2012 UVOZ REGIST 7/2027",
+      "url": "https://hhauto.olx.ba/artikal/69293035",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/69293035/sm/img-1752245110-050d03b6437e.jpg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "303.235 km",
+      "year": "2012",
+      "price": "9.999 KM",
+      "originalPrice": "",
       "updated": "",
       "labels": [
         "Dostupno odmah"

@@ -58,6 +58,7 @@ document.addEventListener("DOMContentLoaded", () => {
       const setMenu = (open) => {
         navLinks.classList.toggle("open", open);
         hamburger.classList.toggle("open", open);
+        document.body.classList.toggle("menu-open", open);
         hamburger.setAttribute("aria-expanded", String(open));
         hamburger.setAttribute("aria-label", open ? "Zatvori meni" : "Otvori meni");
       };
@@ -70,6 +71,20 @@ document.addEventListener("DOMContentLoaded", () => {
         a.addEventListener("click", () => {
           setMenu(false);
         });
+      });
+
+      document.addEventListener("click", (event) => {
+        if (!navLinks.contains(event.target) && !hamburger.contains(event.target)) {
+          setMenu(false);
+        }
+      });
+
+      document.addEventListener("keydown", (event) => {
+        if (event.key === "Escape") setMenu(false);
+      });
+
+      window.addEventListener("resize", () => {
+        if (window.innerWidth > 768) setMenu(false);
       });
     }
   

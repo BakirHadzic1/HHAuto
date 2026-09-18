@@ -28,16 +28,40 @@ function getVehicleMeta(vehicle) {
   return [
     ["Godište", vehicle.year],
     ["Kilometraža", vehicle.km],
-    ["Gorivo", vehicle.fuel],
-    ["Cijena", vehicle.price || "Na upit"]
+    ["Gorivo", vehicle.fuel]
   ].filter(([, value]) => value);
+}
+
+function createPriceMarkup(vehicle) {
+  const currentPrice = vehicle.price || "Na upit";
+  const hasDiscount = vehicle.originalPrice && vehicle.originalPrice !== currentPrice;
+
+  if (hasDiscount) {
+    return `
+      <div class="car-price car-price-sale">
+        <span class="price-label">Akcijska cijena</span>
+        <span class="old-price">${escapeHtml(vehicle.originalPrice)}</span>
+        <strong>${escapeHtml(currentPrice)}</strong>
+      </div>
+    `;
+  }
+
+  return `
+    <div class="car-price">
+      <span class="price-label">Cijena</span>
+      <strong>${escapeHtml(currentPrice)}</strong>
+    </div>
+  `;
 }
 
 function createCarCard(vehicle) {
   const card = document.createElement("article");
   card.className = "car-card";
 
-  const labels = vehicle.labels?.length ? vehicle.labels : ["Dostupno na PIK-u"];
+  const labels = vehicle.labels?.length ? [...vehicle.labels] : ["Dostupno na PIK-u"];
+  if (vehicle.originalPrice && !labels.some(label => label.toLowerCase().includes("akcij"))) {
+    labels.unshift("Akcija");
+  }
   const meta = getVehicleMeta(vehicle);
 
   card.innerHTML = `
@@ -47,7 +71,8 @@ function createCarCard(vehicle) {
         ${labels.map(label => `<span class="badge available">${escapeHtml(label)}</span>`).join("")}
       </div>
       <h3>${escapeHtml(vehicle.name)}</h3>
-      <p>${escapeHtml(vehicle.condition || "Polovno")} vozilo iz aktivne HH Auto OLX ponude${vehicle.updated ? `, obnovljeno ${escapeHtml(vehicle.updated)}` : ""}.</p>
+      <p class="car-condition">${escapeHtml(vehicle.condition || "Polovno")}${vehicle.updated ? ` • obnovljeno ${escapeHtml(vehicle.updated)}` : ""}</p>
+      ${createPriceMarkup(vehicle)}
       <dl class="car-meta">
         ${meta.map(([label, value]) => `<div><dt>${escapeHtml(label)}</dt><dd>${escapeHtml(value)}</dd></div>`).join("")}
       </dl>

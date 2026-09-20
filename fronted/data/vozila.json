@@ -1,25 +1,8 @@
 {
   "source": "https://hhauto.olx.ba/aktivni",
-  "updatedAt": "2026-09-19T09:08:44.702198+00:00",
+  "updatedAt": "2026-09-20T09:34:11.784198+00:00",
   "count": 32,
   "vehicles": [
-    {
-      "id": "79646753",
-      "name": "Škoda Octavia 1.6 TDI DSG 2018 REGISTROVAN 5/2027 Servisirano",
-      "url": "https://hhauto.olx.ba/artikal/79646753",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/79646753/sm/img-1789646414-c4a79f5d26b0.jpg",
-      "condition": "Polovno",
-      "fuel": "dizel",
-      "km": "250.757 km",
-      "year": "2018",
-      "price": "18.500 KM",
-      "originalPrice": "",
-      "updated": "",
-      "labels": [
-        "Izdvojeno",
-        "Dostupno odmah"
-      ]
-    },
     {
       "id": "78070841",
       "name": "Seat Ibiza 1.2 TDI 2012 - UVOZ -",
@@ -140,6 +123,23 @@
       ]
     },
     {
+      "id": "79378665",
+      "name": "LINHAI 1000 2026 NOVO TEK REGISTROVAN",
+      "url": "https://hhauto.olx.ba/artikal/79378665",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/79378665/sm/img-1788717895-edb2a161e639.jpg",
+      "condition": "Polovno",
+      "fuel": "",
+      "km": "",
+      "year": "",
+      "price": "20.500 KM",
+      "originalPrice": "",
+      "updated": "",
+      "labels": [
+        "Izdvojeno",
+        "Dostupno odmah"
+      ]
+    },
+    {
       "id": "72611190",
       "name": "Porsche Cayenne S 4.2 TDI UVOZ CH 12/2015",
       "url": "https://hhauto.olx.ba/artikal/72611190",
@@ -152,7 +152,22 @@
       "originalPrice": "",
       "updated": "",
       "labels": [
-        "Izdvojeno",
+        "Dostupno odmah"
+      ]
+    },
+    {
+      "id": "79646753",
+      "name": "Škoda Octavia 1.6 TDI DSG 2018 REGISTROVAN 5/2027 Servisirano",
+      "url": "https://hhauto.olx.ba/artikal/79646753",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/79646753/sm/img-1789646414-c4a79f5d26b0.jpg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "250.757 km",
+      "year": "2018",
+      "price": "18.500 KM",
+      "originalPrice": "",
+      "updated": "",
+      "labels": [
         "Dostupno odmah"
       ]
     },
@@ -310,22 +325,6 @@
       "km": "329.883 km",
       "year": "2013",
       "price": "6.500 KM",
-      "originalPrice": "",
-      "updated": "",
-      "labels": [
-        "Dostupno odmah"
-      ]
-    },
-    {
-      "id": "79378665",
-      "name": "LINHAI 1000 2026 NOVO",
-      "url": "https://hhauto.olx.ba/artikal/79378665",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/79378665/sm/img-1788717895-edb2a161e639.jpg",
-      "condition": "Polovno",
-      "fuel": "",
-      "km": "",
-      "year": "",
-      "price": "20.500 KM",
       "originalPrice": "",
       "updated": "",
       "labels": [

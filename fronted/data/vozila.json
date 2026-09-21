@@ -1,69 +1,18 @@
 {
   "source": "https://hhauto.olx.ba/aktivni",
-  "updatedAt": "2026-09-20T09:34:11.784198+00:00",
-  "count": 32,
+  "updatedAt": "2026-09-21T10:21:59.659937+00:00",
+  "count": 35,
   "vehicles": [
     {
-      "id": "78070841",
-      "name": "Seat Ibiza 1.2 TDI 2012 - UVOZ -",
-      "url": "https://hhauto.olx.ba/artikal/78070841",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/78070841/sm/img-1784135806-1e2e9e1b8197.jpeg",
+      "id": "79378665",
+      "name": "LINHAI 1000 2026 NOVO Registrovan",
+      "url": "https://hhauto.olx.ba/artikal/79378665",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/79378665/sm/img-1788717895-edb2a161e639.jpg",
       "condition": "Polovno",
-      "fuel": "dizel",
-      "km": "324.545 km",
-      "year": "2012",
-      "price": "6.500 KM",
-      "originalPrice": "6.999 KM",
-      "updated": "",
-      "labels": [
-        "Izdvojeno",
-        "Dostupno odmah"
-      ]
-    },
-    {
-      "id": "69293035",
-      "name": "Volkswagen Golf 1.6 TDI DSG 2012 UVOZ REGIST 7/2027",
-      "url": "https://hhauto.olx.ba/artikal/69293035",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/69293035/sm/img-1752245110-050d03b6437e.jpg",
-      "condition": "Polovno",
-      "fuel": "dizel",
-      "km": "303.235 km",
-      "year": "2012",
-      "price": "9.999 KM",
-      "originalPrice": "",
-      "updated": "",
-      "labels": [
-        "Izdvojeno",
-        "Dostupno odmah"
-      ]
-    },
-    {
-      "id": "74971013",
-      "name": "Ford Focus 1.5 TDCI 2020 UVOZ",
-      "url": "https://hhauto.olx.ba/artikal/74971013",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/74971013/sm/img-1773242756-35fcd9fd6dbd.jpg",
-      "condition": "Polovno",
-      "fuel": "dizel",
-      "km": "182.078 km",
-      "year": "2020",
-      "price": "18.999 KM",
-      "originalPrice": "",
-      "updated": "",
-      "labels": [
-        "Izdvojeno",
-        "Dostupno odmah"
-      ]
-    },
-    {
-      "id": "75672978",
-      "name": "Audi A3 2.0 TDI 110 KW 2015 UVOZ DE",
-      "url": "https://hhauto.olx.ba/artikal/75672978",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/75672978/sm/img-1775660753-bad4fd466feb.jpg",
-      "condition": "Polovno",
-      "fuel": "dizel",
-      "km": "296.491 km",
-      "year": "2015",
-      "price": "23.999 KM",
+      "fuel": "",
+      "km": "",
+      "year": "",
+      "price": "20.500 KM",
       "originalPrice": "",
       "updated": "",
       "labels": [
@@ -89,6 +38,128 @@
       ]
     },
     {
+      "id": "77555741",
+      "name": "Volkswagen e-Golf 2015 UVOZ NL",
+      "url": "https://hhauto.olx.ba/artikal/77555741",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/77555741/sm/img-1782155763-2321c81a912b.jpg",
+      "condition": "Polovno",
+      "fuel": "elektro",
+      "km": "223.889 km",
+      "year": "2015",
+      "price": "16.999 KM",
+      "originalPrice": "",
+      "updated": "",
+      "labels": [
+        "Dostupno odmah"
+      ]
+    },
+    {
+      "id": "79724141",
+      "name": "Volkswagen Tiguan 2.0 TDI 4MOTION UVOZ CH",
+      "url": "https://hhauto.olx.ba/artikal/79724141",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/79724141/sm/img-1789921858-e038d526df62.jpg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "151.000 km",
+      "year": "2017",
+      "price": "39.999 KM",
+      "originalPrice": "",
+      "updated": "",
+      "labels": []
+    },
+    {
+      "id": "79722589",
+      "name": "Audi Q5 2.0 TDI 2022 U DOLASKU",
+      "url": "https://hhauto.olx.ba/artikal/79722589",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/79722589/sm/img-1789916026-6fd5d04adb46.jpg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "227.000 km",
+      "year": "2022",
+      "price": "Na upit",
+      "originalPrice": "",
+      "updated": "",
+      "labels": []
+    },
+    {
+      "id": "79722545",
+      "name": "Škoda Octavia 2.0 TDI DSG 12/2022 U DOLASKU",
+      "url": "https://hhauto.olx.ba/artikal/79722545",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/79722545/sm/img-1789915884-de5a89293e72.jpg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "216.196 km",
+      "year": "2022",
+      "price": "Na upit",
+      "originalPrice": "",
+      "updated": "",
+      "labels": []
+    },
+    {
+      "id": "78070841",
+      "name": "Seat Ibiza 1.2 TDI 2012 - UVOZ -",
+      "url": "https://hhauto.olx.ba/artikal/78070841",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/78070841/sm/img-1784135806-1e2e9e1b8197.jpeg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "324.545 km",
+      "year": "2012",
+      "price": "6.500 KM",
+      "originalPrice": "6.999 KM",
+      "updated": "",
+      "labels": [
+        "Dostupno odmah"
+      ]
+    },
+    {
+      "id": "69293035",
+      "name": "Volkswagen Golf 1.6 TDI DSG 2012 UVOZ REGIST 7/2027",
+      "url": "https://hhauto.olx.ba/artikal/69293035",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/69293035/sm/img-1752245110-050d03b6437e.jpg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "303.235 km",
+      "year": "2012",
+      "price": "9.999 KM",
+      "originalPrice": "",
+      "updated": "",
+      "labels": [
+        "Dostupno odmah"
+      ]
+    },
+    {
+      "id": "74971013",
+      "name": "Ford Focus 1.5 TDCI 2020 UVOZ",
+      "url": "https://hhauto.olx.ba/artikal/74971013",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/74971013/sm/img-1773242756-35fcd9fd6dbd.jpg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "182.078 km",
+      "year": "2020",
+      "price": "18.999 KM",
+      "originalPrice": "",
+      "updated": "",
+      "labels": [
+        "Dostupno odmah"
+      ]
+    },
+    {
+      "id": "75672978",
+      "name": "Audi A3 2.0 TDI 110 KW 2015 UVOZ DE",
+      "url": "https://hhauto.olx.ba/artikal/75672978",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/75672978/sm/img-1775660753-bad4fd466feb.jpg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "296.491 km",
+      "year": "2015",
+      "price": "23.999 KM",
+      "originalPrice": "",
+      "updated": "",
+      "labels": [
+        "Dostupno odmah"
+      ]
+    },
+    {
       "id": "70390707",
       "name": "Audi A4 2.0 TDI 2013 AUTOMATIK REG. 05/2027",
       "url": "https://hhauto.olx.ba/artikal/70390707",
@@ -101,7 +172,6 @@
       "originalPrice": "15.999 KM",
       "updated": "",
       "labels": [
-        "Izdvojeno",
         "Dostupno odmah"
       ]
     },
@@ -118,24 +188,6 @@
       "originalPrice": "34.900 KM",
       "updated": "",
       "labels": [
-        "Izdvojeno",
-        "Dostupno odmah"
-      ]
-    },
-    {
-      "id": "79378665",
-      "name": "LINHAI 1000 2026 NOVO TEK REGISTROVAN",
-      "url": "https://hhauto.olx.ba/artikal/79378665",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/79378665/sm/img-1788717895-edb2a161e639.jpg",
-      "condition": "Polovno",
-      "fuel": "",
-      "km": "",
-      "year": "",
-      "price": "20.500 KM",
-      "originalPrice": "",
-      "updated": "",
-      "labels": [
-        "Izdvojeno",
         "Dostupno odmah"
       ]
     },
@@ -245,22 +297,6 @@
       "km": "96.185 km",
       "year": "2016",
       "price": "69.999 KM",
-      "originalPrice": "",
-      "updated": "",
-      "labels": [
-        "Dostupno odmah"
-      ]
-    },
-    {
-      "id": "77555741",
-      "name": "Volkswagen e-Golf 2015 UVOZ NL",
-      "url": "https://hhauto.olx.ba/artikal/77555741",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/77555741/sm/img-1782155763-2321c81a912b.jpg",
-      "condition": "Polovno",
-      "fuel": "elektro",
-      "km": "223.889 km",
-      "year": "2015",
-      "price": "16.999 KM",
       "originalPrice": "",
       "updated": "",
       "labels": [

@@ -1,8 +1,101 @@
 {
   "source": "https://hhauto.olx.ba/aktivni",
-  "updatedAt": "2026-09-25T09:58:01.209412+00:00",
-  "count": 35,
+  "updatedAt": "2026-09-26T09:40:22.734587+00:00",
+  "count": 36,
   "vehicles": [
+    {
+      "id": "73700490",
+      "name": "Volkswagen Passat 2.0 4M 130 KW UVOZ CH REG 7/2027",
+      "url": "https://hhauto.olx.ba/artikal/73700490",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/73700490/sm/img-1768905657-27fb32518ddb.jpg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "273.313 km",
+      "year": "2014",
+      "price": "16.500 KM",
+      "originalPrice": "17.999 KM",
+      "updated": "",
+      "labels": [
+        "Izdvojeno",
+        "Dostupno odmah"
+      ]
+    },
+    {
+      "id": "79724141",
+      "name": "Volkswagen Tiguan 2.0 TDI 4MOTION UVOZ CH",
+      "url": "https://hhauto.olx.ba/artikal/79724141",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/79724141/sm/img-1790334544-e844b338612b.jpg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "151.000 km",
+      "year": "2017",
+      "price": "39.999 KM",
+      "originalPrice": "",
+      "updated": "",
+      "labels": [
+        "Izdvojeno"
+      ]
+    },
+    {
+      "id": "77140412",
+      "name": "Škoda Octavia VRS 2.0 TDI 2017 DSG - 4x4 - UVOZ -",
+      "url": "https://hhauto.olx.ba/artikal/77140412",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/77140412/sm/img-1780759043-1cba494f341a.jpeg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "236.934 km",
+      "year": "2017",
+      "price": "24.999 KM",
+      "originalPrice": "",
+      "updated": "",
+      "labels": []
+    },
+    {
+      "id": "64285423",
+      "name": "Ford Focus 1.5 TDCi 2019 - UVOZ - REG. 7/2027",
+      "url": "https://hhauto.olx.ba/artikal/64285423",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/64285423/sm/img-1729339926-63c5dcce0988.jpg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "150.894 km",
+      "year": "2019",
+      "price": "21.999 KM",
+      "originalPrice": "",
+      "updated": "",
+      "labels": [
+        "Dostupno odmah"
+      ]
+    },
+    {
+      "id": "74117695",
+      "name": "Škoda Octavia 1.6 Tdi 4x4 2013 UVOZ CH",
+      "url": "https://hhauto.olx.ba/artikal/74117695",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/74117695/sm/img-1772139480-345dcaea1934.jpg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "267.787 km",
+      "year": "2013",
+      "price": "10.999 KM",
+      "originalPrice": "",
+      "updated": "",
+      "labels": []
+    },
+    {
+      "id": "79848762",
+      "name": "Volkswagen Golf 1.6 TDI 2015 LOUNGE REG. 05/27",
+      "url": "https://hhauto.olx.ba/artikal/79848762",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/79848762/sm/img-1790346771-e227096da255.jpeg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "348.100 km",
+      "year": "2015",
+      "price": "16.500 KM",
+      "originalPrice": "",
+      "updated": "",
+      "labels": [
+        "Dostupno odmah"
+      ]
+    },
     {
       "id": "68411495",
       "name": "Audi A6 50 TDI 2020 QUATTRO VIRTUAL 360 REG. 05/2026",
@@ -12,8 +105,8 @@
       "fuel": "dizel",
       "km": "102.105 km",
       "year": "2020",
-      "price": "69.999 KM",
-      "originalPrice": "74.999 KM",
+      "price": "74.999 KM",
+      "originalPrice": "",
       "updated": "",
       "labels": [
         "Dostupno odmah"
@@ -68,20 +161,6 @@
       ]
     },
     {
-      "id": "79724141",
-      "name": "Volkswagen Tiguan 2.0 TDI 4MOTION UVOZ CH",
-      "url": "https://hhauto.olx.ba/artikal/79724141",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/79724141/sm/img-1789921858-e038d526df62.jpg",
-      "condition": "Polovno",
-      "fuel": "dizel",
-      "km": "151.000 km",
-      "year": "2017",
-      "price": "39.999 KM",
-      "originalPrice": "",
-      "updated": "",
-      "labels": []
-    },
-    {
       "id": "79722589",
       "name": "Audi Q5 2.0 TDI 2022 U DOLASKU",
       "url": "https://hhauto.olx.ba/artikal/79722589",
@@ -90,7 +169,7 @@
       "fuel": "dizel",
       "km": "227.000 km",
       "year": "2022",
-      "price": "Na upit",
+      "price": "52.999 KM",
       "originalPrice": "",
       "updated": "",
       "labels": []
@@ -104,7 +183,7 @@
       "fuel": "dizel",
       "km": "216.196 km",
       "year": "2022",
-      "price": "Na upit",
+      "price": "30.999 KM",
       "originalPrice": "",
       "updated": "",
       "labels": []
@@ -428,20 +507,6 @@
       ]
     },
     {
-      "id": "77140412",
-      "name": "Škoda Octavia VRS 2.0 TDI 2017 DSG - 4x4 - UVOZ -",
-      "url": "https://hhauto.olx.ba/artikal/77140412",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/77140412/sm/img-1780759043-1cba494f341a.jpeg",
-      "condition": "Polovno",
-      "fuel": "dizel",
-      "km": "236.934 km",
-      "year": "2017",
-      "price": "24.999 KM",
-      "originalPrice": "",
-      "updated": "",
-      "labels": []
-    },
-    {
       "id": "78766324",
       "name": "Škoda Octavia 1.2 benzin 2011",
       "url": "https://hhauto.olx.ba/artikal/78766324",
@@ -451,22 +516,6 @@
       "km": "324.843 km",
       "year": "2011",
       "price": "8.999 KM",
-      "originalPrice": "",
-      "updated": "",
-      "labels": [
-        "Dostupno odmah"
-      ]
-    },
-    {
-      "id": "64285423",
-      "name": "Ford Focus 1.5 TDCi 2019 - UVOZ - REG. 7/2027",
-      "url": "https://hhauto.olx.ba/artikal/64285423",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/64285423/sm/img-1729339926-63c5dcce0988.jpg",
-      "condition": "Polovno",
-      "fuel": "dizel",
-      "km": "150.894 km",
-      "year": "2019",
-      "price": "21.999 KM",
       "originalPrice": "",
       "updated": "",
       "labels": [
@@ -504,36 +553,6 @@
       "labels": [
         "Dostupno odmah"
       ]
-    },
-    {
-      "id": "73700490",
-      "name": "Volkswagen Passat 2.0 4M 130 KW UVOZ CH REG 7/2027",
-      "url": "https://hhauto.olx.ba/artikal/73700490",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/73700490/sm/img-1768905657-27fb32518ddb.jpg",
-      "condition": "Polovno",
-      "fuel": "dizel",
-      "km": "273.313 km",
-      "year": "2014",
-      "price": "17.999 KM",
-      "originalPrice": "",
-      "updated": "",
-      "labels": [
-        "Dostupno odmah"
-      ]
-    },
-    {
-      "id": "74117695",
-      "name": "Škoda Octavia 1.6 Tdi 4x4 2013 UVOZ CH",
-      "url": "https://hhauto.olx.ba/artikal/74117695",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/74117695/sm/img-1772139480-345dcaea1934.jpg",
-      "condition": "Polovno",
-      "fuel": "dizel",
-      "km": "267.787 km",
-      "year": "2013",
-      "price": "10.999 KM",
-      "originalPrice": "",
-      "updated": "",
-      "labels": []
     },
     {
       "id": "76828545",

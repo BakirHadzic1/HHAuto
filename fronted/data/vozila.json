@@ -1,8 +1,24 @@
 {
   "source": "https://hhauto.olx.ba/aktivni",
-  "updatedAt": "2026-09-28T11:24:12.167801+00:00",
+  "updatedAt": "2026-09-29T11:01:50.622872+00:00",
   "count": 36,
   "vehicles": [
+    {
+      "id": "79724141",
+      "name": "Volkswagen Tiguan 2.0 TDI 4MOTION UVOZ CH",
+      "url": "https://hhauto.olx.ba/artikal/79724141",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/79724141/sm/img-1790334544-e844b338612b.jpg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "151.000 km",
+      "year": "2017",
+      "price": "39.999 KM",
+      "originalPrice": "",
+      "updated": "",
+      "labels": [
+        "Izdvojeno"
+      ]
+    },
     {
       "id": "79646753",
       "name": "Škoda Octavia 1.6 TDI DSG 2018 REGISTROVAN 5/2027 Servisirano",
@@ -187,26 +203,12 @@
       "fuel": "dizel",
       "km": "273.313 km",
       "year": "2014",
-      "price": "16.500 KM",
-      "originalPrice": "17.999 KM",
+      "price": "17.999 KM",
+      "originalPrice": "",
       "updated": "",
       "labels": [
         "Dostupno odmah"
       ]
-    },
-    {
-      "id": "79724141",
-      "name": "Volkswagen Tiguan 2.0 TDI 4MOTION UVOZ CH",
-      "url": "https://hhauto.olx.ba/artikal/79724141",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/79724141/sm/img-1790334544-e844b338612b.jpg",
-      "condition": "Polovno",
-      "fuel": "dizel",
-      "km": "151.000 km",
-      "year": "2017",
-      "price": "39.999 KM",
-      "originalPrice": "",
-      "updated": "",
-      "labels": []
     },
     {
       "id": "77140412",

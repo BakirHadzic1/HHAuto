@@ -1,8 +1,42 @@
 {
   "source": "https://hhauto.olx.ba/aktivni",
-  "updatedAt": "2026-09-30T10:52:16.668543+00:00",
-  "count": 37,
+  "updatedAt": "2026-10-01T12:51:20.012551+00:00",
+  "count": 38,
   "vehicles": [
+    {
+      "id": "79378877",
+      "name": "LINHAI 550L EPS ABS SERVO GRIJANJE SJEDISTA KOFER NOVO",
+      "url": "https://hhauto.olx.ba/artikal/79378877",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/79378877/sm/img-1788718590-5a1fdc56dafb.jpg",
+      "condition": "Polovno",
+      "fuel": "",
+      "km": "",
+      "year": "",
+      "price": "12.499 KM",
+      "originalPrice": "",
+      "updated": "",
+      "labels": [
+        "Izdvojeno",
+        "Dostupno odmah"
+      ]
+    },
+    {
+      "id": "64285423",
+      "name": "Ford Focus 1.5 TDCi 2019 - UVOZ - REG. 7/2027",
+      "url": "https://hhauto.olx.ba/artikal/64285423",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/64285423/sm/img-1729339926-63c5dcce0988.jpg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "150.894 km",
+      "year": "2019",
+      "price": "19.999 KM",
+      "originalPrice": "21.999 KM",
+      "updated": "",
+      "labels": [
+        "Izdvojeno",
+        "Dostupno odmah"
+      ]
+    },
     {
       "id": "77140412",
       "name": "Škoda Octavia VRS 2.0 TDI 2017 DSG - 4x4 - UVOZ -",
@@ -116,24 +150,21 @@
       "price": "39.999 KM",
       "originalPrice": "",
       "updated": "",
-      "labels": [
-        "Izdvojeno"
-      ]
+      "labels": []
     },
     {
-      "id": "64285423",
-      "name": "Ford Focus 1.5 TDCi 2019 - UVOZ - REG. 7/2027",
-      "url": "https://hhauto.olx.ba/artikal/64285423",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/64285423/sm/img-1729339926-63c5dcce0988.jpg",
+      "id": "79965407",
+      "name": "Kia cee'd / Ceed 1.6 CRDI 2014 Automatik REG 5/2027",
+      "url": "https://hhauto.olx.ba/artikal/79965407",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/79965407/sm/img-1790773402-6d6db4ebda6e.jpg",
       "condition": "Polovno",
       "fuel": "dizel",
-      "km": "150.894 km",
-      "year": "2019",
-      "price": "19.999 KM",
-      "originalPrice": "21.999 KM",
+      "km": "244.917 km",
+      "year": "2014",
+      "price": "12.999 KM",
+      "originalPrice": "",
       "updated": "",
       "labels": [
-        "Izdvojeno",
         "Dostupno odmah"
       ]
     },
@@ -162,8 +193,8 @@
       "fuel": "dizel",
       "km": "250.757 km",
       "year": "2018",
-      "price": "17.999 KM",
-      "originalPrice": "18.500 KM",
+      "price": "18.500 KM",
+      "originalPrice": "",
       "updated": "",
       "labels": [
         "Dostupno odmah"
@@ -523,22 +554,6 @@
       "km": "303.235 km",
       "year": "2012",
       "price": "9.999 KM",
-      "originalPrice": "",
-      "updated": "",
-      "labels": [
-        "Dostupno odmah"
-      ]
-    },
-    {
-      "id": "79378877",
-      "name": "LINHAI 550L EPS ABS SERVO GRIJANJE SJEDISTA KOFER NOVO",
-      "url": "https://hhauto.olx.ba/artikal/79378877",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/79378877/sm/img-1788718593-6ac78f9a3bfc.jpg",
-      "condition": "Polovno",
-      "fuel": "",
-      "km": "",
-      "year": "",
-      "price": "12.499 KM",
       "originalPrice": "",
       "updated": "",
       "labels": [

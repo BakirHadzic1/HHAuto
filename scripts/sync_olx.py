@@ -1,14 +1,16 @@
 #!/usr/bin/env python3
 import json
+import os
 import re
 from datetime import datetime, timezone
 from html import unescape
 from pathlib import Path
-from urllib.error import URLError
+from urllib.error import HTTPError, URLError
 from urllib.request import Request, urlopen
 
 
 SHOP_URL = "https://hhauto.olx.ba/aktivni"
+READER_URL = "https://r.jina.ai/http://hhauto.olx.ba/aktivni"
 OUTPUT_PATH = Path(__file__).resolve().parents[1] / "fronted" / "data" / "vozila.json"
 
 
@@ -52,21 +54,43 @@ def extract_prices(block):
     return regular_price or "Na upit", ""
 
 
-def fetch_html():
+def fetch_url(url, headers):
     request = Request(
-        SHOP_URL,
-        headers={
-            "User-Agent": "Mozilla/5.0 (compatible; HHAutoVehicleSync/1.0)",
-            "Accept-Language": "bs-BA,hr-HR;q=0.9,en;q=0.8",
-        },
+        url,
+        headers=headers,
     )
     with urlopen(request, timeout=30) as response:
         return response.read().decode("utf-8", "ignore")
 
 
+def fetch_html():
+    return fetch_url(
+        SHOP_URL,
+        {
+            "User-Agent": (
+                "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
+                "(KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+            ),
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+            "Accept-Language": "bs-BA,hr-HR;q=0.9,en;q=0.8",
+            "Cache-Control": "no-cache",
+        },
+    )
+
+
+def fetch_reader_markdown():
+    return fetch_url(
+        READER_URL,
+        {
+            "User-Agent": "HHAutoVehicleSync/2.0",
+            "Accept": "text/plain",
+        },
+    )
+
+
 def parse_listings(html):
     blocks = re.findall(
-        r'(<a href="/artikal/\d+" class="rounded-5 wrap.*?</a>)(?=<a href="/artikal/|\s*</div>\s*</div>\s*</div>\s*</div>\s*<div class="w-full flex sm:justify-center)',
+        r'(<a href="/artikal/\d+" class="rounded-5 wrap.*?</a>)',
         html,
         re.S,
     )
@@ -109,15 +133,99 @@ def parse_listings(html):
     return vehicles
 
 
+def parse_markdown_listings(markdown):
+    listing_pattern = re.compile(
+        r'\[(?P<labels>[^\[\]]*?)!\[[^\]]*?: (?P<name>[^\]]+)\]'
+        r'\((?P<image>https://d4n0y8dshd77z\.cloudfront\.net/[^)]+)\)\s*'
+        r'#\s*(?P<details>.*?)\]\('
+        r'(?P<url>https?://hhauto\.olx\.ba/artikal/(?P<id>\d+))\)',
+        re.S | re.I,
+    )
+    price_pattern = re.compile(r'\b\d{1,3}(?:\.\d{3})* KM\b|(?i:\bNa upit\b)')
+    vehicles = []
+
+    for match in listing_pattern.finditer(markdown):
+        name = clean_text(match.group("name"))
+        details = clean_text(match.group("details"))
+        if details.startswith(name):
+            details = details[len(name):].strip()
+
+        updated_match = re.search(r'\bprije\s+.+$', details, re.I)
+        updated = updated_match.group(0) if updated_match else ""
+        if updated_match:
+            details = details[:updated_match.start()].strip()
+
+        prices = ["Na upit" if price.lower() == "na upit" else price for price in price_pattern.findall(details)]
+        price = prices[-1] if prices else "Na upit"
+        original_price = prices[-2] if len(prices) > 1 else ""
+
+        condition_match = re.search(r'\b(Polovno|Novo)\b', details, re.I)
+        fuel_match = re.search(r'\b(dizel|benzin|elektro|hibrid|plin|LPG)\b', details, re.I)
+        km_match = re.search(r'\b\d{1,3}(?:\.\d{3})* km\b', details)
+        year_match = re.search(r'\b(?:19|20)\d{2}\b', details)
+        labels_text = clean_text(match.group("labels"))
+        labels = [
+            label
+            for label in ("Izdvojeno", "Dostupno odmah")
+            if label.lower() in labels_text.lower()
+        ]
+
+        vehicles.append(
+            {
+                "id": match.group("id"),
+                "name": name,
+                "url": re.sub(r'^http://', 'https://', match.group("url")),
+                "image": match.group("image"),
+                "condition": condition_match.group(1).capitalize() if condition_match else "Polovno",
+                "fuel": fuel_match.group(1).lower() if fuel_match else "",
+                "km": km_match.group(0) if km_match else "",
+                "year": year_match.group(0) if year_match else "",
+                "price": price,
+                "originalPrice": original_price,
+                "updated": updated,
+                "labels": labels,
+            }
+        )
+
+    return vehicles
+
+
+def load_vehicles():
+    direct_error = None
+
+    if os.environ.get("OLX_FORCE_READER") != "1":
+        try:
+            vehicles = parse_listings(fetch_html())
+            if vehicles:
+                print(f"OLX direktni izvor: {len(vehicles)} oglasa.")
+                return vehicles
+            direct_error = "direktni odgovor nije sadržavao oglase"
+        except (HTTPError, URLError, TimeoutError) as error:
+            direct_error = str(error)
+
+    if direct_error:
+        print(f"Direktni OLX izvor nije dostupan ({direct_error}); koristim reader fallback.")
+
+    vehicles = parse_markdown_listings(fetch_reader_markdown())
+    if vehicles:
+        print(f"OLX reader fallback: {len(vehicles)} oglasa.")
+    return vehicles
+
+
 def main():
     try:
-        html = fetch_html()
-        vehicles = parse_listings(html)
-    except URLError as error:
+        vehicles = load_vehicles()
+    except (HTTPError, URLError, TimeoutError) as error:
+        if OUTPUT_PATH.exists():
+            print(f"UPOZORENJE: OLX trenutno nije dostupan ({error}). Zadržavam postojeće podatke.")
+            return
         raise SystemExit(f"Ne mogu dohvatiti OLX oglase: {error}") from error
 
     if not vehicles:
-        raise SystemExit("Nije pronadjen nijedan aktivan OLX oglas.")
+        if OUTPUT_PATH.exists():
+            print("UPOZORENJE: nije pronađen nijedan oglas. Zadržavam postojeće podatke.")
+            return
+        raise SystemExit("Nije pronađen nijedan aktivan OLX oglas.")
 
     payload = {
         "source": SHOP_URL,

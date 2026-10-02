@@ -1,8 +1,40 @@
 {
   "source": "https://hhauto.olx.ba/aktivni",
-  "updatedAt": "2026-10-01T12:52:15.265475+00:00",
-  "count": 38,
+  "updatedAt": "2026-10-02T10:51:15.030349+00:00",
+  "count": 37,
   "vehicles": [
+    {
+      "id": "79724141",
+      "name": "Volkswagen Tiguan 2.0 TDI 4MOTION UVOZ CH",
+      "url": "https://hhauto.olx.ba/artikal/79724141",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/79724141/sm/img-1790865633-347f0af0819b.jpg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "151.000 km",
+      "year": "2017",
+      "price": "39.999 KM",
+      "originalPrice": "",
+      "updated": "",
+      "labels": [
+        "Izdvojeno"
+      ]
+    },
+    {
+      "id": "79722545",
+      "name": "Škoda Octavia 2.0 TDI DSG 12/2022 UVOZ",
+      "url": "https://hhauto.olx.ba/artikal/79722545",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/79722545/sm/img-1790868064-3d7e199e424d.jpeg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "216.196 km",
+      "year": "2022",
+      "price": "30.999 KM",
+      "originalPrice": "",
+      "updated": "",
+      "labels": [
+        "Izdvojeno"
+      ]
+    },
     {
       "id": "79378877",
       "name": "LINHAI 550L EPS ABS SERVO GRIJANJE SJEDISTA KOFER NOVO",
@@ -21,6 +53,22 @@
       ]
     },
     {
+      "id": "80010603",
+      "name": "BENDA REDSTONE LUX 550 R2 V-TWIN 48 KS ATV",
+      "url": "https://hhauto.olx.ba/artikal/80010603",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/80010603/sm/img-1790937824-8b6c6cbbe8f0.jpg",
+      "condition": "Polovno",
+      "fuel": "",
+      "km": "",
+      "year": "",
+      "price": "15.900 KM",
+      "originalPrice": "",
+      "updated": "",
+      "labels": [
+        "Dostupno odmah"
+      ]
+    },
+    {
       "id": "64285423",
       "name": "Ford Focus 1.5 TDCi 2019 - UVOZ - REG. 7/2027",
       "url": "https://hhauto.olx.ba/artikal/64285423",
@@ -33,7 +81,6 @@
       "originalPrice": "21.999 KM",
       "updated": "",
       "labels": [
-        "Izdvojeno",
         "Dostupno odmah"
       ]
     },
@@ -49,9 +96,7 @@
       "price": "23.999 KM",
       "originalPrice": "24.999 KM",
       "updated": "",
-      "labels": [
-        "Izdvojeno"
-      ]
+      "labels": []
     },
     {
       "id": "70390707",
@@ -66,7 +111,6 @@
       "originalPrice": "",
       "updated": "",
       "labels": [
-        "Izdvojeno",
         "Dostupno odmah"
       ]
     },
@@ -83,7 +127,6 @@
       "originalPrice": "18.999 KM",
       "updated": "",
       "labels": [
-        "Izdvojeno",
         "Dostupno odmah"
       ]
     },
@@ -100,7 +143,6 @@
       "originalPrice": "59.999 KM",
       "updated": "",
       "labels": [
-        "Izdvojeno",
         "Dostupno odmah"
       ]
     },
@@ -117,7 +159,6 @@
       "originalPrice": "139.000 KM",
       "updated": "",
       "labels": [
-        "Izdvojeno",
         "Dostupno odmah"
       ]
     },
@@ -134,23 +175,8 @@
       "originalPrice": "34.900 KM",
       "updated": "",
       "labels": [
-        "Izdvojeno",
         "Dostupno odmah"
       ]
-    },
-    {
-      "id": "79724141",
-      "name": "Volkswagen Tiguan 2.0 TDI 4MOTION UVOZ CH",
-      "url": "https://hhauto.olx.ba/artikal/79724141",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/79724141/sm/img-1790334544-e844b338612b.jpg",
-      "condition": "Polovno",
-      "fuel": "dizel",
-      "km": "151.000 km",
-      "year": "2017",
-      "price": "39.999 KM",
-      "originalPrice": "",
-      "updated": "",
-      "labels": []
     },
     {
       "id": "79965407",
@@ -407,22 +433,6 @@
       ]
     },
     {
-      "id": "75672978",
-      "name": "Audi A3 2.0 TDI 110 KW 2015 UVOZ DE",
-      "url": "https://hhauto.olx.ba/artikal/75672978",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/75672978/sm/img-1775660753-bad4fd466feb.jpg",
-      "condition": "Polovno",
-      "fuel": "dizel",
-      "km": "296.491 km",
-      "year": "2015",
-      "price": "23.999 KM",
-      "originalPrice": "",
-      "updated": "",
-      "labels": [
-        "Dostupno odmah"
-      ]
-    },
-    {
       "id": "73700490",
       "name": "Volkswagen Passat 2.0 4M 130 KW UVOZ CH REG 7/2027",
       "url": "https://hhauto.olx.ba/artikal/73700490",
@@ -531,20 +541,6 @@
       "labels": []
     },
     {
-      "id": "79722545",
-      "name": "Škoda Octavia 2.0 TDI DSG 12/2022 U DOLASKU",
-      "url": "https://hhauto.olx.ba/artikal/79722545",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/79722545/sm/img-1789915884-de5a89293e72.jpg",
-      "condition": "Polovno",
-      "fuel": "dizel",
-      "km": "216.196 km",
-      "year": "2022",
-      "price": "30.999 KM",
-      "originalPrice": "",
-      "updated": "",
-      "labels": []
-    },
-    {
       "id": "69293035",
       "name": "Volkswagen Golf 1.6 TDI DSG 2012 UVOZ REGIST 7/2027",
       "url": "https://hhauto.olx.ba/artikal/69293035",
@@ -586,22 +582,6 @@
       "km": "101.000 km",
       "year": "2020",
       "price": "139.000 KM",
-      "originalPrice": "",
-      "updated": "",
-      "labels": [
-        "Dostupno odmah"
-      ]
-    },
-    {
-      "id": "69005786",
-      "name": "Mercedes-Benz Vito 3.0 CDI 2012 7+1 AUTOMATIK REG. 06/27",
-      "url": "https://hhauto.olx.ba/artikal/69005786",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/69005786/sm/img-1750960178-fca9a1139bdb.jpg",
-      "condition": "Polovno",
-      "fuel": "dizel",
-      "km": "296.356 km",
-      "year": "2012",
-      "price": "32.999 KM",
       "originalPrice": "",
       "updated": "",
       "labels": [

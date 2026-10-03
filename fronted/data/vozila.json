@@ -1,24 +1,8 @@
 {
   "source": "https://hhauto.olx.ba/aktivni",
-  "updatedAt": "2026-10-02T10:51:15.030349+00:00",
+  "updatedAt": "2026-10-03T10:10:34.785425+00:00",
   "count": 37,
   "vehicles": [
-    {
-      "id": "79724141",
-      "name": "Volkswagen Tiguan 2.0 TDI 4MOTION UVOZ CH",
-      "url": "https://hhauto.olx.ba/artikal/79724141",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/79724141/sm/img-1790865633-347f0af0819b.jpg",
-      "condition": "Polovno",
-      "fuel": "dizel",
-      "km": "151.000 km",
-      "year": "2017",
-      "price": "39.999 KM",
-      "originalPrice": "",
-      "updated": "",
-      "labels": [
-        "Izdvojeno"
-      ]
-    },
     {
       "id": "79722545",
       "name": "Škoda Octavia 2.0 TDI DSG 12/2022 UVOZ",
@@ -29,6 +13,56 @@
       "km": "216.196 km",
       "year": "2022",
       "price": "30.999 KM",
+      "originalPrice": "",
+      "updated": "",
+      "labels": [
+        "Izdvojeno"
+      ]
+    },
+    {
+      "id": "79378665",
+      "name": "LINHAI 1000 2026 NOVO Registrovan",
+      "url": "https://hhauto.olx.ba/artikal/79378665",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/79378665/sm/img-1788717895-edb2a161e639.jpg",
+      "condition": "Polovno",
+      "fuel": "",
+      "km": "",
+      "year": "",
+      "price": "20.500 KM",
+      "originalPrice": "",
+      "updated": "",
+      "labels": [
+        "Izdvojeno",
+        "Dostupno odmah"
+      ]
+    },
+    {
+      "id": "73311395",
+      "name": "Audi Q2 QUATTRO 2.0 TDI 140 KW UVOZ DE GARANCIJA REG 2/2027",
+      "url": "https://hhauto.olx.ba/artikal/73311395",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/73311395/sm/img-1780849275-26369b3109d8.jpg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "121.862 km",
+      "year": "2017",
+      "price": "40.999 KM",
+      "originalPrice": "42.999 KM",
+      "updated": "",
+      "labels": [
+        "Izdvojeno",
+        "Dostupno odmah"
+      ]
+    },
+    {
+      "id": "79724141",
+      "name": "Volkswagen Tiguan 2.0 TDI 4MOTION UVOZ CH",
+      "url": "https://hhauto.olx.ba/artikal/79724141",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/79724141/sm/img-1790865633-347f0af0819b.jpg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "151.000 km",
+      "year": "2017",
+      "price": "39.999 KM",
       "originalPrice": "",
       "updated": "",
       "labels": [
@@ -48,7 +82,22 @@
       "originalPrice": "",
       "updated": "",
       "labels": [
-        "Izdvojeno",
+        "Dostupno odmah"
+      ]
+    },
+    {
+      "id": "79390107",
+      "name": "Volkswagen T5 Multivan 2014 2.0 TDI REGISTROVAN 7/2027",
+      "url": "https://hhauto.olx.ba/artikal/79390107",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/79390107/sm/img-1789221423-0fe625dfd9bb.jpg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "299.554 km",
+      "year": "2014",
+      "price": "34.999 KM",
+      "originalPrice": "",
+      "updated": "",
+      "labels": [
         "Dostupno odmah"
       ]
     },
@@ -56,7 +105,7 @@
       "id": "80010603",
       "name": "BENDA REDSTONE LUX 550 R2 V-TWIN 48 KS ATV",
       "url": "https://hhauto.olx.ba/artikal/80010603",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/80010603/sm/img-1790937824-8b6c6cbbe8f0.jpg",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/80010603/sm/img-1790937830-b86255f4a5a0.jpg",
       "condition": "Polovno",
       "fuel": "",
       "km": "",
@@ -77,8 +126,8 @@
       "fuel": "dizel",
       "km": "150.894 km",
       "year": "2019",
-      "price": "19.999 KM",
-      "originalPrice": "21.999 KM",
+      "price": "21.999 KM",
+      "originalPrice": "",
       "updated": "",
       "labels": [
         "Dostupno odmah"
@@ -93,8 +142,8 @@
       "fuel": "dizel",
       "km": "236.934 km",
       "year": "2017",
-      "price": "23.999 KM",
-      "originalPrice": "24.999 KM",
+      "price": "24.999 KM",
+      "originalPrice": "",
       "updated": "",
       "labels": []
     },
@@ -123,8 +172,8 @@
       "fuel": "dizel",
       "km": "258.000 km",
       "year": "2015",
-      "price": "17.999 KM",
-      "originalPrice": "18.999 KM",
+      "price": "18.999 KM",
+      "originalPrice": "",
       "updated": "",
       "labels": [
         "Dostupno odmah"
@@ -139,8 +188,8 @@
       "fuel": "dizel",
       "km": "287.000 km",
       "year": "2015",
-      "price": "58.999 KM",
-      "originalPrice": "59.999 KM",
+      "price": "59.999 KM",
+      "originalPrice": "",
       "updated": "",
       "labels": [
         "Dostupno odmah"
@@ -155,8 +204,8 @@
       "fuel": "dizel",
       "km": "91.563 km",
       "year": "2020",
-      "price": "129.000 KM",
-      "originalPrice": "139.000 KM",
+      "price": "139.000 KM",
+      "originalPrice": "",
       "updated": "",
       "labels": [
         "Dostupno odmah"
@@ -171,8 +220,8 @@
       "fuel": "dizel",
       "km": "208.647 km",
       "year": "2020",
-      "price": "32.999 KM",
-      "originalPrice": "34.900 KM",
+      "price": "34.900 KM",
+      "originalPrice": "",
       "updated": "",
       "labels": [
         "Dostupno odmah"
@@ -188,22 +237,6 @@
       "km": "244.917 km",
       "year": "2014",
       "price": "12.999 KM",
-      "originalPrice": "",
-      "updated": "",
-      "labels": [
-        "Dostupno odmah"
-      ]
-    },
-    {
-      "id": "73311395",
-      "name": "Audi Q2 QUATTRO 2.0 TDI 140 KW UVOZ DE GARANCIJA REG 2/2027",
-      "url": "https://hhauto.olx.ba/artikal/73311395",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/73311395/sm/img-1780849275-26369b3109d8.jpg",
-      "condition": "Polovno",
-      "fuel": "dizel",
-      "km": "121.862 km",
-      "year": "2017",
-      "price": "42.999 KM",
       "originalPrice": "",
       "updated": "",
       "labels": [
@@ -488,38 +521,6 @@
       "km": "102.105 km",
       "year": "2020",
       "price": "74.999 KM",
-      "originalPrice": "",
-      "updated": "",
-      "labels": [
-        "Dostupno odmah"
-      ]
-    },
-    {
-      "id": "79390107",
-      "name": "Volkswagen T5 Multivan 2014 2.0 TDI REGISTROVAN 7/2027",
-      "url": "https://hhauto.olx.ba/artikal/79390107",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/79390107/sm/img-1789221423-0fe625dfd9bb.jpg",
-      "condition": "Polovno",
-      "fuel": "dizel",
-      "km": "299.554 km",
-      "year": "2014",
-      "price": "34.999 KM",
-      "originalPrice": "",
-      "updated": "",
-      "labels": [
-        "Dostupno odmah"
-      ]
-    },
-    {
-      "id": "79378665",
-      "name": "LINHAI 1000 2026 NOVO Registrovan",
-      "url": "https://hhauto.olx.ba/artikal/79378665",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/79378665/sm/img-1788717895-edb2a161e639.jpg",
-      "condition": "Polovno",
-      "fuel": "",
-      "km": "",
-      "year": "",
-      "price": "20.500 KM",
       "originalPrice": "",
       "updated": "",
       "labels": [

@@ -1,24 +1,8 @@
 {
   "source": "https://hhauto.olx.ba/aktivni",
-  "updatedAt": "2026-10-03T10:10:34.785425+00:00",
+  "updatedAt": "2026-10-04T10:51:49.003695+00:00",
   "count": 37,
   "vehicles": [
-    {
-      "id": "79722545",
-      "name": "Škoda Octavia 2.0 TDI DSG 12/2022 UVOZ",
-      "url": "https://hhauto.olx.ba/artikal/79722545",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/79722545/sm/img-1790868064-3d7e199e424d.jpeg",
-      "condition": "Polovno",
-      "fuel": "dizel",
-      "km": "216.196 km",
-      "year": "2022",
-      "price": "30.999 KM",
-      "originalPrice": "",
-      "updated": "",
-      "labels": [
-        "Izdvojeno"
-      ]
-    },
     {
       "id": "79378665",
       "name": "LINHAI 1000 2026 NOVO Registrovan",
@@ -65,9 +49,21 @@
       "price": "39.999 KM",
       "originalPrice": "",
       "updated": "",
-      "labels": [
-        "Izdvojeno"
-      ]
+      "labels": []
+    },
+    {
+      "id": "79722545",
+      "name": "Škoda Octavia 2.0 TDI DSG 12/2022 UVOZ",
+      "url": "https://hhauto.olx.ba/artikal/79722545",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/79722545/sm/img-1790868064-3d7e199e424d.jpeg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "216.196 km",
+      "year": "2022",
+      "price": "30.999 KM",
+      "originalPrice": "",
+      "updated": "",
+      "labels": []
     },
     {
       "id": "79378877",

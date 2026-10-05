@@ -1,8 +1,40 @@
 {
   "source": "https://hhauto.olx.ba/aktivni",
-  "updatedAt": "2026-10-04T10:51:49.003695+00:00",
-  "count": 37,
+  "updatedAt": "2026-10-05T12:00:08.209048+00:00",
+  "count": 38,
   "vehicles": [
+    {
+      "id": "69005786",
+      "name": "Mercedes-Benz Vito 3.0 CDI 2012 7+1 AUTOMATIK REG. 06/27",
+      "url": "https://hhauto.olx.ba/artikal/69005786",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/69005786/sm/img-1750960178-fca9a1139bdb.jpg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "296.356 km",
+      "year": "2012",
+      "price": "32.999 KM",
+      "originalPrice": "",
+      "updated": "",
+      "labels": [
+        "Dostupno odmah"
+      ]
+    },
+    {
+      "id": "73428000",
+      "name": "Audi A4 2.0 TDI 110 KW 2015 AUTOMATIK",
+      "url": "https://hhauto.olx.ba/artikal/73428000",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/73428000/sm/img-1780510584-803c1454824c.jpg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "258.000 km",
+      "year": "2015",
+      "price": "18.999 KM",
+      "originalPrice": "",
+      "updated": "",
+      "labels": [
+        "Dostupno odmah"
+      ]
+    },
     {
       "id": "79378665",
       "name": "LINHAI 1000 2026 NOVO Registrovan",
@@ -16,7 +48,6 @@
       "originalPrice": "",
       "updated": "",
       "labels": [
-        "Izdvojeno",
         "Dostupno odmah"
       ]
     },
@@ -29,11 +60,10 @@
       "fuel": "dizel",
       "km": "121.862 km",
       "year": "2017",
-      "price": "40.999 KM",
-      "originalPrice": "42.999 KM",
+      "price": "42.999 KM",
+      "originalPrice": "",
       "updated": "",
       "labels": [
-        "Izdvojeno",
         "Dostupno odmah"
       ]
     },
@@ -153,22 +183,6 @@
       "km": "358.685 km",
       "year": "2013",
       "price": "13.999 KM",
-      "originalPrice": "",
-      "updated": "",
-      "labels": [
-        "Dostupno odmah"
-      ]
-    },
-    {
-      "id": "73428000",
-      "name": "Audi A4 2.0 TDI 110 KW 2015 AUTOMATIK",
-      "url": "https://hhauto.olx.ba/artikal/73428000",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/73428000/sm/img-1780510584-803c1454824c.jpg",
-      "condition": "Polovno",
-      "fuel": "dizel",
-      "km": "258.000 km",
-      "year": "2015",
-      "price": "18.999 KM",
       "originalPrice": "",
       "updated": "",
       "labels": [

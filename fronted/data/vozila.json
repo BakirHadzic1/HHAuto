@@ -1,22 +1,23 @@
 {
   "source": "https://hhauto.olx.ba/aktivni",
-  "updatedAt": "2026-10-09T11:37:45.703122+00:00",
+  "updatedAt": "2026-10-10T10:55:16.448007+00:00",
   "count": 39,
   "vehicles": [
     {
-      "id": "79724141",
-      "name": "Volkswagen Tiguan 2.0 TDI 4MOTION UVOZ CH",
-      "url": "https://hhauto.olx.ba/artikal/79724141",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/79724141/sm/img-1790865633-347f0af0819b.jpg",
+      "id": "73752024",
+      "name": "Ford Kuga ST line 2.0 Tdci 140 KW 4x4 2020 UVOZ CH",
+      "url": "https://hhauto.olx.ba/artikal/73752024",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/73752024/sm/img-1781965371-f754feda4542.jpg",
       "condition": "Polovno",
       "fuel": "dizel",
-      "km": "151.000 km",
-      "year": "2017",
-      "price": "39.999 KM",
+      "km": "208.647 km",
+      "year": "2020",
+      "price": "34.900 KM",
       "originalPrice": "",
       "updated": "",
       "labels": [
-        "Izdvojeno"
+        "Izdvojeno",
+        "Dostupno odmah"
       ]
     },
     {
@@ -36,6 +37,22 @@
       ]
     },
     {
+      "id": "79724141",
+      "name": "Volkswagen Tiguan 2.0 TDI 4MOTION UVOZ CH",
+      "url": "https://hhauto.olx.ba/artikal/79724141",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/79724141/sm/img-1790865633-347f0af0819b.jpg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "151.000 km",
+      "year": "2017",
+      "price": "39.999 KM",
+      "originalPrice": "",
+      "updated": "",
+      "labels": [
+        "Izdvojeno"
+      ]
+    },
+    {
       "id": "74117695",
       "name": "Škoda Octavia 1.6 Tdi 4x4 2013 UVOZ CH",
       "url": "https://hhauto.olx.ba/artikal/74117695",
@@ -47,9 +64,7 @@
       "price": "10.999 KM",
       "originalPrice": "",
       "updated": "",
-      "labels": [
-        "Izdvojeno"
-      ]
+      "labels": []
     },
     {
       "id": "74947412",
@@ -63,9 +78,7 @@
       "price": "6.900 KM",
       "originalPrice": "",
       "updated": "",
-      "labels": [
-        "Izdvojeno"
-      ]
+      "labels": []
     },
     {
       "id": "74971013",
@@ -77,22 +90,6 @@
       "km": "182.078 km",
       "year": "2020",
       "price": "18.999 KM",
-      "originalPrice": "",
-      "updated": "",
-      "labels": [
-        "Dostupno odmah"
-      ]
-    },
-    {
-      "id": "73752024",
-      "name": "Ford Kuga ST line 2.0 Tdci 140 KW 4x4 2020 UVOZ CH",
-      "url": "https://hhauto.olx.ba/artikal/73752024",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/73752024/sm/img-1781965371-f754feda4542.jpg",
-      "condition": "Polovno",
-      "fuel": "dizel",
-      "km": "208.647 km",
-      "year": "2020",
-      "price": "34.900 KM",
       "originalPrice": "",
       "updated": "",
       "labels": [

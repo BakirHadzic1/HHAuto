@@ -127,6 +127,7 @@
   </script>
 
   <link rel="stylesheet" href="./style.css" />
+  <link rel="stylesheet" href="./vozila.css" />
 </head>
 
 <body>
@@ -141,7 +142,7 @@
           <li><a href="#pocetna">Početna</a></li>
           <li><a href="#o-nama">O nama</a></li>
           <li><a href="#zasto-hhauto">Zašto HH Auto</a></li>
-          <li><a href="#ponuda-vozila">Ponuda vozila</a></li>
+          <li><a href="/vozila">Ponuda vozila</a></li>
           <li><a href="#info">Info</a></li>
           <li><a href="#mapa">Mapa</a></li>
           <li><a href="#kontakt">Kontakt</a></li>
@@ -175,7 +176,7 @@
         <hr>
         <p>UVOZ I PRODAJA RABLJENIH VOZILA • IZNAJMLJIVANJE VOZILA</p>
         <div class="hero-actions">
-          <a href="#ponuda-vozila" class="cta">Pogledaj ponudu</a>
+          <a href="/vozila" class="cta">Pogledaj ponudu</a>
           <a href="https://hhauto.olx.ba/" target="_blank" rel="noopener" class="cta cta-outline">Sva auta na PIK-u</a>
         </div>
       </div>
@@ -226,15 +227,15 @@
         <div class="ponuda-left">
           <h2>Ponuda vozila</h2>
           <hr>
-          <p>Pogledajte dio naše ponude, a kompletna i najnovija lista vozila je dostupna na našem PIK/OLX shopu.</p>
+          <p>Izdvajamo iz ponude. Pretražite vozila prema marki, budžetu i godištu ili sačuvajte svoje favorite.</p>
           <p class="sync-info" data-vehicles-info>Učitavanje aktivnih oglasa...</p>
 
-          <div id="ponuda" class="cars-grid"></div>
+          <div id="ponuda" class="hh-grid"></div>
 
           <p class="muted">Cijene, stanje i dostupnost vozila se najbrže provjeravaju direktno na PIK-u ili pozivom na kontakt telefon.</p>
 
           <div class="offer-actions">
-            <a href="/vozila" class="button-auta">Detaljnije</a>
+            <a href="/vozila" class="button-auta">Pretraži sva vozila</a>
             <a href="https://hhauto.olx.ba/" target="_blank" rel="noopener" class="button-auta button-yellow">Sva auta na PIK-u</a>
           </div>
         </div>
@@ -245,10 +246,10 @@
     <section id="info" class="seo-info">
       <div class="seo-info-wrap">
         <div class="seo-copy">
-          <p class="eyebrow">Zvanična stranica</p>
-          <h2>HH Auto Travnik na hhauto.ba</h2>
-          <p>hhauto.ba je zvanična web stranica firme HH Auto Travnik. Na ovoj stranici možete pronaći osnovne informacije, kontakt, lokaciju, aktivnu ponudu vozila i link prema našem zvaničnom PIK/OLX shopu.</p>
-          <p>Najčešće nas kupci traže kao HH Auto, HHAUTO, HH Auto Travnik, prodaja auta Travnik, uvoz vozila Travnik i rent-a-car Travnik.</p>
+          <p class="eyebrow">Od izbora do pregleda</p>
+          <h2>Pronađite auto. Upoznajte detalje.</h2>
+          <p>Pretražite ponudu, izdvojite vozila koja vas zanimaju i javite nam se s konkretnim pitanjima. Tu smo za informacije o stanju, dokumentaciji i dostupnosti vozila.</p>
+          <p>Prije dolaska dogovorite pregled na adresi Mostarska bb u Travniku. Za informacije o najmu vozila kontaktirajte nas direktno.</p>
         </div>
 
         <section class="seo-facts" aria-label="HH Auto Travnik informacije">
@@ -395,6 +396,7 @@
     </footer>
   </main>
 
+  <script src="./vehicle-core.js"></script>
   <script src="./vozila.js"></script>
   <script src="./script.js"></script>
 </body>

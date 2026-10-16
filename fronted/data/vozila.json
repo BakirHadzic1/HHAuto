@@ -1,25 +1,8 @@
 {
   "source": "https://hhauto.olx.ba/aktivni",
-  "updatedAt": "2026-10-15T09:34:31.084382+00:00",
-  "count": 40,
+  "updatedAt": "2026-10-16T09:27:23.963174+00:00",
+  "count": 39,
   "vehicles": [
-    {
-      "id": "80119898",
-      "name": "BENDA REDSTONE LUX 550 R2 V-TWIN 48 KS BIJELA",
-      "url": "https://hhauto.olx.ba/artikal/80119898",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/80119898/sm/img-1791308592-70419db86c25.jpeg",
-      "condition": "Novo",
-      "fuel": "",
-      "km": "",
-      "year": "",
-      "price": "15.900 KM",
-      "originalPrice": "",
-      "updated": "",
-      "labels": [
-        "Izdvojeno",
-        "Dostupno odmah"
-      ]
-    },
     {
       "id": "73700490",
       "name": "Volkswagen Passat 2.0 4M 130 KW UVOZ CH REG 7/2027",
@@ -38,18 +21,36 @@
       ]
     },
     {
-      "id": "79724141",
-      "name": "Volkswagen Tiguan 2.0 TDI 4MOTION UVOZ CH",
-      "url": "https://hhauto.olx.ba/artikal/79724141",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/79724141/sm/img-1790865633-347f0af0819b.jpg",
+      "id": "79722589",
+      "name": "Audi Q5 2.0 TDI 2022 NAVI KAMERA",
+      "url": "https://hhauto.olx.ba/artikal/79722589",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/79722589/sm/img-1791285675-f8fd14879676.jpg",
       "condition": "Polovno",
       "fuel": "dizel",
-      "km": "151.000 km",
-      "year": "2017",
-      "price": "38.500 KM",
-      "originalPrice": "39.999 KM",
+      "km": "227.000 km",
+      "year": "2022",
+      "price": "52.999 KM",
+      "originalPrice": "",
       "updated": "",
-      "labels": []
+      "labels": [
+        "Izdvojeno"
+      ]
+    },
+    {
+      "id": "80119898",
+      "name": "BENDA REDSTONE LUX 550 R2 V-TWIN 48 KS BIJELA",
+      "url": "https://hhauto.olx.ba/artikal/80119898",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/80119898/sm/img-1791308592-70419db86c25.jpeg",
+      "condition": "Novo",
+      "fuel": "",
+      "km": "",
+      "year": "",
+      "price": "15.900 KM",
+      "originalPrice": "",
+      "updated": "",
+      "labels": [
+        "Dostupno odmah"
+      ]
     },
     {
       "id": "79722545",
@@ -60,8 +61,8 @@
       "fuel": "dizel",
       "km": "216.196 km",
       "year": "2022",
-      "price": "29.999 KM",
-      "originalPrice": "30.999 KM",
+      "price": "30.999 KM",
+      "originalPrice": "",
       "updated": "",
       "labels": []
     },
@@ -254,20 +255,6 @@
       "labels": [
         "Dostupno odmah"
       ]
-    },
-    {
-      "id": "79722589",
-      "name": "Audi Q5 2.0 TDI 2022 NAVI KAMERA",
-      "url": "https://hhauto.olx.ba/artikal/79722589",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/79722589/sm/img-1791285675-f8fd14879676.jpg",
-      "condition": "Polovno",
-      "fuel": "dizel",
-      "km": "227.000 km",
-      "year": "2022",
-      "price": "52.999 KM",
-      "originalPrice": "",
-      "updated": "",
-      "labels": []
     },
     {
       "id": "75024974",

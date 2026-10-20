@@ -1,8 +1,74 @@
 {
   "source": "https://hhauto.olx.ba/aktivni",
-  "updatedAt": "2026-10-19T10:27:51.789112+00:00",
+  "updatedAt": "2026-10-20T09:46:45.213536+00:00",
   "count": 39,
   "vehicles": [
+    {
+      "id": "73752024",
+      "name": "Ford Kuga ST line 2.0 Tdci 140 KW 4x4 2020 UVOZ CH",
+      "url": "https://hhauto.olx.ba/artikal/73752024",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/73752024/sm/img-1781965371-f754feda4542.jpg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "208.647 km",
+      "year": "2020",
+      "price": "34.900 KM",
+      "originalPrice": "",
+      "updated": "",
+      "labels": [
+        "Izdvojeno",
+        "Dostupno odmah"
+      ]
+    },
+    {
+      "id": "80010603",
+      "name": "BENDA REDSTONE LUX 550 R2 V-TWIN 48 KS ATV",
+      "url": "https://hhauto.olx.ba/artikal/80010603",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/80010603/sm/img-1790937829-0c26a56a3a03.jpg",
+      "condition": "Polovno",
+      "fuel": "",
+      "km": "",
+      "year": "",
+      "price": "15.900 KM",
+      "originalPrice": "",
+      "updated": "",
+      "labels": [
+        "Izdvojeno",
+        "Dostupno odmah"
+      ]
+    },
+    {
+      "id": "73700490",
+      "name": "Volkswagen Passat 2.0 4M 130 KW UVOZ CH REG 7/2027",
+      "url": "https://hhauto.olx.ba/artikal/73700490",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/73700490/sm/img-1768905657-27fb32518ddb.jpg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "273.313 km",
+      "year": "2014",
+      "price": "16.999 KM",
+      "originalPrice": "",
+      "updated": "",
+      "labels": [
+        "Dostupno odmah"
+      ]
+    },
+    {
+      "id": "80483175",
+      "name": "Mercedes-Benz A 180 INFO 061 696 704",
+      "url": "https://hhauto.olx.ba/artikal/80483175",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/80483175/sm/img-1792418986-8037e2453822.jpg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "37.938 km",
+      "year": "2018",
+      "price": "45.999 KM",
+      "originalPrice": "",
+      "updated": "",
+      "labels": [
+        "Dostupno odmah"
+      ]
+    },
     {
       "id": "64285423",
       "name": "Ford Focus 1.5 TDCi 2019 - UVOZ - REG. 7/2027",
@@ -42,8 +108,8 @@
       "fuel": "dizel",
       "km": "102.105 km",
       "year": "2020",
-      "price": "69.999 KM",
-      "originalPrice": "74.999 KM",
+      "price": "74.999 KM",
+      "originalPrice": "",
       "updated": "",
       "labels": [
         "Dostupno odmah"
@@ -80,22 +146,6 @@
       "labels": []
     },
     {
-      "id": "73700490",
-      "name": "Volkswagen Passat 2.0 4M 130 KW UVOZ CH REG 7/2027",
-      "url": "https://hhauto.olx.ba/artikal/73700490",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/73700490/sm/img-1768905657-27fb32518ddb.jpg",
-      "condition": "Polovno",
-      "fuel": "dizel",
-      "km": "273.313 km",
-      "year": "2014",
-      "price": "16.999 KM",
-      "originalPrice": "",
-      "updated": "",
-      "labels": [
-        "Dostupno odmah"
-      ]
-    },
-    {
       "id": "76828545",
       "name": "Peugeot 208 1.0 Benzin 2014 UVOZ",
       "url": "https://hhauto.olx.ba/artikal/76828545",
@@ -121,22 +171,6 @@
       "km": "239.564 km",
       "year": "2011",
       "price": "8.750 KM",
-      "originalPrice": "",
-      "updated": "",
-      "labels": [
-        "Dostupno odmah"
-      ]
-    },
-    {
-      "id": "80010603",
-      "name": "BENDA REDSTONE LUX 550 R2 V-TWIN 48 KS ATV",
-      "url": "https://hhauto.olx.ba/artikal/80010603",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/80010603/sm/img-1790937829-0c26a56a3a03.jpg",
-      "condition": "Polovno",
-      "fuel": "",
-      "km": "",
-      "year": "",
-      "price": "15.900 KM",
       "originalPrice": "",
       "updated": "",
       "labels": [
@@ -332,22 +366,6 @@
       ]
     },
     {
-      "id": "73752024",
-      "name": "Ford Kuga ST line 2.0 Tdci 140 KW 4x4 2020 UVOZ CH",
-      "url": "https://hhauto.olx.ba/artikal/73752024",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/73752024/sm/img-1781965371-f754feda4542.jpg",
-      "condition": "Polovno",
-      "fuel": "dizel",
-      "km": "208.647 km",
-      "year": "2020",
-      "price": "34.900 KM",
-      "originalPrice": "",
-      "updated": "",
-      "labels": [
-        "Dostupno odmah"
-      ]
-    },
-    {
       "id": "75024974",
       "name": "Škoda Fabia 1.2 TDI UVOZ NL",
       "url": "https://hhauto.olx.ba/artikal/75024974",
@@ -435,22 +453,6 @@
       "km": "",
       "year": "",
       "price": "20.500 KM",
-      "originalPrice": "",
-      "updated": "",
-      "labels": [
-        "Dostupno odmah"
-      ]
-    },
-    {
-      "id": "79378877",
-      "name": "LINHAI 550L EPS ABS SERVO GRIJANJE SJEDISTA KOFER NOVO",
-      "url": "https://hhauto.olx.ba/artikal/79378877",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/79378877/sm/img-1788718590-5a1fdc56dafb.jpg",
-      "condition": "Polovno",
-      "fuel": "",
-      "km": "",
-      "year": "",
-      "price": "12.499 KM",
       "originalPrice": "",
       "updated": "",
       "labels": [

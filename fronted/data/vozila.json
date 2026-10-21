@@ -1,6 +1,6 @@
 {
   "source": "https://hhauto.olx.ba/aktivni",
-  "updatedAt": "2026-10-20T09:46:45.213536+00:00",
+  "updatedAt": "2026-10-21T09:47:35.898356+00:00",
   "count": 39,
   "vehicles": [
     {
@@ -34,6 +34,38 @@
       "updated": "",
       "labels": [
         "Izdvojeno",
+        "Dostupno odmah"
+      ]
+    },
+    {
+      "id": "77555741",
+      "name": "Volkswagen e-Golf 2015 UVOZ NL",
+      "url": "https://hhauto.olx.ba/artikal/77555741",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/77555741/sm/img-1782155763-2321c81a912b.jpg",
+      "condition": "Polovno",
+      "fuel": "elektro",
+      "km": "223.889 km",
+      "year": "2015",
+      "price": "16.999 KM",
+      "originalPrice": "",
+      "updated": "",
+      "labels": [
+        "Dostupno odmah"
+      ]
+    },
+    {
+      "id": "76046136",
+      "name": "Peugeot 308 1.2 Benzin 96 kw 2019 UVOZ",
+      "url": "https://hhauto.olx.ba/artikal/76046136",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/76046136/sm/img-1776946978-c4e7f40f2165.jpg",
+      "condition": "Polovno",
+      "fuel": "benzin",
+      "km": "171.068 km",
+      "year": "2019",
+      "price": "15.999 KM",
+      "originalPrice": "",
+      "updated": "",
+      "labels": [
         "Dostupno odmah"
       ]
     },
@@ -281,22 +313,6 @@
       "km": "287.000 km",
       "year": "2015",
       "price": "59.999 KM",
-      "originalPrice": "",
-      "updated": "",
-      "labels": [
-        "Dostupno odmah"
-      ]
-    },
-    {
-      "id": "76046136",
-      "name": "Peugeot 308 1.2 Benzin 96 kw 2019 UVOZ",
-      "url": "https://hhauto.olx.ba/artikal/76046136",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/76046136/sm/img-1776946978-c4e7f40f2165.jpg",
-      "condition": "Polovno",
-      "fuel": "benzin",
-      "km": "171.068 km",
-      "year": "2019",
-      "price": "15.999 KM",
       "originalPrice": "",
       "updated": "",
       "labels": [
@@ -565,22 +581,6 @@
       "km": "244.917 km",
       "year": "2014",
       "price": "12.999 KM",
-      "originalPrice": "",
-      "updated": "",
-      "labels": [
-        "Dostupno odmah"
-      ]
-    },
-    {
-      "id": "77555741",
-      "name": "Volkswagen e-Golf 2015 UVOZ NL",
-      "url": "https://hhauto.olx.ba/artikal/77555741",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/77555741/sm/img-1782155763-2321c81a912b.jpg",
-      "condition": "Polovno",
-      "fuel": "elektro",
-      "km": "223.889 km",
-      "year": "2015",
-      "price": "16.999 KM",
       "originalPrice": "",
       "updated": "",
       "labels": [

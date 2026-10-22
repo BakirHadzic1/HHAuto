@@ -1,25 +1,8 @@
 {
   "source": "https://hhauto.olx.ba/aktivni",
-  "updatedAt": "2026-10-21T09:47:35.898356+00:00",
+  "updatedAt": "2026-10-22T09:48:26.235741+00:00",
   "count": 39,
   "vehicles": [
-    {
-      "id": "73752024",
-      "name": "Ford Kuga ST line 2.0 Tdci 140 KW 4x4 2020 UVOZ CH",
-      "url": "https://hhauto.olx.ba/artikal/73752024",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/73752024/sm/img-1781965371-f754feda4542.jpg",
-      "condition": "Polovno",
-      "fuel": "dizel",
-      "km": "208.647 km",
-      "year": "2020",
-      "price": "34.900 KM",
-      "originalPrice": "",
-      "updated": "",
-      "labels": [
-        "Izdvojeno",
-        "Dostupno odmah"
-      ]
-    },
     {
       "id": "80010603",
       "name": "BENDA REDSTONE LUX 550 R2 V-TWIN 48 KS ATV",
@@ -34,6 +17,38 @@
       "updated": "",
       "labels": [
         "Izdvojeno",
+        "Dostupno odmah"
+      ]
+    },
+    {
+      "id": "73752024",
+      "name": "Ford Kuga ST line 2.0 Tdci 140 KW 4x4 2020 UVOZ CH",
+      "url": "https://hhauto.olx.ba/artikal/73752024",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/73752024/sm/img-1781965371-f754feda4542.jpg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "208.647 km",
+      "year": "2020",
+      "price": "34.900 KM",
+      "originalPrice": "",
+      "updated": "",
+      "labels": [
+        "Dostupno odmah"
+      ]
+    },
+    {
+      "id": "76076748",
+      "name": "Škoda Fabia 1.2 TDI 2011 UVOZ NL",
+      "url": "https://hhauto.olx.ba/artikal/76076748",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/76076748/sm/img-1777040765-bd0b4f0ec3af.jpg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "239.564 km",
+      "year": "2011",
+      "price": "8.750 KM",
+      "originalPrice": "",
+      "updated": "",
+      "labels": [
         "Dostupno odmah"
       ]
     },
@@ -194,22 +209,6 @@
       ]
     },
     {
-      "id": "76076748",
-      "name": "Škoda Fabia 1.2 TDI 2011 UVOZ NL",
-      "url": "https://hhauto.olx.ba/artikal/76076748",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/76076748/sm/img-1777040765-bd0b4f0ec3af.jpg",
-      "condition": "Polovno",
-      "fuel": "dizel",
-      "km": "239.564 km",
-      "year": "2011",
-      "price": "8.750 KM",
-      "originalPrice": "",
-      "updated": "",
-      "labels": [
-        "Dostupno odmah"
-      ]
-    },
-    {
       "id": "73311395",
       "name": "Audi Q2 QUATTRO 2.0 TDI 140 KW UVOZ DE GARANCIJA REG 2/2027",
       "url": "https://hhauto.olx.ba/artikal/73311395",
@@ -296,7 +295,7 @@
       "fuel": "dizel",
       "km": "258.000 km",
       "year": "2015",
-      "price": "18.999 KM",
+      "price": "17.999 KM",
       "originalPrice": "",
       "updated": "",
       "labels": [

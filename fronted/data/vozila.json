@@ -1,13 +1,127 @@
 {
   "source": "https://hhauto.olx.ba/aktivni",
-  "updatedAt": "2026-10-22T09:48:26.235741+00:00",
-  "count": 39,
+  "updatedAt": "2026-10-23T09:43:14.434281+00:00",
+  "count": 40,
   "vehicles": [
+    {
+      "id": "79722589",
+      "name": "Audi Q5 2.0 TDI 2022 NAVI KAMERA",
+      "url": "https://hhauto.olx.ba/artikal/79722589",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/79722589/sm/img-1791285675-f8fd14879676.jpg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "227.000 km",
+      "year": "2022",
+      "price": "51.999 KM",
+      "originalPrice": "52.999 KM",
+      "updated": "",
+      "labels": [
+        "Izdvojeno"
+      ]
+    },
+    {
+      "id": "79378665",
+      "name": "LINHAI 1000 2026 NOVO Registrovan",
+      "url": "https://hhauto.olx.ba/artikal/79378665",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/79378665/sm/img-1792689697-987480a58940.jpg",
+      "condition": "Polovno",
+      "fuel": "",
+      "km": "",
+      "year": "",
+      "price": "20.500 KM",
+      "originalPrice": "",
+      "updated": "",
+      "labels": [
+        "Izdvojeno",
+        "Dostupno odmah"
+      ]
+    },
+    {
+      "id": "79722545",
+      "name": "Škoda Octavia 2.0 TDI DSG 12/2022 UVOZ",
+      "url": "https://hhauto.olx.ba/artikal/79722545",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/79722545/sm/img-1790868064-3d7e199e424d.jpeg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "216.196 km",
+      "year": "2022",
+      "price": "30.999 KM",
+      "originalPrice": "",
+      "updated": "",
+      "labels": [
+        "Izdvojeno"
+      ]
+    },
+    {
+      "id": "77140412",
+      "name": "Škoda Octavia VRS 2.0 TDI 2017 DSG - 4x4 - UVOZ -",
+      "url": "https://hhauto.olx.ba/artikal/77140412",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/77140412/sm/img-1780759043-1cba494f341a.jpeg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "236.934 km",
+      "year": "2017",
+      "price": "23.999 KM",
+      "originalPrice": "24.999 KM",
+      "updated": "",
+      "labels": [
+        "Izdvojeno"
+      ]
+    },
+    {
+      "id": "73700490",
+      "name": "Volkswagen Passat 2.0 4M 130 KW UVOZ CH REG 7/2027",
+      "url": "https://hhauto.olx.ba/artikal/73700490",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/73700490/sm/img-1768905657-27fb32518ddb.jpg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "273.313 km",
+      "year": "2014",
+      "price": "15.999 KM",
+      "originalPrice": "16.999 KM",
+      "updated": "",
+      "labels": [
+        "Izdvojeno",
+        "Dostupno odmah"
+      ]
+    },
+    {
+      "id": "79848762",
+      "name": "Volkswagen Golf 1.6 TDI 2015 LOUNGE REG. 05/27",
+      "url": "https://hhauto.olx.ba/artikal/79848762",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/79848762/sm/img-1790346771-e227096da255.jpeg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "348.100 km",
+      "year": "2015",
+      "price": "16.500 KM",
+      "originalPrice": "",
+      "updated": "",
+      "labels": [
+        "Dostupno odmah"
+      ]
+    },
+    {
+      "id": "80563680",
+      "name": "Peugeot 508 Active BLUEHDI 2020 TOP STANJE",
+      "url": "https://hhauto.olx.ba/artikal/80563680",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/80563680/sm/img-1792687326-67145212ecff.jpg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "48.314 km",
+      "year": "2020",
+      "price": "34.999 KM",
+      "originalPrice": "",
+      "updated": "",
+      "labels": [
+        "Dostupno odmah"
+      ]
+    },
     {
       "id": "80010603",
       "name": "BENDA REDSTONE LUX 550 R2 V-TWIN 48 KS ATV",
       "url": "https://hhauto.olx.ba/artikal/80010603",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/80010603/sm/img-1790937829-0c26a56a3a03.jpg",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/80010603/sm/img-1792690731-d917be3087e8.jpg",
       "condition": "Polovno",
       "fuel": "",
       "km": "",
@@ -16,7 +130,6 @@
       "originalPrice": "",
       "updated": "",
       "labels": [
-        "Izdvojeno",
         "Dostupno odmah"
       ]
     },
@@ -78,22 +191,6 @@
       "km": "171.068 km",
       "year": "2019",
       "price": "15.999 KM",
-      "originalPrice": "",
-      "updated": "",
-      "labels": [
-        "Dostupno odmah"
-      ]
-    },
-    {
-      "id": "73700490",
-      "name": "Volkswagen Passat 2.0 4M 130 KW UVOZ CH REG 7/2027",
-      "url": "https://hhauto.olx.ba/artikal/73700490",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/73700490/sm/img-1768905657-27fb32518ddb.jpg",
-      "condition": "Polovno",
-      "fuel": "dizel",
-      "km": "273.313 km",
-      "year": "2014",
-      "price": "16.999 KM",
       "originalPrice": "",
       "updated": "",
       "labels": [
@@ -179,20 +276,6 @@
       ]
     },
     {
-      "id": "79722589",
-      "name": "Audi Q5 2.0 TDI 2022 NAVI KAMERA",
-      "url": "https://hhauto.olx.ba/artikal/79722589",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/79722589/sm/img-1791285675-f8fd14879676.jpg",
-      "condition": "Polovno",
-      "fuel": "dizel",
-      "km": "227.000 km",
-      "year": "2022",
-      "price": "52.999 KM",
-      "originalPrice": "",
-      "updated": "",
-      "labels": []
-    },
-    {
       "id": "76828545",
       "name": "Peugeot 208 1.0 Benzin 2014 UVOZ",
       "url": "https://hhauto.olx.ba/artikal/76828545",
@@ -212,12 +295,12 @@
       "id": "73311395",
       "name": "Audi Q2 QUATTRO 2.0 TDI 140 KW UVOZ DE GARANCIJA REG 2/2027",
       "url": "https://hhauto.olx.ba/artikal/73311395",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/73311395/sm/img-1780849275-26369b3109d8.jpg",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/73311395/sm/img-1767122198-4c08e6604e25.jpg",
       "condition": "Polovno",
       "fuel": "dizel",
       "km": "121.862 km",
       "year": "2017",
-      "price": "42.999 KM",
+      "price": "39.999 KM",
       "originalPrice": "",
       "updated": "",
       "labels": [
@@ -239,20 +322,6 @@
       "labels": [
         "Dostupno odmah"
       ]
-    },
-    {
-      "id": "79722545",
-      "name": "Škoda Octavia 2.0 TDI DSG 12/2022 UVOZ",
-      "url": "https://hhauto.olx.ba/artikal/79722545",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/79722545/sm/img-1790868064-3d7e199e424d.jpeg",
-      "condition": "Polovno",
-      "fuel": "dizel",
-      "km": "216.196 km",
-      "year": "2022",
-      "price": "30.999 KM",
-      "originalPrice": "",
-      "updated": "",
-      "labels": []
     },
     {
       "id": "80297310",
@@ -351,20 +420,6 @@
       ]
     },
     {
-      "id": "77140412",
-      "name": "Škoda Octavia VRS 2.0 TDI 2017 DSG - 4x4 - UVOZ -",
-      "url": "https://hhauto.olx.ba/artikal/77140412",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/77140412/sm/img-1780759043-1cba494f341a.jpeg",
-      "condition": "Polovno",
-      "fuel": "dizel",
-      "km": "236.934 km",
-      "year": "2017",
-      "price": "24.999 KM",
-      "originalPrice": "",
-      "updated": "",
-      "labels": []
-    },
-    {
       "id": "70390707",
       "name": "Audi A4 2.0 TDI 2013 AUTOMATIK REG. 05/2027",
       "url": "https://hhauto.olx.ba/artikal/70390707",
@@ -452,22 +507,6 @@
       "km": "299.554 km",
       "year": "2014",
       "price": "34.999 KM",
-      "originalPrice": "",
-      "updated": "",
-      "labels": [
-        "Dostupno odmah"
-      ]
-    },
-    {
-      "id": "79378665",
-      "name": "LINHAI 1000 2026 NOVO Registrovan",
-      "url": "https://hhauto.olx.ba/artikal/79378665",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/79378665/sm/img-1788717895-edb2a161e639.jpg",
-      "condition": "Polovno",
-      "fuel": "",
-      "km": "",
-      "year": "",
-      "price": "20.500 KM",
       "originalPrice": "",
       "updated": "",
       "labels": [
@@ -580,22 +619,6 @@
       "km": "244.917 km",
       "year": "2014",
       "price": "12.999 KM",
-      "originalPrice": "",
-      "updated": "",
-      "labels": [
-        "Dostupno odmah"
-      ]
-    },
-    {
-      "id": "79848762",
-      "name": "Volkswagen Golf 1.6 TDI 2015 LOUNGE REG. 05/27",
-      "url": "https://hhauto.olx.ba/artikal/79848762",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/79848762/sm/img-1790346771-e227096da255.jpeg",
-      "condition": "Polovno",
-      "fuel": "dizel",
-      "km": "348.100 km",
-      "year": "2015",
-      "price": "16.500 KM",
       "originalPrice": "",
       "updated": "",
       "labels": [

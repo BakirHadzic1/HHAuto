@@ -1,8 +1,22 @@
 {
   "source": "https://hhauto.olx.ba/aktivni",
-  "updatedAt": "2026-10-24T09:15:41.746732+00:00",
+  "updatedAt": "2026-10-25T09:32:37.461664+00:00",
   "count": 40,
   "vehicles": [
+    {
+      "id": "77140412",
+      "name": "Škoda Octavia VRS 2.0 TDI 2017 DSG - 4x4 - UVOZ -",
+      "url": "https://hhauto.olx.ba/artikal/77140412",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/77140412/sm/img-1780759043-1cba494f341a.jpeg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "236.934 km",
+      "year": "2017",
+      "price": "23.999 KM",
+      "originalPrice": "24.999 KM",
+      "updated": "",
+      "labels": []
+    },
     {
       "id": "79378665",
       "name": "LINHAI 1000 2026 NOVO Registrovan",
@@ -16,40 +30,7 @@
       "originalPrice": "",
       "updated": "",
       "labels": [
-        "Izdvojeno",
         "Dostupno odmah"
-      ]
-    },
-    {
-      "id": "79722545",
-      "name": "Škoda Octavia 2.0 TDI DSG 12/2022 UVOZ",
-      "url": "https://hhauto.olx.ba/artikal/79722545",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/79722545/sm/img-1790868064-3d7e199e424d.jpeg",
-      "condition": "Polovno",
-      "fuel": "dizel",
-      "km": "216.196 km",
-      "year": "2022",
-      "price": "30.999 KM",
-      "originalPrice": "",
-      "updated": "",
-      "labels": [
-        "Izdvojeno"
-      ]
-    },
-    {
-      "id": "77140412",
-      "name": "Škoda Octavia VRS 2.0 TDI 2017 DSG - 4x4 - UVOZ -",
-      "url": "https://hhauto.olx.ba/artikal/77140412",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/77140412/sm/img-1780759043-1cba494f341a.jpeg",
-      "condition": "Polovno",
-      "fuel": "dizel",
-      "km": "236.934 km",
-      "year": "2017",
-      "price": "23.999 KM",
-      "originalPrice": "24.999 KM",
-      "updated": "",
-      "labels": [
-        "Izdvojeno"
       ]
     },
     {
@@ -65,7 +46,6 @@
       "originalPrice": "16.999 KM",
       "updated": "",
       "labels": [
-        "Izdvojeno",
         "Dostupno odmah"
       ]
     },
@@ -81,9 +61,21 @@
       "price": "51.999 KM",
       "originalPrice": "52.999 KM",
       "updated": "",
-      "labels": [
-        "Izdvojeno"
-      ]
+      "labels": []
+    },
+    {
+      "id": "79722545",
+      "name": "Škoda Octavia 2.0 TDI DSG 12/2022 UVOZ",
+      "url": "https://hhauto.olx.ba/artikal/79722545",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/79722545/sm/img-1790868064-3d7e199e424d.jpeg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "216.196 km",
+      "year": "2022",
+      "price": "30.999 KM",
+      "originalPrice": "",
+      "updated": "",
+      "labels": []
     },
     {
       "id": "75744316",
@@ -268,8 +260,8 @@
       "fuel": "dizel",
       "km": "102.105 km",
       "year": "2020",
-      "price": "74.999 KM",
-      "originalPrice": "",
+      "price": "69.999 KM",
+      "originalPrice": "74.999 KM",
       "updated": "",
       "labels": [
         "Dostupno odmah"

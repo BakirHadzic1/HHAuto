@@ -1,6 +1,6 @@
 {
   "source": "https://hhauto.olx.ba/aktivni",
-  "updatedAt": "2026-10-25T09:32:37.461664+00:00",
+  "updatedAt": "2026-10-26T10:43:23.324050+00:00",
   "count": 40,
   "vehicles": [
     {
@@ -12,8 +12,8 @@
       "fuel": "dizel",
       "km": "236.934 km",
       "year": "2017",
-      "price": "23.999 KM",
-      "originalPrice": "24.999 KM",
+      "price": "24.999 KM",
+      "originalPrice": "",
       "updated": "",
       "labels": []
     },
@@ -42,8 +42,8 @@
       "fuel": "dizel",
       "km": "273.313 km",
       "year": "2014",
-      "price": "15.999 KM",
-      "originalPrice": "16.999 KM",
+      "price": "16.999 KM",
+      "originalPrice": "",
       "updated": "",
       "labels": [
         "Dostupno odmah"
@@ -58,8 +58,8 @@
       "fuel": "dizel",
       "km": "227.000 km",
       "year": "2022",
-      "price": "51.999 KM",
-      "originalPrice": "52.999 KM",
+      "price": "52.999 KM",
+      "originalPrice": "",
       "updated": "",
       "labels": []
     },

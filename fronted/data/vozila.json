@@ -1,8 +1,41 @@
 {
   "source": "https://hhauto.olx.ba/aktivni",
-  "updatedAt": "2026-10-26T10:43:23.324050+00:00",
+  "updatedAt": "2026-10-27T10:10:38.281685+00:00",
   "count": 40,
   "vehicles": [
+    {
+      "id": "80563680",
+      "name": "Peugeot 508 Active BLUEHDI 2020 TOP STANJE",
+      "url": "https://hhauto.olx.ba/artikal/80563680",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/80563680/sm/img-1793030112-f0d2790a5533.jpg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "48.314 km",
+      "year": "2020",
+      "price": "34.999 KM",
+      "originalPrice": "",
+      "updated": "",
+      "labels": [
+        "Izdvojeno",
+        "Dostupno odmah"
+      ]
+    },
+    {
+      "id": "79722545",
+      "name": "Škoda Octavia 2.0 TDI DSG 12/2022 UVOZ",
+      "url": "https://hhauto.olx.ba/artikal/79722545",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/79722545/sm/img-1790868064-3d7e199e424d.jpeg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "216.196 km",
+      "year": "2022",
+      "price": "30.999 KM",
+      "originalPrice": "",
+      "updated": "",
+      "labels": [
+        "Izdvojeno"
+      ]
+    },
     {
       "id": "77140412",
       "name": "Škoda Octavia VRS 2.0 TDI 2017 DSG - 4x4 - UVOZ -",
@@ -19,7 +52,7 @@
     },
     {
       "id": "79378665",
-      "name": "LINHAI 1000 2026 NOVO Registrovan",
+      "name": "LINHAI 1000 2026 NOVO Registrovan 10/2027",
       "url": "https://hhauto.olx.ba/artikal/79378665",
       "image": "https://d4n0y8dshd77z.cloudfront.net/listings/79378665/sm/img-1792689697-987480a58940.jpg",
       "condition": "Polovno",
@@ -64,20 +97,6 @@
       "labels": []
     },
     {
-      "id": "79722545",
-      "name": "Škoda Octavia 2.0 TDI DSG 12/2022 UVOZ",
-      "url": "https://hhauto.olx.ba/artikal/79722545",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/79722545/sm/img-1790868064-3d7e199e424d.jpeg",
-      "condition": "Polovno",
-      "fuel": "dizel",
-      "km": "216.196 km",
-      "year": "2022",
-      "price": "30.999 KM",
-      "originalPrice": "",
-      "updated": "",
-      "labels": []
-    },
-    {
       "id": "75744316",
       "name": "BMW X6 M50d 12/2020",
       "url": "https://hhauto.olx.ba/artikal/75744316",
@@ -103,22 +122,6 @@
       "km": "348.100 km",
       "year": "2015",
       "price": "16.500 KM",
-      "originalPrice": "",
-      "updated": "",
-      "labels": [
-        "Dostupno odmah"
-      ]
-    },
-    {
-      "id": "80563680",
-      "name": "Peugeot 508 Active BLUEHDI 2020 TOP STANJE",
-      "url": "https://hhauto.olx.ba/artikal/80563680",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/80563680/sm/img-1792687326-67145212ecff.jpg",
-      "condition": "Polovno",
-      "fuel": "dizel",
-      "km": "48.314 km",
-      "year": "2020",
-      "price": "34.999 KM",
       "originalPrice": "",
       "updated": "",
       "labels": [

@@ -1,6 +1,6 @@
 {
   "source": "https://hhauto.olx.ba/aktivni",
-  "updatedAt": "2026-10-28T10:56:42.583337+00:00",
+  "updatedAt": "2026-10-29T11:15:20.973999+00:00",
   "count": 40,
   "vehicles": [
     {
@@ -21,16 +21,33 @@
       ]
     },
     {
-      "id": "80563680",
-      "name": "Peugeot 508 Active BLUEHDI 2020 TOP STANJE",
-      "url": "https://hhauto.olx.ba/artikal/80563680",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/80563680/sm/img-1793030112-f0d2790a5533.jpg",
+      "id": "73428000",
+      "name": "Audi A4 2.0 TDI 110 KW 2015 AUTOMATIK",
+      "url": "https://hhauto.olx.ba/artikal/73428000",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/73428000/sm/img-1780510584-803c1454824c.jpg",
       "condition": "Polovno",
       "fuel": "dizel",
-      "km": "48.314 km",
-      "year": "2019",
-      "price": "32.999 KM",
-      "originalPrice": "34.999 KM",
+      "km": "258.000 km",
+      "year": "2015",
+      "price": "17.999 KM",
+      "originalPrice": "",
+      "updated": "",
+      "labels": [
+        "Izdvojeno",
+        "Dostupno odmah"
+      ]
+    },
+    {
+      "id": "72611190",
+      "name": "Porsche Cayenne S 4.2 TDI UVOZ CH 12/2015",
+      "url": "https://hhauto.olx.ba/artikal/72611190",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/72611190/sm/img-1764778454-d9c7ec920428.jpg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "298.014 km",
+      "year": "2015",
+      "price": "59.999 KM",
+      "originalPrice": "",
       "updated": "",
       "labels": [
         "Izdvojeno",
@@ -46,11 +63,41 @@
       "fuel": "dizel",
       "km": "216.196 km",
       "year": "2022",
-      "price": "30.999 KM",
-      "originalPrice": "",
+      "price": "29.500 KM",
+      "originalPrice": "30.999 KM",
+      "updated": "",
+      "labels": []
+    },
+    {
+      "id": "80563680",
+      "name": "Peugeot 508 Active BLUEHDI 2020 TOP STANJE",
+      "url": "https://hhauto.olx.ba/artikal/80563680",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/80563680/sm/img-1793030112-f0d2790a5533.jpg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "48.314 km",
+      "year": "2019",
+      "price": "32.999 KM",
+      "originalPrice": "34.999 KM",
       "updated": "",
       "labels": [
-        "Izdvojeno"
+        "Dostupno odmah"
+      ]
+    },
+    {
+      "id": "77555741",
+      "name": "Volkswagen e-Golf 2015 UVOZ NL",
+      "url": "https://hhauto.olx.ba/artikal/77555741",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/77555741/sm/img-1782155763-2321c81a912b.jpg",
+      "condition": "Polovno",
+      "fuel": "elektro",
+      "km": "223.889 km",
+      "year": "2015",
+      "price": "15.999 KM",
+      "originalPrice": "16.999 KM",
+      "updated": "",
+      "labels": [
+        "Dostupno odmah"
       ]
     },
     {
@@ -95,38 +142,6 @@
       "km": "321.399 km",
       "year": "2015",
       "price": "17.500 KM",
-      "originalPrice": "",
-      "updated": "",
-      "labels": [
-        "Dostupno odmah"
-      ]
-    },
-    {
-      "id": "72611190",
-      "name": "Porsche Cayenne S 4.2 TDI UVOZ CH 12/2015",
-      "url": "https://hhauto.olx.ba/artikal/72611190",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/72611190/sm/img-1764778454-d9c7ec920428.jpg",
-      "condition": "Polovno",
-      "fuel": "dizel",
-      "km": "298.014 km",
-      "year": "2015",
-      "price": "59.999 KM",
-      "originalPrice": "",
-      "updated": "",
-      "labels": [
-        "Dostupno odmah"
-      ]
-    },
-    {
-      "id": "73428000",
-      "name": "Audi A4 2.0 TDI 110 KW 2015 AUTOMATIK",
-      "url": "https://hhauto.olx.ba/artikal/73428000",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/73428000/sm/img-1780510584-803c1454824c.jpg",
-      "condition": "Polovno",
-      "fuel": "dizel",
-      "km": "258.000 km",
-      "year": "2015",
-      "price": "17.999 KM",
       "originalPrice": "",
       "updated": "",
       "labels": [
@@ -425,22 +440,6 @@
       "km": "239.564 km",
       "year": "2011",
       "price": "8.750 KM",
-      "originalPrice": "",
-      "updated": "",
-      "labels": [
-        "Dostupno odmah"
-      ]
-    },
-    {
-      "id": "77555741",
-      "name": "Volkswagen e-Golf 2015 UVOZ NL",
-      "url": "https://hhauto.olx.ba/artikal/77555741",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/77555741/sm/img-1782155763-2321c81a912b.jpg",
-      "condition": "Polovno",
-      "fuel": "elektro",
-      "km": "223.889 km",
-      "year": "2015",
-      "price": "16.999 KM",
       "originalPrice": "",
       "updated": "",
       "labels": [

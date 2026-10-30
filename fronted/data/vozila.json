@@ -1,25 +1,8 @@
 {
   "source": "https://hhauto.olx.ba/aktivni",
-  "updatedAt": "2026-10-29T11:15:20.973999+00:00",
+  "updatedAt": "2026-10-30T11:09:05.500931+00:00",
   "count": 40,
   "vehicles": [
-    {
-      "id": "74971013",
-      "name": "Ford Focus 1.5 TDCI 2020 UVOZ",
-      "url": "https://hhauto.olx.ba/artikal/74971013",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/74971013/sm/img-1773242756-35fcd9fd6dbd.jpg",
-      "condition": "Polovno",
-      "fuel": "dizel",
-      "km": "182.078 km",
-      "year": "2020",
-      "price": "17.999 KM",
-      "originalPrice": "18.999 KM",
-      "updated": "",
-      "labels": [
-        "Izdvojeno",
-        "Dostupno odmah"
-      ]
-    },
     {
       "id": "73428000",
       "name": "Audi A4 2.0 TDI 110 KW 2015 AUTOMATIK",
@@ -51,6 +34,22 @@
       "updated": "",
       "labels": [
         "Izdvojeno",
+        "Dostupno odmah"
+      ]
+    },
+    {
+      "id": "74971013",
+      "name": "Ford Focus 1.5 TDCI 2020 UVOZ",
+      "url": "https://hhauto.olx.ba/artikal/74971013",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/74971013/sm/img-1773242756-35fcd9fd6dbd.jpg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "182.078 km",
+      "year": "2020",
+      "price": "17.999 KM",
+      "originalPrice": "18.999 KM",
+      "updated": "",
+      "labels": [
         "Dostupno odmah"
       ]
     },
@@ -157,7 +156,7 @@
       "fuel": "benzin",
       "km": "269.614 km",
       "year": "2009",
-      "price": "6.999 KM",
+      "price": "6.599 KM",
       "originalPrice": "",
       "updated": "",
       "labels": [

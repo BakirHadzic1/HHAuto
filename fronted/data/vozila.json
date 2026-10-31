@@ -1,8 +1,74 @@
 {
   "source": "https://hhauto.olx.ba/aktivni",
-  "updatedAt": "2026-10-30T11:09:05.500931+00:00",
+  "updatedAt": "2026-10-31T10:42:11.043682+00:00",
   "count": 40,
   "vehicles": [
+    {
+      "id": "79722589",
+      "name": "Audi Q5 2.0 TDI 2022 NAVI KAMERA",
+      "url": "https://hhauto.olx.ba/artikal/79722589",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/79722589/sm/img-1791285675-f8fd14879676.jpg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "227.000 km",
+      "year": "2022",
+      "price": "49.999 KM",
+      "originalPrice": "52.999 KM",
+      "updated": "",
+      "labels": [
+        "Izdvojeno"
+      ]
+    },
+    {
+      "id": "73311395",
+      "name": "Audi Q2 QUATTRO 2.0 TDI 140 KW UVOZ DE GARANCIJA REG 2/2027",
+      "url": "https://hhauto.olx.ba/artikal/73311395",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/73311395/sm/img-1767122198-4c08e6604e25.jpg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "121.862 km",
+      "year": "2017",
+      "price": "39.999 KM",
+      "originalPrice": "",
+      "updated": "",
+      "labels": [
+        "Izdvojeno",
+        "Dostupno odmah"
+      ]
+    },
+    {
+      "id": "80563680",
+      "name": "Peugeot 508 Active BLUEHDI 2020 TOP STANJE",
+      "url": "https://hhauto.olx.ba/artikal/80563680",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/80563680/sm/img-1793030112-f0d2790a5533.jpg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "48.314 km",
+      "year": "2019",
+      "price": "30.999 KM",
+      "originalPrice": "32.999 KM",
+      "updated": "",
+      "labels": [
+        "Izdvojeno",
+        "Dostupno odmah"
+      ]
+    },
+    {
+      "id": "80010603",
+      "name": "BENDA REDSTONE LUX 550 R2 V-TWIN 48 KS ATV",
+      "url": "https://hhauto.olx.ba/artikal/80010603",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/80010603/sm/img-1792690731-d917be3087e8.jpg",
+      "condition": "Polovno",
+      "fuel": "",
+      "km": "",
+      "year": "",
+      "price": "15.900 KM",
+      "originalPrice": "",
+      "updated": "",
+      "labels": [
+        "Dostupno odmah"
+      ]
+    },
     {
       "id": "73428000",
       "name": "Audi A4 2.0 TDI 110 KW 2015 AUTOMATIK",
@@ -16,7 +82,6 @@
       "originalPrice": "",
       "updated": "",
       "labels": [
-        "Izdvojeno",
         "Dostupno odmah"
       ]
     },
@@ -33,7 +98,6 @@
       "originalPrice": "",
       "updated": "",
       "labels": [
-        "Izdvojeno",
         "Dostupno odmah"
       ]
     },
@@ -68,22 +132,6 @@
       "labels": []
     },
     {
-      "id": "80563680",
-      "name": "Peugeot 508 Active BLUEHDI 2020 TOP STANJE",
-      "url": "https://hhauto.olx.ba/artikal/80563680",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/80563680/sm/img-1793030112-f0d2790a5533.jpg",
-      "condition": "Polovno",
-      "fuel": "dizel",
-      "km": "48.314 km",
-      "year": "2019",
-      "price": "32.999 KM",
-      "originalPrice": "34.999 KM",
-      "updated": "",
-      "labels": [
-        "Dostupno odmah"
-      ]
-    },
-    {
       "id": "77555741",
       "name": "Volkswagen e-Golf 2015 UVOZ NL",
       "url": "https://hhauto.olx.ba/artikal/77555741",
@@ -109,22 +157,6 @@
       "km": "",
       "year": "",
       "price": "15.900 KM",
-      "originalPrice": "",
-      "updated": "",
-      "labels": [
-        "Dostupno odmah"
-      ]
-    },
-    {
-      "id": "73311395",
-      "name": "Audi Q2 QUATTRO 2.0 TDI 140 KW UVOZ DE GARANCIJA REG 2/2027",
-      "url": "https://hhauto.olx.ba/artikal/73311395",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/73311395/sm/img-1767122198-4c08e6604e25.jpg",
-      "condition": "Polovno",
-      "fuel": "dizel",
-      "km": "121.862 km",
-      "year": "2017",
-      "price": "39.999 KM",
       "originalPrice": "",
       "updated": "",
       "labels": [
@@ -352,27 +384,13 @@
       ]
     },
     {
-      "id": "79722589",
-      "name": "Audi Q5 2.0 TDI 2022 NAVI KAMERA",
-      "url": "https://hhauto.olx.ba/artikal/79722589",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/79722589/sm/img-1791285675-f8fd14879676.jpg",
-      "condition": "Polovno",
-      "fuel": "dizel",
-      "km": "227.000 km",
-      "year": "2022",
-      "price": "52.999 KM",
-      "originalPrice": "",
-      "updated": "",
-      "labels": []
-    },
-    {
       "id": "75744316",
       "name": "BMW X6 M50d 12/2020",
       "url": "https://hhauto.olx.ba/artikal/75744316",
       "image": "https://d4n0y8dshd77z.cloudfront.net/listings/75744316/sm/img-1775911056-14d49cb993d5.jpeg",
       "condition": "Polovno",
       "fuel": "dizel",
-      "km": "91.563 km",
+      "km": "104.115 km",
       "year": "2020",
       "price": "139.000 KM",
       "originalPrice": "",
@@ -391,22 +409,6 @@
       "km": "348.100 km",
       "year": "2015",
       "price": "16.500 KM",
-      "originalPrice": "",
-      "updated": "",
-      "labels": [
-        "Dostupno odmah"
-      ]
-    },
-    {
-      "id": "80010603",
-      "name": "BENDA REDSTONE LUX 550 R2 V-TWIN 48 KS ATV",
-      "url": "https://hhauto.olx.ba/artikal/80010603",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/80010603/sm/img-1792690731-d917be3087e8.jpg",
-      "condition": "Polovno",
-      "fuel": "",
-      "km": "",
-      "year": "",
-      "price": "15.900 KM",
       "originalPrice": "",
       "updated": "",
       "labels": [

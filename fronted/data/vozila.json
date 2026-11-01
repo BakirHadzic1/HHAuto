@@ -1,7 +1,7 @@
 {
   "source": "https://hhauto.olx.ba/aktivni",
-  "updatedAt": "2026-10-31T10:42:11.043682+00:00",
-  "count": 40,
+  "updatedAt": "2026-11-01T11:37:35.049384+00:00",
+  "count": 39,
   "vehicles": [
     {
       "id": "79722589",
@@ -26,7 +26,7 @@
       "image": "https://d4n0y8dshd77z.cloudfront.net/listings/73311395/sm/img-1767122198-4c08e6604e25.jpg",
       "condition": "Polovno",
       "fuel": "dizel",
-      "km": "121.862 km",
+      "km": "130.623 km",
       "year": "2017",
       "price": "39.999 KM",
       "originalPrice": "",
@@ -50,22 +50,6 @@
       "updated": "",
       "labels": [
         "Izdvojeno",
-        "Dostupno odmah"
-      ]
-    },
-    {
-      "id": "80010603",
-      "name": "BENDA REDSTONE LUX 550 R2 V-TWIN 48 KS ATV",
-      "url": "https://hhauto.olx.ba/artikal/80010603",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/80010603/sm/img-1792690731-d917be3087e8.jpg",
-      "condition": "Polovno",
-      "fuel": "",
-      "km": "",
-      "year": "",
-      "price": "15.900 KM",
-      "originalPrice": "",
-      "updated": "",
-      "labels": [
         "Dostupno odmah"
       ]
     },
@@ -126,8 +110,8 @@
       "fuel": "dizel",
       "km": "216.196 km",
       "year": "2022",
-      "price": "29.500 KM",
-      "originalPrice": "30.999 KM",
+      "price": "30.999 KM",
+      "originalPrice": "",
       "updated": "",
       "labels": []
     },
@@ -392,7 +376,7 @@
       "fuel": "dizel",
       "km": "104.115 km",
       "year": "2020",
-      "price": "139.000 KM",
+      "price": "129.000 KM",
       "originalPrice": "",
       "updated": "",
       "labels": [
@@ -519,7 +503,7 @@
       "km": "102.105 km",
       "year": "2020",
       "price": "69.999 KM",
-      "originalPrice": "74.999 KM",
+      "originalPrice": "",
       "updated": "",
       "labels": [
         "Dostupno odmah"
@@ -630,7 +614,7 @@
       "fuel": "dizel",
       "km": "101.000 km",
       "year": "2020",
-      "price": "139.000 KM",
+      "price": "129.000 KM",
       "originalPrice": "",
       "updated": "",
       "labels": [

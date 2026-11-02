@@ -1,22 +1,23 @@
 {
   "source": "https://hhauto.olx.ba/aktivni",
-  "updatedAt": "2026-11-01T11:37:35.049384+00:00",
-  "count": 39,
+  "updatedAt": "2026-11-02T13:01:47.774434+00:00",
+  "count": 40,
   "vehicles": [
     {
-      "id": "79722589",
-      "name": "Audi Q5 2.0 TDI 2022 NAVI KAMERA",
-      "url": "https://hhauto.olx.ba/artikal/79722589",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/79722589/sm/img-1791285675-f8fd14879676.jpg",
+      "id": "79848762",
+      "name": "Volkswagen Golf 1.6 TDI 2015 LOUNGE REG. 05/27",
+      "url": "https://hhauto.olx.ba/artikal/79848762",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/79848762/sm/img-1790346771-e227096da255.jpeg",
       "condition": "Polovno",
       "fuel": "dizel",
-      "km": "227.000 km",
-      "year": "2022",
-      "price": "49.999 KM",
-      "originalPrice": "52.999 KM",
+      "km": "348.100 km",
+      "year": "2015",
+      "price": "15.500 KM",
+      "originalPrice": "",
       "updated": "",
       "labels": [
-        "Izdvojeno"
+        "Izdvojeno",
+        "Dostupno odmah"
       ]
     },
     {
@@ -37,6 +38,36 @@
       ]
     },
     {
+      "id": "80010603",
+      "name": "BENDA REDSTONE LUX 550 R2 V-TWIN 48 KS ATV",
+      "url": "https://hhauto.olx.ba/artikal/80010603",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/80010603/sm/img-1792690731-d917be3087e8.jpg",
+      "condition": "Polovno",
+      "fuel": "",
+      "km": "",
+      "year": "",
+      "price": "15.900 KM",
+      "originalPrice": "",
+      "updated": "",
+      "labels": [
+        "Dostupno odmah"
+      ]
+    },
+    {
+      "id": "79722589",
+      "name": "Audi Q5 2.0 TDI 2022 NAVI KAMERA",
+      "url": "https://hhauto.olx.ba/artikal/79722589",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/79722589/sm/img-1791285675-f8fd14879676.jpg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "227.000 km",
+      "year": "2022",
+      "price": "49.999 KM",
+      "originalPrice": "52.999 KM",
+      "updated": "",
+      "labels": []
+    },
+    {
       "id": "80563680",
       "name": "Peugeot 508 Active BLUEHDI 2020 TOP STANJE",
       "url": "https://hhauto.olx.ba/artikal/80563680",
@@ -49,7 +80,6 @@
       "originalPrice": "32.999 KM",
       "updated": "",
       "labels": [
-        "Izdvojeno",
         "Dostupno odmah"
       ]
     },
@@ -377,22 +407,6 @@
       "km": "104.115 km",
       "year": "2020",
       "price": "129.000 KM",
-      "originalPrice": "",
-      "updated": "",
-      "labels": [
-        "Dostupno odmah"
-      ]
-    },
-    {
-      "id": "79848762",
-      "name": "Volkswagen Golf 1.6 TDI 2015 LOUNGE REG. 05/27",
-      "url": "https://hhauto.olx.ba/artikal/79848762",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/79848762/sm/img-1790346771-e227096da255.jpeg",
-      "condition": "Polovno",
-      "fuel": "dizel",
-      "km": "348.100 km",
-      "year": "2015",
-      "price": "16.500 KM",
       "originalPrice": "",
       "updated": "",
       "labels": [

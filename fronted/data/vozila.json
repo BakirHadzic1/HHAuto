@@ -1,6 +1,6 @@
 {
   "source": "https://hhauto.olx.ba/aktivni",
-  "updatedAt": "2026-11-03T12:34:45.817063+00:00",
+  "updatedAt": "2026-11-04T12:44:40.237346+00:00",
   "count": 40,
   "vehicles": [
     {
@@ -86,23 +86,6 @@
       ]
     },
     {
-      "id": "79848762",
-      "name": "Volkswagen Golf 1.6 TDI 2015 LOUNGE REG. 05/27",
-      "url": "https://hhauto.olx.ba/artikal/79848762",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/79848762/sm/img-1790346771-e227096da255.jpeg",
-      "condition": "Polovno",
-      "fuel": "dizel",
-      "km": "348.100 km",
-      "year": "2015",
-      "price": "15.500 KM",
-      "originalPrice": "",
-      "updated": "",
-      "labels": [
-        "Izdvojeno",
-        "Dostupno odmah"
-      ]
-    },
-    {
       "id": "80563680",
       "name": "Peugeot 508 Active BLUEHDI 48.314 km",
       "url": "https://hhauto.olx.ba/artikal/80563680",
@@ -120,15 +103,15 @@
       ]
     },
     {
-      "id": "73311395",
-      "name": "Audi Q2 QUATTRO 2.0 TDI 140 KW UVOZ DE GARANCIJA REG 2/2027",
-      "url": "https://hhauto.olx.ba/artikal/73311395",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/73311395/sm/img-1767122198-4c08e6604e25.jpg",
+      "id": "79848762",
+      "name": "Volkswagen Golf 1.6 TDI 2015 LOUNGE REG. 05/27",
+      "url": "https://hhauto.olx.ba/artikal/79848762",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/79848762/sm/img-1790346771-e227096da255.jpeg",
       "condition": "Polovno",
       "fuel": "dizel",
-      "km": "130.623 km",
-      "year": "2017",
-      "price": "39.999 KM",
+      "km": "348.100 km",
+      "year": "2015",
+      "price": "15.500 KM",
       "originalPrice": "",
       "updated": "",
       "labels": [
@@ -145,6 +128,38 @@
       "km": "296.356 km",
       "year": "2012",
       "price": "32.999 KM",
+      "originalPrice": "",
+      "updated": "",
+      "labels": [
+        "Dostupno odmah"
+      ]
+    },
+    {
+      "id": "73428000",
+      "name": "Audi A4 2.0 TDI 110 KW 2015 AUTOMATIK",
+      "url": "https://hhauto.olx.ba/artikal/73428000",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/73428000/sm/img-1780510584-803c1454824c.jpg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "258.000 km",
+      "year": "2015",
+      "price": "17.999 KM",
+      "originalPrice": "",
+      "updated": "",
+      "labels": [
+        "Dostupno odmah"
+      ]
+    },
+    {
+      "id": "73311395",
+      "name": "Audi Q2 QUATTRO 2.0 TDI 140 KW UVOZ DE GARANCIJA REG 2/2027",
+      "url": "https://hhauto.olx.ba/artikal/73311395",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/73311395/sm/img-1767122198-4c08e6604e25.jpg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "130.623 km",
+      "year": "2017",
+      "price": "39.999 KM",
       "originalPrice": "",
       "updated": "",
       "labels": [
@@ -297,33 +312,17 @@
     },
     {
       "id": "79722589",
-      "name": "Audi Q5 2.0 TDI 2022 NAVI KAMERA",
+      "name": "Audi Q5 2.0 TDI 2022 NAVI KAMERA Servisirano",
       "url": "https://hhauto.olx.ba/artikal/79722589",
       "image": "https://d4n0y8dshd77z.cloudfront.net/listings/79722589/sm/img-1791285675-f8fd14879676.jpg",
       "condition": "Polovno",
       "fuel": "dizel",
       "km": "227.000 km",
       "year": "2022",
-      "price": "52.999 KM",
+      "price": "54.999 KM",
       "originalPrice": "",
       "updated": "",
       "labels": []
-    },
-    {
-      "id": "73428000",
-      "name": "Audi A4 2.0 TDI 110 KW 2015 AUTOMATIK",
-      "url": "https://hhauto.olx.ba/artikal/73428000",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/73428000/sm/img-1780510584-803c1454824c.jpg",
-      "condition": "Polovno",
-      "fuel": "dizel",
-      "km": "258.000 km",
-      "year": "2015",
-      "price": "17.999 KM",
-      "originalPrice": "",
-      "updated": "",
-      "labels": [
-        "Dostupno odmah"
-      ]
     },
     {
       "id": "72611190",
@@ -350,8 +349,8 @@
       "fuel": "dizel",
       "km": "182.078 km",
       "year": "2020",
-      "price": "17.999 KM",
-      "originalPrice": "18.999 KM",
+      "price": "18.999 KM",
+      "originalPrice": "",
       "updated": "",
       "labels": [
         "Dostupno odmah"
@@ -366,8 +365,8 @@
       "fuel": "elektro",
       "km": "223.889 km",
       "year": "2015",
-      "price": "15.999 KM",
-      "originalPrice": "16.999 KM",
+      "price": "16.999 KM",
+      "originalPrice": "",
       "updated": "",
       "labels": [
         "Dostupno odmah"
@@ -446,8 +445,8 @@
       "fuel": "dizel",
       "km": "358.685 km",
       "year": "2013",
-      "price": "12.999 KM",
-      "originalPrice": "13.999 KM",
+      "price": "13.999 KM",
+      "originalPrice": "",
       "updated": "",
       "labels": [
         "Dostupno odmah"

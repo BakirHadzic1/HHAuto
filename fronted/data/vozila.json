@@ -1,7 +1,7 @@
 {
   "source": "https://hhauto.olx.ba/aktivni",
-  "updatedAt": "2026-11-05T12:54:20.473571+00:00",
-  "count": 39,
+  "updatedAt": "2026-11-06T12:40:52.894747+00:00",
+  "count": 40,
   "vehicles": [
     {
       "id": "80563680",
@@ -17,6 +17,22 @@
       "updated": "",
       "labels": [
         "Izdvojeno",
+        "Dostupno odmah"
+      ]
+    },
+    {
+      "id": "80958431",
+      "name": "Škoda Kodiaq 2.0 TDI 4X4 2022 UVOZ DE",
+      "url": "https://hhauto.olx.ba/artikal/80958431",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/80958431/sm/img-1793962100-61a0199d58bd.jpg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "93.523 km",
+      "year": "2022",
+      "price": "57.999 KM",
+      "originalPrice": "",
+      "updated": "",
+      "labels": [
         "Dostupno odmah"
       ]
     },
@@ -167,8 +183,8 @@
       "fuel": "dizel",
       "km": "250.757 km",
       "year": "2018",
-      "price": "17.500 KM",
-      "originalPrice": "18.500 KM",
+      "price": "18.500 KM",
+      "originalPrice": "",
       "updated": "",
       "labels": [
         "Dostupno odmah"
@@ -183,8 +199,8 @@
       "fuel": "dizel",
       "km": "216.196 km",
       "year": "2022",
-      "price": "28.999 KM",
-      "originalPrice": "30.999 KM",
+      "price": "30.999 KM",
+      "originalPrice": "",
       "updated": "",
       "labels": []
     },

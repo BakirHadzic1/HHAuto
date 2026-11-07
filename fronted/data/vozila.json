@@ -1,6 +1,6 @@
 {
   "source": "https://hhauto.olx.ba/aktivni",
-  "updatedAt": "2026-11-06T12:40:52.894747+00:00",
+  "updatedAt": "2026-11-07T11:27:32.335918+00:00",
   "count": 40,
   "vehicles": [
     {
@@ -12,11 +12,10 @@
       "fuel": "dizel",
       "km": "48.314 km",
       "year": "2019",
-      "price": "30.999 KM",
-      "originalPrice": "32.999 KM",
+      "price": "32.999 KM",
+      "originalPrice": "",
       "updated": "",
       "labels": [
-        "Izdvojeno",
         "Dostupno odmah"
       ]
     },

@@ -54,6 +54,66 @@ def extract_prices(block):
     return regular_price or "Na upit", ""
 
 
+def extract_listing_tag(block, class_name):
+    match = re.search(
+        rf'<(?P<tag>\w+)\b(?=[^>]*\bclass="[^"]*\b{re.escape(class_name)}\b[^"]*")[^>]*>.*?</(?P=tag)>',
+        block,
+        re.S | re.I,
+    )
+    return match.group(0) if match else ""
+
+
+def parse_current_listings(html):
+    blocks = re.findall(
+        r'(<article\b(?=[^>]*\bclass="[^"]*\blisting-card\b[^"]*")[^>]*>.*?</article>)',
+        html,
+        re.S | re.I,
+    )
+    vehicles = []
+    seen = set()
+
+    for block in blocks:
+        title_tag = extract_listing_tag(block, "listing-card__title-link")
+        image_tag = extract_listing_tag(block, "listing-media__link")
+        href = extract(r'\bhref="([^"]+)"', title_tag)
+        image = extract(r'<img\b[^>]*\bsrc="([^"]+)"', image_tag)
+        listing_id = extract(r'/listings/(\d+)/', image)
+
+        if not href or not listing_id or listing_id in seen:
+            continue
+
+        seen.add(listing_id)
+        price_block = extract_listing_tag(block, "listing-card__price")
+        price = extract(r'<strong\b[^>]*>(.*?)</strong>', price_block, "Na upit")
+        price = re.sub(r'^Akcijska cijena:\s*', '', price, flags=re.I) or "Na upit"
+        original_price = extract(r'<del\b[^>]*>(.*?)</del>', price_block)
+        card_text = clean_text(block)
+        labels = [
+            label
+            for label in ("Izdvojeno", "Dostupno odmah")
+            if label.lower() in card_text.lower()
+        ]
+
+        vehicles.append(
+            {
+                "id": listing_id,
+                "name": clean_text(title_tag),
+                "url": f"https://hhauto.olx.ba{href}",
+                "image": image,
+                "condition": "Novo" if re.search(r'\bnovo\b', clean_text(title_tag), re.I) else "Polovno",
+                "fuel": extract(r'<span\b[^>]*\btitle="Gorivo"[^>]*>(.*?)</span>', block),
+                "km": extract(r'<span\b[^>]*\btitle="Kilometraža"[^>]*>(.*?)</span>', block),
+                "year": extract(r'<span\b[^>]*\btitle="Godište"[^>]*>(.*?)</span>', block),
+                "price": price,
+                "originalPrice": original_price,
+                "updated": extract(r'<time\b[^>]*>(.*?)</time>', block),
+                "labels": labels,
+            }
+        )
+
+    return vehicles
+
+
 def fetch_url(url, headers):
     request = Request(
         url,
@@ -89,6 +149,10 @@ def fetch_reader_markdown():
 
 
 def parse_listings(html):
+    current_vehicles = parse_current_listings(html)
+    if current_vehicles:
+        return current_vehicles
+
     blocks = re.findall(
         r'(<a href="/artikal/\d+" class="rounded-5 wrap.*?</a>)',
         html,
@@ -217,14 +281,16 @@ def main():
         vehicles = load_vehicles()
     except (HTTPError, URLError, TimeoutError) as error:
         if OUTPUT_PATH.exists():
-            print(f"UPOZORENJE: OLX trenutno nije dostupan ({error}). Zadržavam postojeće podatke.")
-            return
+            raise SystemExit(
+                f"OLX trenutno nije dostupan ({error}). Postojeći podaci nisu promijenjeni."
+            ) from error
         raise SystemExit(f"Ne mogu dohvatiti OLX oglase: {error}") from error
 
     if not vehicles:
         if OUTPUT_PATH.exists():
-            print("UPOZORENJE: nije pronađen nijedan oglas. Zadržavam postojeće podatke.")
-            return
+            raise SystemExit(
+                "Nije pronađen nijedan aktivan OLX oglas. Postojeći podaci nisu promijenjeni."
+            )
         raise SystemExit("Nije pronađen nijedan aktivan OLX oglas.")
 
     payload = {

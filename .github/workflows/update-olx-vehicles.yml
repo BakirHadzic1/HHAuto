@@ -8,7 +8,8 @@ on:
       - "scripts/sync_olx.py"
       - ".github/workflows/update-olx-vehicles.yml"
   schedule:
-    - cron: "0 5 * * *"
+    # Izbjegavaj početak sata, kada GitHub najčešće odgađa scheduled workflowe.
+    - cron: "23 5 * * *"
   workflow_dispatch:
 
 permissions:

@@ -1,8 +1,42 @@
 {
   "source": "https://hhauto.olx.ba/aktivni",
-  "updatedAt": "2026-11-15T12:52:19.674899+00:00",
+  "updatedAt": "2026-11-16T13:51:36.721630+00:00",
   "count": 40,
   "vehicles": [
+    {
+      "id": "73428000",
+      "name": "Audi A4 2.0 TDI 110 KW 2015 AUTOMATIK",
+      "url": "https://hhauto.olx.ba/artikal/audi-a4-20-tdi-110-kw-2015-automatik-73428000",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/73428000/sm/img-1780510584-803c1454824c.jpg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "258.000 km",
+      "year": "2015",
+      "price": "16.999 KM",
+      "originalPrice": "",
+      "updated": "prije 42 min",
+      "labels": [
+        "Izdvojeno",
+        "Dostupno odmah"
+      ]
+    },
+    {
+      "id": "80563680",
+      "name": "Peugeot 508 Active BLUEHDI 48.314 km",
+      "url": "https://hhauto.olx.ba/artikal/peugeot-508-active-bluehdi-48314-km-80563680",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/80563680/sm/img-1793030112-f0d2790a5533.jpg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "48.314 km",
+      "year": "2019",
+      "price": "29.999 KM",
+      "originalPrice": "32.999 KM",
+      "updated": "prije 42 min",
+      "labels": [
+        "Izdvojeno",
+        "Dostupno odmah"
+      ]
+    },
     {
       "id": "75744316",
       "name": "BMW X6 M50d 12/2020 REGISTROVAN 11/2027",
@@ -14,7 +48,7 @@
       "year": "2020",
       "price": "129.000 KM",
       "originalPrice": "",
-      "updated": "prije 1 h",
+      "updated": "prije 2 h",
       "labels": [
         "Izdvojeno",
         "Dostupno odmah"
@@ -38,22 +72,6 @@
       ]
     },
     {
-      "id": "73428000",
-      "name": "Audi A4 2.0 TDI 110 KW 2015 AUTOMATIK",
-      "url": "https://hhauto.olx.ba/artikal/audi-a4-20-tdi-110-kw-2015-automatik-73428000",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/73428000/sm/img-1780510584-803c1454824c.jpg",
-      "condition": "Polovno",
-      "fuel": "dizel",
-      "km": "258.000 km",
-      "year": "2015",
-      "price": "16.999 KM",
-      "originalPrice": "17.999 KM",
-      "updated": "prije 4 h",
-      "labels": [
-        "Dostupno odmah"
-      ]
-    },
-    {
       "id": "74971013",
       "name": "Ford Focus 1.5 TDCI 2020 UVOZ",
       "url": "https://hhauto.olx.ba/artikal/ford-focus-15-tdci-2020-uvoz-74971013",
@@ -64,7 +82,7 @@
       "year": "2020",
       "price": "18.999 KM",
       "originalPrice": "",
-      "updated": "prije 14 h",
+      "updated": "Jučer",
       "labels": [
         "Dostupno odmah"
       ]
@@ -78,9 +96,9 @@
       "fuel": "dizel",
       "km": "267.787 km",
       "year": "2013",
-      "price": "9.999 KM",
-      "originalPrice": "10.999 KM",
-      "updated": "prije 14 h",
+      "price": "10.999 KM",
+      "originalPrice": "",
+      "updated": "Jučer",
       "labels": []
     },
     {
@@ -92,25 +110,9 @@
       "fuel": "dizel",
       "km": "298.014 km",
       "year": "2015",
-      "price": "56.999 KM",
-      "originalPrice": "59.999 KM",
-      "updated": "prije 14 h",
-      "labels": [
-        "Dostupno odmah"
-      ]
-    },
-    {
-      "id": "80563680",
-      "name": "Peugeot 508 Active BLUEHDI 48.314 km",
-      "url": "https://hhauto.olx.ba/artikal/peugeot-508-active-bluehdi-48314-km-80563680",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/80563680/sm/img-1793030112-f0d2790a5533.jpg",
-      "condition": "Polovno",
-      "fuel": "dizel",
-      "km": "48.314 km",
-      "year": "2019",
-      "price": "32.999 KM",
+      "price": "59.999 KM",
       "originalPrice": "",
-      "updated": "prije 19 h",
+      "updated": "Jučer",
       "labels": [
         "Dostupno odmah"
       ]
@@ -126,7 +128,7 @@
       "year": "2013",
       "price": "11.900 KM",
       "originalPrice": "",
-      "updated": "prije 22 h",
+      "updated": "Jučer",
       "labels": [
         "Dostupno odmah"
       ]
@@ -142,7 +144,7 @@
       "year": "2020",
       "price": "69.999 KM",
       "originalPrice": "",
-      "updated": "Jučer",
+      "updated": "prije 2 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -158,7 +160,7 @@
       "year": "2018",
       "price": "32.999 KM",
       "originalPrice": "",
-      "updated": "Jučer",
+      "updated": "prije 2 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -174,7 +176,7 @@
       "year": "2018",
       "price": "45.999 KM",
       "originalPrice": "",
-      "updated": "prije 2 dana",
+      "updated": "prije 3 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -190,7 +192,7 @@
       "year": "2026",
       "price": "20.500 KM",
       "originalPrice": "",
-      "updated": "prije 2 dana",
+      "updated": "prije 3 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -206,7 +208,7 @@
       "year": "2015",
       "price": "16.999 KM",
       "originalPrice": "",
-      "updated": "prije 2 dana",
+      "updated": "prije 3 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -222,7 +224,7 @@
       "year": "2026",
       "price": "15.900 KM",
       "originalPrice": "",
-      "updated": "prije 2 dana",
+      "updated": "prije 3 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -238,7 +240,7 @@
       "year": "2026",
       "price": "15.900 KM",
       "originalPrice": "",
-      "updated": "prije 3 dana",
+      "updated": "prije 4 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -254,7 +256,7 @@
       "year": "2011",
       "price": "8.750 KM",
       "originalPrice": "",
-      "updated": "prije 3 dana",
+      "updated": "prije 4 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -270,7 +272,7 @@
       "year": "2010",
       "price": "Na upit",
       "originalPrice": "",
-      "updated": "prije 3 dana",
+      "updated": "prije 4 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -286,7 +288,7 @@
       "year": "2014",
       "price": "12.999 KM",
       "originalPrice": "",
-      "updated": "prije 4 dana",
+      "updated": "prije 5 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -302,7 +304,7 @@
       "year": "2019",
       "price": "15.999 KM",
       "originalPrice": "",
-      "updated": "prije 4 dana",
+      "updated": "prije 5 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -318,7 +320,7 @@
       "year": "2011",
       "price": "7.999 KM",
       "originalPrice": "",
-      "updated": "prije 4 dana",
+      "updated": "prije 5 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -334,7 +336,7 @@
       "year": "2013",
       "price": "13.999 KM",
       "originalPrice": "",
-      "updated": "prije 5 dana",
+      "updated": "prije 6 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -350,7 +352,7 @@
       "year": "2020",
       "price": "34.900 KM",
       "originalPrice": "",
-      "updated": "prije 5 dana",
+      "updated": "prije 6 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -366,7 +368,7 @@
       "year": "2018",
       "price": "18.500 KM",
       "originalPrice": "",
-      "updated": "prije 5 dana",
+      "updated": "prije 6 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -382,7 +384,7 @@
       "year": "2019",
       "price": "19.999 KM",
       "originalPrice": "",
-      "updated": "prije 5 dana",
+      "updated": "prije 6 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -398,7 +400,7 @@
       "year": "2009",
       "price": "6.599 KM",
       "originalPrice": "",
-      "updated": "prije 5 dana",
+      "updated": "prije 6 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -414,7 +416,7 @@
       "year": "2012",
       "price": "6.999 KM",
       "originalPrice": "",
-      "updated": "prije 6 dana",
+      "updated": "prije 7 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -430,7 +432,7 @@
       "year": "2015",
       "price": "17.500 KM",
       "originalPrice": "",
-      "updated": "prije 7 dana",
+      "updated": "prije 8 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -446,7 +448,7 @@
       "year": "2022",
       "price": "57.999 KM",
       "originalPrice": "",
-      "updated": "prije 9 dana",
+      "updated": "prije 10 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -462,7 +464,7 @@
       "year": "2011",
       "price": "6.999 KM",
       "originalPrice": "",
-      "updated": "prije 10 dana",
+      "updated": "prije 11 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -478,7 +480,7 @@
       "year": "2011",
       "price": "6.900 KM",
       "originalPrice": "",
-      "updated": "prije 10 dana",
+      "updated": "prije 11 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -494,7 +496,7 @@
       "year": "2010",
       "price": "6.900 KM",
       "originalPrice": "",
-      "updated": "prije 10 dana",
+      "updated": "prije 11 dana",
       "labels": []
     },
     {
@@ -508,7 +510,7 @@
       "year": "2016",
       "price": "69.999 KM",
       "originalPrice": "",
-      "updated": "prije 10 dana",
+      "updated": "prije 11 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -524,7 +526,7 @@
       "year": "2013",
       "price": "5.999 KM",
       "originalPrice": "",
-      "updated": "prije 10 dana",
+      "updated": "prije 11 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -540,7 +542,7 @@
       "year": "2022",
       "price": "30.999 KM",
       "originalPrice": "",
-      "updated": "prije 10 dana",
+      "updated": "prije 11 dana",
       "labels": []
     },
     {
@@ -554,7 +556,7 @@
       "year": "2012",
       "price": "32.999 KM",
       "originalPrice": "",
-      "updated": "prije 11 dana",
+      "updated": "prije 12 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -570,7 +572,7 @@
       "year": "2014",
       "price": "34.999 KM",
       "originalPrice": "",
-      "updated": "prije 12 dana",
+      "updated": "prije 13 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -586,7 +588,7 @@
       "year": "2014",
       "price": "7.900 KM",
       "originalPrice": "",
-      "updated": "prije 12 dana",
+      "updated": "prije 13 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -602,7 +604,7 @@
       "year": "2012",
       "price": "9.999 KM",
       "originalPrice": "",
-      "updated": "prije 18 dana",
+      "updated": "prije 19 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -618,7 +620,7 @@
       "year": "2014",
       "price": "16.999 KM",
       "originalPrice": "",
-      "updated": "prije 21 dana",
+      "updated": "prije 22 dana",
       "labels": [
         "Dostupno odmah"
       ]

@@ -1,8 +1,182 @@
 {
   "source": "https://hhauto.olx.ba/aktivni",
-  "updatedAt": "2026-11-20T14:12:22.876373+00:00",
+  "updatedAt": "2026-11-21T13:36:44.085540+00:00",
   "count": 40,
   "vehicles": [
+    {
+      "id": "69005786",
+      "name": "Mercedes-Benz Vito 3.0 CDI 2012 7+1 AUTOMATIK REG. 06/27",
+      "url": "https://hhauto.olx.ba/artikal/mercedes-benz-vito-30-cdi-2012-71-automatik-reg-0627-69005786",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/69005786/sm/img-1750960178-fca9a1139bdb.jpg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "296.356 km",
+      "year": "2012",
+      "price": "32.999 KM",
+      "originalPrice": "",
+      "updated": "prije 14 h",
+      "labels": [
+        "Dostupno odmah"
+      ]
+    },
+    {
+      "id": "76046136",
+      "name": "Peugeot 308 1.2 Benzin 96 kw 2019 UVOZ",
+      "url": "https://hhauto.olx.ba/artikal/peugeot-308-12-benzin-96-kw-2019-uvoz-76046136",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/76046136/sm/img-1776946978-c4e7f40f2165.jpg",
+      "condition": "Polovno",
+      "fuel": "benzin",
+      "km": "171.068 km",
+      "year": "2019",
+      "price": "15.999 KM",
+      "originalPrice": "",
+      "updated": "prije 14 h",
+      "labels": [
+        "Dostupno odmah"
+      ]
+    },
+    {
+      "id": "74333901",
+      "name": "Volkswagen Polo 1.2 TDI",
+      "url": "https://hhauto.olx.ba/artikal/volkswagen-polo-12-tdi-74333901",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/74333901/sm/img-1782576537-01a13f29e706.jpg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "200.000 km",
+      "year": "2010",
+      "price": "Na upit",
+      "originalPrice": "",
+      "updated": "prije 14 h",
+      "labels": [
+        "Dostupno odmah"
+      ]
+    },
+    {
+      "id": "76076748",
+      "name": "Škoda Fabia 1.2 TDI 2011 UVOZ NL",
+      "url": "https://hhauto.olx.ba/artikal/skoda-fabia-12-tdi-2011-uvoz-nl-76076748",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/76076748/sm/img-1777040765-bd0b4f0ec3af.jpg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "239.564 km",
+      "year": "2011",
+      "price": "8.750 KM",
+      "originalPrice": "",
+      "updated": "prije 14 h",
+      "labels": [
+        "Dostupno odmah"
+      ]
+    },
+    {
+      "id": "80119898",
+      "name": "BENDA REDSTONE LUX 550 R2 V-TWIN 48 KS BIJELA",
+      "url": "https://hhauto.olx.ba/artikal/benda-redstone-lux-550-r2-v-twin-48-ks-bijela-80119898",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/80119898/sm/img-1791308592-70419db86c25.jpeg",
+      "condition": "Polovno",
+      "fuel": "",
+      "km": "",
+      "year": "2026",
+      "price": "15.900 KM",
+      "originalPrice": "",
+      "updated": "prije 14 h",
+      "labels": [
+        "Dostupno odmah"
+      ]
+    },
+    {
+      "id": "68411495",
+      "name": "Audi A6 50 TDI 2020 QUATTRO VIRTUAL 360 REG. 05/2027",
+      "url": "https://hhauto.olx.ba/artikal/audi-a6-50-tdi-2020-quattro-virtual-360-reg-052027-68411495",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/68411495/sm/img-1748244032-7abc89f9df4c.jpg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "102.105 km",
+      "year": "2020",
+      "price": "69.999 KM",
+      "originalPrice": "",
+      "updated": "prije 14 h",
+      "labels": [
+        "Dostupno odmah"
+      ]
+    },
+    {
+      "id": "81106131",
+      "name": "Škoda Karoq 2.0 TDI 4X4 UVOZ DE",
+      "url": "https://hhauto.olx.ba/artikal/skoda-karoq-20-tdi-4x4-uvoz-de-81106131",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/81106131/sm/img-1794413822-478793fa1628.jpg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "222.463 km",
+      "year": "2018",
+      "price": "32.999 KM",
+      "originalPrice": "",
+      "updated": "prije 14 h",
+      "labels": [
+        "Dostupno odmah"
+      ]
+    },
+    {
+      "id": "77555741",
+      "name": "Volkswagen e-Golf 2015 UVOZ NL",
+      "url": "https://hhauto.olx.ba/artikal/volkswagen-e-golf-2015-uvoz-nl-77555741",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/77555741/sm/img-1782155763-2321c81a912b.jpg",
+      "condition": "Polovno",
+      "fuel": "elektro",
+      "km": "223.889 km",
+      "year": "2015",
+      "price": "16.999 KM",
+      "originalPrice": "",
+      "updated": "prije 14 h",
+      "labels": [
+        "Dostupno odmah"
+      ]
+    },
+    {
+      "id": "80010603",
+      "name": "BENDA REDSTONE LUX 550 R2 V-TWIN 48 KS ATV",
+      "url": "https://hhauto.olx.ba/artikal/benda-redstone-lux-550-r2-v-twin-48-ks-atv-80010603",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/80010603/sm/img-1792690731-d917be3087e8.jpg",
+      "condition": "Polovno",
+      "fuel": "",
+      "km": "",
+      "year": "2026",
+      "price": "15.900 KM",
+      "originalPrice": "",
+      "updated": "prije 14 h",
+      "labels": [
+        "Dostupno odmah"
+      ]
+    },
+    {
+      "id": "79965407",
+      "name": "Kia cee'd / Ceed 1.6 CRDI 2014 Automatik REG 5/2027",
+      "url": "https://hhauto.olx.ba/artikal/kia-ceed-ceed-16-crdi-2014-automatik-reg-52027-79965407",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/79965407/sm/img-1790773402-6d6db4ebda6e.jpg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "244.917 km",
+      "year": "2014",
+      "price": "12.999 KM",
+      "originalPrice": "",
+      "updated": "prije 14 h",
+      "labels": [
+        "Dostupno odmah"
+      ]
+    },
+    {
+      "id": "79722545",
+      "name": "Škoda Octavia 2.0 TDI DSG 12/2022 UVOZ",
+      "url": "https://hhauto.olx.ba/artikal/skoda-octavia-20-tdi-dsg-122022-uvoz-79722545",
+      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/79722545/sm/img-1790868064-3d7e199e424d.jpeg",
+      "condition": "Polovno",
+      "fuel": "dizel",
+      "km": "216.196 km",
+      "year": "2022",
+      "price": "30.999 KM",
+      "originalPrice": "",
+      "updated": "prije 14 h",
+      "labels": []
+    },
     {
       "id": "76828625",
       "name": "Škoda Fabia 1.2 TDI 2013 UVOZ",
@@ -14,7 +188,7 @@
       "year": "2013",
       "price": "5.999 KM",
       "originalPrice": "",
-      "updated": "prije 7 h",
+      "updated": "Jučer",
       "labels": [
         "Dostupno odmah"
       ]
@@ -30,7 +204,7 @@
       "year": "2014",
       "price": "7.900 KM",
       "originalPrice": "",
-      "updated": "prije 7 h",
+      "updated": "Jučer",
       "labels": [
         "Dostupno odmah"
       ]
@@ -46,7 +220,7 @@
       "year": "2009",
       "price": "6.599 KM",
       "originalPrice": "",
-      "updated": "prije 7 h",
+      "updated": "Jučer",
       "labels": [
         "Dostupno odmah"
       ]
@@ -62,7 +236,7 @@
       "year": "2012",
       "price": "12.500 KM",
       "originalPrice": "",
-      "updated": "Jučer",
+      "updated": "prije 2 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -78,7 +252,7 @@
       "year": "2026",
       "price": "20.500 KM",
       "originalPrice": "",
-      "updated": "Jučer",
+      "updated": "prije 2 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -94,7 +268,7 @@
       "year": "2015",
       "price": "16.999 KM",
       "originalPrice": "",
-      "updated": "prije 2 dana",
+      "updated": "prije 3 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -110,7 +284,7 @@
       "year": "2019",
       "price": "32.999 KM",
       "originalPrice": "",
-      "updated": "prije 2 dana",
+      "updated": "prije 3 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -126,7 +300,7 @@
       "year": "2011",
       "price": "6.999 KM",
       "originalPrice": "",
-      "updated": "prije 2 dana",
+      "updated": "prije 3 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -142,7 +316,7 @@
       "year": "2014",
       "price": "16.999 KM",
       "originalPrice": "",
-      "updated": "prije 2 dana",
+      "updated": "prije 3 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -158,7 +332,7 @@
       "year": "2012",
       "price": "9.999 KM",
       "originalPrice": "",
-      "updated": "prije 2 dana",
+      "updated": "prije 3 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -174,7 +348,7 @@
       "year": "2016",
       "price": "69.999 KM",
       "originalPrice": "",
-      "updated": "prije 2 dana",
+      "updated": "prije 3 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -190,7 +364,7 @@
       "year": "2010",
       "price": "6.900 KM",
       "originalPrice": "",
-      "updated": "prije 2 dana",
+      "updated": "prije 3 dana",
       "labels": []
     },
     {
@@ -204,7 +378,7 @@
       "year": "2015",
       "price": "17.500 KM",
       "originalPrice": "",
-      "updated": "prije 2 dana",
+      "updated": "prije 3 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -220,7 +394,7 @@
       "year": "2019",
       "price": "19.999 KM",
       "originalPrice": "",
-      "updated": "prije 2 dana",
+      "updated": "prije 3 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -236,7 +410,7 @@
       "year": "2020",
       "price": "34.900 KM",
       "originalPrice": "",
-      "updated": "prije 2 dana",
+      "updated": "prije 3 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -252,7 +426,7 @@
       "year": "2011",
       "price": "7.999 KM",
       "originalPrice": "",
-      "updated": "prije 2 dana",
+      "updated": "prije 3 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -268,7 +442,7 @@
       "year": "2013",
       "price": "13.999 KM",
       "originalPrice": "",
-      "updated": "prije 2 dana",
+      "updated": "prije 3 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -284,7 +458,7 @@
       "year": "2018",
       "price": "18.500 KM",
       "originalPrice": "",
-      "updated": "prije 2 dana",
+      "updated": "prije 3 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -300,7 +474,7 @@
       "year": "2012",
       "price": "6.999 KM",
       "originalPrice": "",
-      "updated": "prije 2 dana",
+      "updated": "prije 3 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -316,7 +490,7 @@
       "year": "2022",
       "price": "57.999 KM",
       "originalPrice": "",
-      "updated": "prije 2 dana",
+      "updated": "prije 3 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -332,7 +506,7 @@
       "year": "2011",
       "price": "6.900 KM",
       "originalPrice": "",
-      "updated": "prije 2 dana",
+      "updated": "prije 3 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -348,7 +522,7 @@
       "year": "2014",
       "price": "34.999 KM",
       "originalPrice": "",
-      "updated": "prije 2 dana",
+      "updated": "prije 3 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -364,7 +538,7 @@
       "year": "2020",
       "price": "129.000 KM",
       "originalPrice": "",
-      "updated": "prije 3 dana",
+      "updated": "prije 4 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -396,7 +570,7 @@
       "year": "2020",
       "price": "18.999 KM",
       "originalPrice": "",
-      "updated": "prije 5 dana",
+      "updated": "prije 6 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -412,7 +586,7 @@
       "year": "2013",
       "price": "10.999 KM",
       "originalPrice": "",
-      "updated": "prije 5 dana",
+      "updated": "prije 6 dana",
       "labels": []
     },
     {
@@ -426,7 +600,7 @@
       "year": "2015",
       "price": "59.999 KM",
       "originalPrice": "",
-      "updated": "prije 5 dana",
+      "updated": "prije 6 dana",
       "labels": [
         "Dostupno odmah"
       ]
@@ -448,38 +622,6 @@
       ]
     },
     {
-      "id": "68411495",
-      "name": "Audi A6 50 TDI 2020 QUATTRO VIRTUAL 360 REG. 05/2027",
-      "url": "https://hhauto.olx.ba/artikal/audi-a6-50-tdi-2020-quattro-virtual-360-reg-052027-68411495",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/68411495/sm/img-1748244032-7abc89f9df4c.jpg",
-      "condition": "Polovno",
-      "fuel": "dizel",
-      "km": "102.105 km",
-      "year": "2020",
-      "price": "69.999 KM",
-      "originalPrice": "",
-      "updated": "prije 6 dana",
-      "labels": [
-        "Dostupno odmah"
-      ]
-    },
-    {
-      "id": "81106131",
-      "name": "Škoda Karoq 2.0 TDI 4X4 UVOZ DE",
-      "url": "https://hhauto.olx.ba/artikal/skoda-karoq-20-tdi-4x4-uvoz-de-81106131",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/81106131/sm/img-1794413822-478793fa1628.jpg",
-      "condition": "Polovno",
-      "fuel": "dizel",
-      "km": "222.463 km",
-      "year": "2018",
-      "price": "32.999 KM",
-      "originalPrice": "",
-      "updated": "prije 6 dana",
-      "labels": [
-        "Dostupno odmah"
-      ]
-    },
-    {
       "id": "80483175",
       "name": "Mercedes-Benz A 180 INFO 061 696 704",
       "url": "https://hhauto.olx.ba/artikal/mercedes-benz-a-180-info-061-696-704-80483175",
@@ -490,149 +632,7 @@
       "year": "2018",
       "price": "45.999 KM",
       "originalPrice": "",
-      "updated": "prije 7 dana",
-      "labels": [
-        "Dostupno odmah"
-      ]
-    },
-    {
-      "id": "77555741",
-      "name": "Volkswagen e-Golf 2015 UVOZ NL",
-      "url": "https://hhauto.olx.ba/artikal/volkswagen-e-golf-2015-uvoz-nl-77555741",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/77555741/sm/img-1782155763-2321c81a912b.jpg",
-      "condition": "Polovno",
-      "fuel": "elektro",
-      "km": "223.889 km",
-      "year": "2015",
-      "price": "16.999 KM",
-      "originalPrice": "",
-      "updated": "prije 7 dana",
-      "labels": [
-        "Dostupno odmah"
-      ]
-    },
-    {
-      "id": "80119898",
-      "name": "BENDA REDSTONE LUX 550 R2 V-TWIN 48 KS BIJELA",
-      "url": "https://hhauto.olx.ba/artikal/benda-redstone-lux-550-r2-v-twin-48-ks-bijela-80119898",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/80119898/sm/img-1791308592-70419db86c25.jpeg",
-      "condition": "Polovno",
-      "fuel": "",
-      "km": "",
-      "year": "2026",
-      "price": "15.900 KM",
-      "originalPrice": "",
-      "updated": "prije 7 dana",
-      "labels": [
-        "Dostupno odmah"
-      ]
-    },
-    {
-      "id": "80010603",
-      "name": "BENDA REDSTONE LUX 550 R2 V-TWIN 48 KS ATV",
-      "url": "https://hhauto.olx.ba/artikal/benda-redstone-lux-550-r2-v-twin-48-ks-atv-80010603",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/80010603/sm/img-1792690731-d917be3087e8.jpg",
-      "condition": "Polovno",
-      "fuel": "",
-      "km": "",
-      "year": "2026",
-      "price": "15.900 KM",
-      "originalPrice": "",
       "updated": "prije 8 dana",
-      "labels": [
-        "Dostupno odmah"
-      ]
-    },
-    {
-      "id": "76076748",
-      "name": "Škoda Fabia 1.2 TDI 2011 UVOZ NL",
-      "url": "https://hhauto.olx.ba/artikal/skoda-fabia-12-tdi-2011-uvoz-nl-76076748",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/76076748/sm/img-1777040765-bd0b4f0ec3af.jpg",
-      "condition": "Polovno",
-      "fuel": "dizel",
-      "km": "239.564 km",
-      "year": "2011",
-      "price": "8.750 KM",
-      "originalPrice": "",
-      "updated": "prije 8 dana",
-      "labels": [
-        "Dostupno odmah"
-      ]
-    },
-    {
-      "id": "74333901",
-      "name": "Volkswagen Polo 1.2 TDI",
-      "url": "https://hhauto.olx.ba/artikal/volkswagen-polo-12-tdi-74333901",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/74333901/sm/img-1782576537-01a13f29e706.jpg",
-      "condition": "Polovno",
-      "fuel": "dizel",
-      "km": "200.000 km",
-      "year": "2010",
-      "price": "Na upit",
-      "originalPrice": "",
-      "updated": "prije 8 dana",
-      "labels": [
-        "Dostupno odmah"
-      ]
-    },
-    {
-      "id": "79965407",
-      "name": "Kia cee'd / Ceed 1.6 CRDI 2014 Automatik REG 5/2027",
-      "url": "https://hhauto.olx.ba/artikal/kia-ceed-ceed-16-crdi-2014-automatik-reg-52027-79965407",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/79965407/sm/img-1790773402-6d6db4ebda6e.jpg",
-      "condition": "Polovno",
-      "fuel": "dizel",
-      "km": "244.917 km",
-      "year": "2014",
-      "price": "12.999 KM",
-      "originalPrice": "",
-      "updated": "prije 9 dana",
-      "labels": [
-        "Dostupno odmah"
-      ]
-    },
-    {
-      "id": "76046136",
-      "name": "Peugeot 308 1.2 Benzin 96 kw 2019 UVOZ",
-      "url": "https://hhauto.olx.ba/artikal/peugeot-308-12-benzin-96-kw-2019-uvoz-76046136",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/76046136/sm/img-1776946978-c4e7f40f2165.jpg",
-      "condition": "Polovno",
-      "fuel": "benzin",
-      "km": "171.068 km",
-      "year": "2019",
-      "price": "15.999 KM",
-      "originalPrice": "",
-      "updated": "prije 9 dana",
-      "labels": [
-        "Dostupno odmah"
-      ]
-    },
-    {
-      "id": "79722545",
-      "name": "Škoda Octavia 2.0 TDI DSG 12/2022 UVOZ",
-      "url": "https://hhauto.olx.ba/artikal/skoda-octavia-20-tdi-dsg-122022-uvoz-79722545",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/79722545/sm/img-1790868064-3d7e199e424d.jpeg",
-      "condition": "Polovno",
-      "fuel": "dizel",
-      "km": "216.196 km",
-      "year": "2022",
-      "price": "30.999 KM",
-      "originalPrice": "",
-      "updated": "prije 15 dana",
-      "labels": []
-    },
-    {
-      "id": "69005786",
-      "name": "Mercedes-Benz Vito 3.0 CDI 2012 7+1 AUTOMATIK REG. 06/27",
-      "url": "https://hhauto.olx.ba/artikal/mercedes-benz-vito-30-cdi-2012-71-automatik-reg-0627-69005786",
-      "image": "https://d4n0y8dshd77z.cloudfront.net/listings/69005786/sm/img-1750960178-fca9a1139bdb.jpg",
-      "condition": "Polovno",
-      "fuel": "dizel",
-      "km": "296.356 km",
-      "year": "2012",
-      "price": "32.999 KM",
-      "originalPrice": "",
-      "updated": "prije 16 dana",
       "labels": [
         "Dostupno odmah"
       ]
